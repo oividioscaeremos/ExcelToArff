@@ -159,7 +159,21 @@ var nounExceptDefinition = nounExcels
     .OrderBy(group => group.Key)
     .ToList();
 
+var verbAll = verbExcels
+    .SelectMany(excel => excel.ExcelLines.Select(line => new ExcelLine { Word = line.Word, Columns = line.Columns }))
+    .GroupBy(line => line.Word)
+    .OrderBy(group => group.Key)
+    .ToList();
+
+var nounAll = verbExcels
+    .SelectMany(excel => excel.ExcelLines.Select(line => new ExcelLine { Word = line.Word, Columns = line.Columns }))
+    .GroupBy(line => line.Word)
+    .OrderBy(group => group.Key)
+    .ToList();
+
 File.WriteAllText(@"D:\Okul\Yüksek Lisans\Natural Language Processing\Homework\02.1 Knowledge Extraction Results\results\verb_onlyDefinition.arff", ArffBuilder.BuildArff(verbDefinitionOnly, verbDefinitionOnly.SelectMany(val => val).SelectMany(line => line.Columns).DistinctBy(val => val.Name).ToList()));
 File.WriteAllText(@"D:\Okul\Yüksek Lisans\Natural Language Processing\Homework\02.1 Knowledge Extraction Results\results\noun_onlyDefinition.arff", ArffBuilder.BuildArff(nounDefinitionOnly, nounDefinitionOnly.SelectMany(val => val).SelectMany(line => line.Columns).DistinctBy(val => val.Name).ToList()));
 File.WriteAllText(@"D:\Okul\Yüksek Lisans\Natural Language Processing\Homework\02.1 Knowledge Extraction Results\results\verb_exceptDefinition.arff", ArffBuilder.BuildArff(verbExceptDefinition, verbExceptDefinition.SelectMany(val => val).SelectMany(line => line.Columns).DistinctBy(val => val.Name).ToList()));
 File.WriteAllText(@"D:\Okul\Yüksek Lisans\Natural Language Processing\Homework\02.1 Knowledge Extraction Results\results\noun_exceptDefinition.arff", ArffBuilder.BuildArff(nounExceptDefinition, nounExceptDefinition.SelectMany(val => val).SelectMany(line => line.Columns).DistinctBy(val => val.Name).ToList()));
+File.WriteAllText(@"D:\Okul\Yüksek Lisans\Natural Language Processing\Homework\02.1 Knowledge Extraction Results\results\verb_all.arff", ArffBuilder.BuildArff(verbAll, verbAll.SelectMany(val => val).SelectMany(line => line.Columns).DistinctBy(val => val.Name).ToList()));
+File.WriteAllText(@"D:\Okul\Yüksek Lisans\Natural Language Processing\Homework\02.1 Knowledge Extraction Results\results\noun_all.arff", ArffBuilder.BuildArff(nounAll, nounAll.SelectMany(val => val).SelectMany(line => line.Columns).DistinctBy(val => val.Name).ToList()));
