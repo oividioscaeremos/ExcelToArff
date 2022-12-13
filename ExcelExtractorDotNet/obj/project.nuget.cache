@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVF47DARSbVPISYEB3LS+EvRa9S0mGBdzu3yhQyEAxjh1GASDAb54ShZObh7wNRhpYsDhHFJ1KIJzIB64nZ4eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\ExcelExtractorDotNet\\ExcelExtractorDotNet\\ExcelExtractorDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
