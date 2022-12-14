@@ -1,0 +1,1870 @@
+@RELATION	text2arff
+
+@ATTRIBUTE	tanimi_nedir	STRING
+@ATTRIBUTE	class	{ag,agac,akbil,akordeon,akumulator,alci,altin,ambalaj,anahtar,antibiyotik,apartman,araba,arac,ari,arma,armut,arpa,artik,asansor,asetat,asfalt,asi,asit,aski,astar,atac,atki,atlet,atom,av,avize,ayak,ayakkabi,aygitlar,ayirac,ayna,azot,bacak,baharat,bakir,bakla,bal,balik,balsam,banknot,bant,banyo,barometre,baslik,basortusu,baston,batarya,benzin,beton,bez,biblo,bicak,bidon,bilet,bilgisayar,bina,bira,bisiklet,bluz,bor,bornoz,boru,boya,boynuz,brosur,bugday,buhar,bulasik,buldozer,bulgur,buro,burun,buz,buzdolabi,caki,cakmak,calgi,cam,camasir,canli,canta,catal,cati,cavdar,cay,cd,ceket,cekmece,cekyat,celik,cenaze,cep_telefonu,cephane,cerceve,cetvel,cevcere,ceviz,cicek,ciger,cihaz,cikartma,cikolata,cikrik,cila,cilt,cimento,cini,cinko,civa,civata,civi,cokelek,corap,cumle,cuval,daire,dal,damga,dantel,degirmen,demir,deniz,dergi,deri,deterjan,diken,dil,disci,dolap,domates,domuz,dugme,dunya,duvar,ecza,el,elbise,eldiven,elektrik,elektrik_anahtari,elektrik_sigortasi,elma,elmas,enzim,esarp,esya,et,etek,etiket,ev,fanila,fare,fayans,fermuar,fernuar,fici,fildisi,film,filtre,firin,fisek,fistik,florasan,fosil,fotograf,fotokopi,fren,gaz,gazete,gemi,giysi,gokdelen,gomlek,gomlem,goz,gozlem,gozluk,gubre,gumus,halat,halilar,hamur,harclar,harf,harita,hava,havlu,havuc,havuz,hayvan,heykel,hidrojen,hindistan,hoparlor,hormon,hortum,hucre,hurda,hurma,icecek,igne,ilac,inci,insaat,internet,ip,ipek,iplik,irmik,iskemle,islak_mendil,ispirto,izgara,jenerator,kablo,kabuk,kadife,kagit,kahve,kakao,kalay,kalem,kalemtras,kalorifer,kalp,kalsiyum,kamci,kamera,kamis,kamyon,kantar,kap,kapi,karabiber,karanfil,karbon,karin,karton,kartpostal,kartvizit,kase,kasik,katir,kaucuk,kavun,kayak,kayis,kazak,kazan,kece,keci,kemik,kepenk,kerpeten,kibrit,kil,kilit,kilot,kirec,kiremit,kitap,kitap_ayraci,klasor,klavye,klima,kol,kol_saati,koltuk,komur,kondansator,kornis,koyun,kravat,krom,kukurt,kul,kulak,kum,kumas,kumes,kurdelec,kure,kurk,kursun,kus,kutu,lahana,lamba,lastik,lavabo,lehim,lif,likor,lokomotif,losyon,macun,maden,magnezyum,makas,makine,mandal,manken,mantar,manto,margarin,marmelat,marul,masa,maske,mayo,mendil,merdane,mermer,mermi,metal,meyve,miknatis,mikrop,mikroskop,mineral,misir,mobilya,monitor,mont,motor,motorsiklet,mozaik,mum,murekkep,musamba,musluk,muz,muzik,nisasta,not_defteri,oda_spreyi,odun,oksijen,okuz,olta,omuz,org,orgu,ortu,ot,otobus,otomat,oyuncak,pacavra,palet,pamuk,pancar,pano,pantalon,pantolon,papyon,para,parasut,parfum,parke,parmak,parmaklik,patates,patlayici,pecete,pencere,perde,peruk,petrol,peynir,pijama,pil,pipo,pirasa,pirinc,piyano,plaka,plastik,pompa,porselen,poster,profil,projeksiyon,pudra,pul,puro,puro,,pusula,radar,radyo,raki,ray,recel,resim,rezistans,romork,saat,sabun,sac,sakal,sakatat,sakiz,salatalik,salgam,saman,sandalye,sapka,sarap,savas,sayac,sebze,sehpa,seker,sekerleme,seluloz,semsiye,sepet,seramik,serum,sicim,sigara,sira,sirke,sirt_cantasi,site,siva,siyanur,soba,sofben,sogan,somun,somya,sos,sosis,soya,sozcuk,sozluk,spor,su,su_isiticisi,sunger,supurge,surahi,susleme,sut,tabak,tabanca,tabela,tablo,tahil,tahta,takvim,talas,tank,tarak,tarcin,tas,tavuk,tayt,tebesir,tekne,tel,televizyon,telsiz,tencere,terazi,tereyagi,terlik,termometre,testere,testi,tirmik,tirnak,tohum,toka,toplanti_masasi,toprak,torba,tornavida,toz,traktor,tugla,tul,tup,tutun,tuval,tuy,tuz,tuzluk,un,uzaktan_kumanda,uzum,vagon,vanilya,varil,vazo,vernik,vida,video,vinc,vitamin,yag,yakit,yangin,yapi,yapistirici,yaprak,yastik,yatak,yay,yayin,yazici,yelek,yiyecek,yogurt,yol,yonca,yosun,yumurta,yun,yuzuk,zamk,zehir,zeytinyagi,zimba,zimpara,zincir}
+
+@DATA
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmadan kullanilan esya  oruntu",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"balik tutmak icin kullanilan bir nesne",ag
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"fidanin buyumus hali",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"ormanlarda bulunan buyuk bitki",agac
+"para yerine kullanilan bir nesne",akbil
+"toplu tasimadaki elektronik para",akbil
+"yolcu karti",akbil
+"toplu tasima karti",akbil
+"toplu tasima kullanmak icin kullanilan teknolojik bilet",akbil
+"muzik calmaya yarayan calgi",akordeon
+"armonika  tuslu muzik aleti",akordeon
+"muzik aleti",akordeon
+"ustunde dugmeler olan enstruman",akordeon
+"bir basmali calgi aleti",akordeon
+"elektrik depolayan cihaz",akumulator
+"elektrik deposu",akumulator
+"enerji kaynagi",akumulator
+"elektrik enerjisi depo eden cihaz",akumulator
+"araclara elektrik saglar",akumulator
+"Kirecten yapilan ve kuruyunca sertlesen madde",alci
+"kirecten uretilen baglayici yapi malzemesi",alci
+"yalitim",alci
+"bina cephelerinde kullanilan insaat malzemesi",alci
+"duvarlara boya oncesi surulen ara katman",alci
+"Kimyasal bir element",altin
+"degerli element",altin
+"degerli maden",altin
+"islenebilir maden",altin
+"degerli bir maden",altin
+"birseyi saklamak icin sarma",ambalaj
+"bir seylerin etrafini sarmak icin kullanilan malzeme",ambalaj
+"paket",ambalaj
+"esyalari sarmaya yarayan nesne",ambalaj
+"urunlerin bozulmasini engelleyen kaplama",ambalaj
+"kilitleme islemi payan nesne",anahtar
+"bir kilidi acmak icin kullanilan arac",anahtar
+"kapi acmaya yarayan",anahtar
+"kilit acacagi",anahtar
+"ev  araba veya cesitli kavrama izinsiz girilmesini engellemeyi hedefleyen nesne.",anahtar
+"Mikroplarla savasmaya yardimci ilac",antibiyotik
+"mikroplara karsi kullanilan ilac",antibiyotik
+"ilac",antibiyotik
+"bakteriyel hastalik karsi kullanilan ilac",antibiyotik
+"bakteriyal hastaliklarda tedavi amacli kullanilan ilac turu",antibiyotik
+"evlerin birlesiminden olusan kutle",apartman
+"dairelerden olusan yapi",apartman
+"icinde ev bulunan yasama alani",apartman
+"konuklanan yer",apartman
+"insanlarin yasadigi dikey yapilasma adi.",apartman
+"ulasim yapmayi kolaylastiran tekerlekli tasit",araba
+"tekerlekli tasit",araba
+"tasit",araba
+"insan tasima araci",araba
+"insanlarin bir noktadan bir noktaya ulasimda kullandigi dort tekerli motorlu tasit",araba
+"Yapilan isi kolaylastirmaya calisan alet",arac
+"bir isi yapmak icin yararlanilan nesne",arac
+"her turlu esya",arac
+"insan tasiyan tasitlarin genel adi",arac
+"bir isin yapilabilmesi surecini kolaylastirmayi hedefleyen nesnelerin genel adi",arac
+"bal yapabilen kanatli hayvan",ari
+"ignesi olan bal yapan bocek",ari
+"bal yapan hayvan",ari
+"polen tasiyan bocek",ari
+"bal yapan hayvan",ari
+"kurulusu simgeleyen tasarim",arma
+"simge",arma
+"simge",arma
+"uniforma ustunde bulunan simge",arma
+"kurum veya kuruluslara reklam kimligi kazandiran nesne.",arma
+"meyve cesitlerinden biri",armut
+"bir cesit meyve",armut
+"meyve",armut
+"agacta yetisen meyve",armut
+"bir yaz meyvesi",armut
+"tahil urunudur",arpa
+"bir cesit bitki",arpa
+"bitki",arpa
+"yem olarak kullanilan bir tahil",arpa
+"bir tur bakliyat",arpa
+"bir seyin kullanildiktan sonra ise yaramaz kismi",artik
+"kullanildiktan sonra arta kalan",artik
+"artan",artik
+"yemeklerden arta kalan",artik
+"bir seyin kullaniminin sonrasinda fazla gelen kisim.",artik
+"elektrik yardimiyla yuk ve esya tasiyan arac",asansor
+"insanlari yukari asagi tasiyan arac",asansor
+"asagi yukari giden arac",asansor
+"katlar arasinda gezinmeye yarayan makine",asansor
+"dikey yapilasmalarda katlar arasi gecisi saglayan alet",asansor
+"cozmek  seyreltmek",asetat
+"asetik asidin tuzu",asetat
+"cozucu",asetat
+"tepegoz sunumunda kullanilir",asetat
+"asetonun hammaddesi",asetat
+"yol yapiminda kullanilan madde",asfalt
+"yollarin ustunu kaplayan madde",asfalt
+"petrolden madde",asfalt
+"arabalarin uzerinde git yol",asfalt
+"motorlu veya motorsuz tasitlarin uzerinden yol aldigi alan",asfalt
+"ilaci vucuda entegre eden gerec",asi
+"bir mikroba bagisiklik kazandiran ilac",asi
+"hastliklardan korumaya yarayan",asi
+"hastaliklara karsi bagisiklik kazanmamizi saglayan sivi",asi
+"insan ve hayvanlari olumcul hastaliklardan koruyan bilimsel sivi",asi
+"yakici bir madde",asit
+"ph seviyesi 7 alti yakici madde",asit
+"bilesen",asit
+"asindirici ozelligi olan madde",asit
+"PH derecesi 7'den dusuk olan sivilar.",asit
+"giysi asma aleti",aski
+"bir seyleri tutturmaya yarayan alet",aski
+"asmaya yarayan alet",aski
+"giysileri asmakta kullanilan esya",aski
+"Bir nesnenin daha rahat saklanabilmesine olanak saglayan nesne.",aski
+"kiyafetlerin icine giyilen giysi",astar
+"kumasin ic tarafindaki ince kat",astar
+"kumas",astar
+"boyandan once yapilan ara kat",astar
+"Kiyafetlerde dis katmandan giyeni soyutlayan katman.",astar
+"kagitlari bir araya tutturmak",atac
+"kagitlari tutturmaya yarayan alet",atac
+"sayfalari tutturmaya yarayan",atac
+"kagitlari sabit durmasini saglayan alet",atac
+"kagitlari bir arada tutmaya yarayan alet.",atac
+"kis aylarinda disa giyilen giysi",atki
+"boyunluk",atki
+"boyna sarilan kumas",atki
+"kisin boyuna takilan ortu",atki
+"soguktan korunmak icin boyna takilan esya",atki
+"kis aylarinda ice giyilen giysi",atlet
+"iclik",atlet
+"atletizm yapan",atlet
+"ice giyilen giysi",atlet
+"soguktan korunmak icin kiyafet altina giyilen esya",atlet
+"maddenin en kucuk yapi tasi",atom
+"cesitli molekullerin parcaciklari",atom
+"en kucu yapi tasi",atom
+"maddenin en kucuk yapi tasi",atom
+"maddenin en kucuk yapitasi",atom
+"Evcil olmayan hayvanlari yakalamak ",av
+"vahsi hayvanlari yakalama",av
+"hayvan yakalama",av
+"yakalanip yenen hayvan",av
+"avcinin hedefi",av
+"tavana asilan suslu aydinlatma",avize
+"tavana asilan aydinlatma araci",avize
+"aydinlatma esyasi",avize
+"ampullerin konuldugu sus esyasi",avize
+"ampullerin gorsel olarak daha ic acici olmalarini saglamak icin gelistirilmis sus esyasi",avize
+"vuzcudumuzun yere basmaya yarayan bolmu",ayak
+"bazi canlilarda bacagin yere basan kismi",ayak
+"yere basmaya yarayan",ayak
+"bacagin son bolumu",ayak
+"yurumeye yarayan organ",ayak
+"Ayagi korumak icin yapilan esya",ayakkabi
+"ayaga giyilen malzeme",ayakkabi
+"ayaga giyilen",ayakkabi
+"ayagi koruyan giysi",ayakkabi
+"ayaklari cevresel etmenlerden koruyan esya",ayakkabi
+"birseyi yapmaya yarayan araclar",aygitlar
+"bircok parcadan yapilmis cihazlar",aygitlar
+"arac",aygitlar
+"hayatimizi kolaylastiran aletler",aygitlar
+"aygit cogulu",aygitlar
+"ayirma islemine yarayan nesne",ayirac
+"kitaplarda sayfa aralarini ayirmada kullanilan belirtec",ayirac
+"ayiran sey",ayirac
+"maddeleri ayirt etmemizi saglayan madde",ayirac
+"bir alani diger bir alandan ayirma gorevini goren alet",ayirac
+"Isigi yansitarak cisimlerin goruntulenmesini saglamaktadir.",ayna
+"cilali cam",ayna
+"kendimizi gormemizi saglayan",ayna
+"maddelerin goruntulerini yansitan esya",ayna
+"karsisinda duran kisiye o anki goruntusunu ters gosteren esya",ayna
+"nitrojen",azot
+"bir cesit element",azot
+"element",azot
+"bir cesit element",azot
+"soludugumuz havanin onemli bir oranini kaplayan gaz",azot
+"ayakta durmaya ve yurumeye yarayan organ",bacak
+"vucudun belden ayaga kadarki bolumu",bacak
+"ayakta durmamizi saglayan",bacak
+"canlilarda bulunan bir cesit uzuv",bacak
+"ayaklarin bagli oldugu organimiz",bacak
+"yemek lezzetlendirmek icin katilan tozlar",baharat
+"yiyeceklere atilan madde",baharat
+"yemkelere tat veren",baharat
+"yemekleri lezzet katan malzeme",baharat
+"yiyeceklere lezzet katan urun",baharat
+"element turu",bakir
+"elektrigi iletebilen bir cesit element",bakir
+"maden",bakir
+"topraktan cikarilan madeen",bakir
+"iletken ve degerli bir metal",bakir
+"tek yillik bir bitki turu",bakla
+"bir cesit bitki",bakla
+"ot",bakla
+"yenilen bir bitki",bakla
+"bir bakliyat cesidi",bakla
+"Tatli bir yiyecek",bal
+"arilarin petek petek urettigi tatli",bal
+"tatli yiyecek",bal
+"arilarin urettigi bir cesit besin",bal
+"arilarin urettigi tatli yiyecek",bal
+"solungacli canli",balik
+"suda yasayan ve solungacla nefes alan canlilar",balik
+"denizden cikan hayvan",balik
+"denizde yasayan canli",balik
+"denizlerde yasayan canlilara verilen genel ad",balik
+"ilac yapiminda kullanilan madde",balsam
+"recine",balsam
+"dogal bitkiozu",balsam
+"tiras sonrasi kullanilan krem",balsam
+"bazi agaclardan elde edilen recine",balsam
+"kagit para",banknot
+"basilmis kagit para",banknot
+"kagit para",banknot
+"alim satim icin kullanidigimiz arac",banknot
+"kagit para",banknot
+"yapiskanligi sayesinde cisimleri yapistirmak",bant
+"bir seyi yapistirmak icin kullanilan serit",bant
+"yapistirma aleti",bant
+"yapistirma icin kullanilan malzeme",bant
+"iki veya daha fazla parcayi yapistirmayi hedefleyen urun",bant
+"tanimi nedir?",banyo
+"lavabo ve tuvaletlerin bulundugu alan",banyo
+"icinde yikanilan oda",banyo
+"yikanma alani",banyo
+"yikanmak icin kullanilan ev bolumu",banyo
+"temizlenme amaciyla yikanilan odanin adi",banyo
+"basinc olcmeye yarayan alet",barometre
+"bir yerin basincini olcen alet",barometre
+"basinc olcer",barometre
+"hava basincini olcen alet",barometre
+"basinc olcum cihazi",barometre
+"Bir yazinin  bir kitabin bolumlerinin basina konulan ve konuyu kisaca tanitan ibare.",baslik
+"bir konunu ana maddesi",baslik
+"metin yazilarin genel tanimi",baslik
+"kafaya ortulen veya takilan nesne",baslik
+"metinlerin ana kavrami",baslik
+"Kadinlarin saclarini ortmek icin kullandiklari ortu  basortu  burgu  esarp  ortme  lecek",basortusu
+"saclari orten giysi",basortusu
+"basi ortmek icin kullanilan ortu",basortusu
+"kafaya ortulen veya takilan nesne",basortusu
+"tulbent",basortusu
+"yurumeye destek amacli kullanilan sopa",baston
+"yurumeye yardimci aet",baston
+"yururken destek alinan arac",baston
+"denge saglayici",baston
+"tahtadan sopa",baston
+"yurumekte gucluk ceken insanlara destek veren esya",baston
+"Birkac aygitin bir araya getirilerek belirli bir bicimde eklenmesinden olusan takim",batarya
+"pil durumu",batarya
+"enerji",batarya
+"pil omru",batarya
+"pil",batarya
+"Petrolun damitilmasi ile elde edilen  ozgul agirligi yaklasik 0 65 olan  renksiz  ucucu  kendine ozgu kokusu bulunan bir sivi.",benzin
+"arac yakiti",benzin
+"yakit",benzin
+"araclarin hareketi icin gerekli enerji",benzin
+"yakit",benzin
+"cimentonun su yardimiyla kum  cakil vb. maddelerle karismasi sonucu olusan sert  dayanikli  baglayici yapi malzemesi",beton
+"insatlarda kullanilan yapi",beton
+"materyal",beton
+"cimentonun kati hali",beton
+"yapi malzemesi",beton
+"Pamuk veya keten ipliginden yapilan dokuma",bez
+"dokuma",bez
+"kumas",bez
+"temizlik amacli kullanilan urun",bez
+"temizlik icin kullanilirir",bez
+"cesitli maddelerden yapilan heykel  vazo vb. zarif  kucuk sus esyasi",biblo
+"tablo",biblo
+"dekorasyon urunu",biblo
+"dekor amacli bulunur+B81",biblo
+"Bir sap ve celik bolumden olusan kesici arac",bicak
+"kesici alet",bicak
+"kesici alet",bicak
+"kesmeye yarayan sivri alet",bicak
+"kesmeye yarar",bicak
+"İcine cesitli maddeler konulan  sac  plastik veya cinkodan yapilmis kap.",bidon
+"plastik sivi saklama araci",bidon
+"tasima aleti",bidon
+"sivi tasimaya yardimci alet",bidon
+"depolama araci",bidon
+"Para ile alinan ve konser  sinema  tiyatro vb. eglence yerlerine girme  ulasim araclarina binme veya bir talih oyununa katilma imkânini veren belge",bilet
+"bir etkinlik icin giris karti",bilet
+"seyahat etmek icin",bilet
+"katilim saglamak icin gerekli belge",bilet
+"giris izni icin kullanilir",bilet
+"cok sayida aritmetiksel veya mantiksal islemlerden olusan bir isi  onceden verilmis bir programa gore yapip sonuclandiran elektronik arac  elektronik beyin",bilgisayar
+"bir makinenin belli islemleri gerceklestirebilimesi",bilgisayar
+"veri aktarim cihazi ",bilgisayar
+"hizli islem yapabilen akilli cihaz",bilgisayar
+"iletisim araci",bilgisayar
+"kendi basina kullanilabilen  ustu ortulu ve insanlarin icine girebilecekleri ve insanlarin oturma  calisma  eglenme veya dinlenmelerine veya ibadet etmelerine yariyan  hayvanlarin ve esyalarin korunmasina yarayan yapilardir.",bina
+"barinma yeri",bina
+"yerlesim yeri",bina
+"barinma ihtiyacini gideren yapi",bina
+"yasanilan yer",bina
+"Arpa ile serbetci otunun mayalandirilmasiyla yapilan bir icki",bira
+"alkol",bira
+"icki",bira
+"mayalanmis alkollu urun",bira
+"icecek",bira
+" Tekerlekleri pedal araciligiyla ayakla dondurulen binek araci  ciftteker  derrace  velespit",bisiklet
+"ulasim tasiti",bisiklet
+"tasit",bisiklet
+"motorsuz tasit",bisiklet
+"iki tekerli arac",bisiklet
+"Vucudun ust bolumune giyilen  genellikle ince kumastan yapilan veya iplikten orulen kadin giysisi",bluz
+"giysi turu",bluz
+"elbise",bluz
+"bir giysi cesidi",bluz
+"ust giyimde kullanilir",bluz
+"atom numarasi 5 ve kimyasal sembolu B olan kimyasal elementtir",bor
+"bir maden turu",bor
+"maden",bor
+"degerli bir madde",bor
+"element",bor
+"Banyodan cikarken kurulanmak icin kullanilan",bornoz
+"dus sonrasi giyilen kiyafet",bornoz
+"kiyafet",bornoz
+"kurumak icin kullanilan giysi turu",bornoz
+"kurulanmak icin giyilir",bornoz
+"bir yerden baska bir yere sivi  gaz vb. aktarmaya yarayan ici bos uclari acik uzun ve dar silindir olarak",boru
+"su tasima",boru
+"sivi veya gaz iletimi saglayan urun",boru
+"icinden birseyin gecmesini saglamak icin kullanilir",boru
+"cesitli yuzeyler uzerine yuzey koruyucu veya dekoratif amac icin",boya
+"renk verme",boya
+"kaplama yapmaya yarayan sivi",boya
+"duvar boyamak icin kullanilir",boya
+"Bazi hayvanlarin basinda bulunan  tirnaksi bir maddeden  uzun  kivrik veya catalli korunma organ",boynuz
+"hayvanlarin balinda bulunur",boynuz
+"hayvan uzvu",boynuz
+"hayvanlarin kafasindaki sivri organ",boynuz
+"hayvanlar kendilerini savunmak icin kullanir",boynuz
+"firmanin  urunlerinin tanitimi icin en basta gelen ve en yaygin kullanilan aractir",brosur
+"afis",brosur
+"bilgi verme amacli dagitilan yazili kagit",brosur
+"bilgi vermek amacla dagitilir",brosur
+"un  yem uretilmesinde kullanilan temel bir besin maddesidir",bugday
+"tahil",bugday
+"tarim hammaddesi",bugday
+"unun ham maddesi",bugday
+"sivilarin ve kimi katilarin isi etkisiyle donustukleri gaz durumu",buhar
+"suyun isinmasi",buhar
+"isi etkisiyle olusan gaz formu",buhar
+"bir maddenin gaz farki",buhar
+"yiyecek ya da icecekte kullanildiktan sonra yikanmamis mutfak esyasi",bulasik
+"mutfak aleti",bulasik
+"kirli durumdaki gida tuketim araclari",bulasik
+"yemek artiklarinin bulundugu kaplar",bulasik
+"onundeki genis bicagiyla topragi siyirarak engebeleri kaldiran  tirtilli ya da tekerlekli bir yol yapim makinesi.",buldozer
+"is makinasi ",buldozer
+"kazi yapan is makinesi",buldozer
+"yol calismasi yapmaya yardimci olur",buldozer
+"Bugdayin temizlenmesi  kaynatilmasi  kurutulmasi  kabugunun soyularak degisik tipte degirmenlerde ogutulmesi",bulgur
+"baklagil",bulgur
+"bakliyat urunu",bulgur
+"yemek cesidi",bulgur
+"veri/bilgilerin toplandigi  kayit altina alinarak yonetimin hizmetine sunuldugu ve yonetsel islerin yapildigi bolumdur",buro
+"ofis",buro
+"ozel isyeri",buro
+"calismak icin yer",buro
+"iki delikli solunum ve koku alma organi",burun
+"duyu organlarindan biri",burun
+"koklama organi",burun
+"nefes almaya yarar",burun
+"suyun donmus haline verilen addir",buz
+"suyun donmus hali",buz
+"suyun kati formu",buz
+"icecek sogutmak icin",buz
+"buhar sikistirma yontemiyle calisan  gidalarin soguk tutularak uzun zaman muhafaza edilmesini saglayan sogutma makinesidir",buzdolabi
+"yiyeceklerin muhafaza edildigi yer",buzdolabi
+"taze urunleri muhafaza etme cihazi",buzdolabi
+"yiyecekleri soguk tutmak icin kullanilir",buzdolabi
+"kucuk cep bicagi",caki
+"kesici alet",caki
+"kesmeye yarayan sivri alet",caki
+"kesme aleti",caki
+"celik  cakmaktasi ve tutusacak maddeden olusan  ates elde etmeye yarayan  turlu bicimlerde arac",cakmak
+"yanici alet",cakmak
+"ates yakmaya yarayan alet",cakmak
+"kivilcim sacan parca",cakmak
+"muzikte  guzel  uyumlu sesler cikarmasi icin yapilmis arac",calgi
+"muzik araci",calgi
+"ses cikaran aletler",calgi
+"uyumlu sesler cikarmak icin kullanilan arac",calgi
+"Soda veya potas katilmis silisli kumun ateste eritilmesiyle yapilan sert  saydam ve cabuk kirilir cisim",cam
+"kum ve sodadan olusan birlesen",cam
+"kumun isi ile islenmis hali",cam
+"korunmak icin",cam
+"İc giysisi  Kirli esyalari yikama isi",camasir
+"giysi",camasir
+"kirli durumdaki kiyafetler butunu",camasir
+"yikanmasi gereken kirli giysi",camasir
+"kendisinde can bulunan  cani olan  yasayan",canli
+"yasayan varlik",canli
+"yasayan varlik",canli
+"yasayan",canli
+"icinde esya tasimak icin kullanilan malzeme",canta
+"icine esya konulan nesne",canta
+"kisisel esyalari tasimak icin kullanilan bir esyadir",canta
+"yemek yemek icin kullanilan genellikle 4 disli alet",catal
+"yemek yemek icin kullanilan alet",catal
+"yemek yerken kullanilan  dort disli olan alettir",catal
+"binanin en tepesindeki malzeme",cati
+"evin ustundeki yapi",cati
+"bir binanin en ust bolumudur",cati
+"ekmek yapiminda kullanilan bitki",cavdar
+"bir tahil cesididir",cavdar
+"bugdaygiller familyasindan bir tahil bitkisidir",cavdar
+"sicak icecek",cay
+"yapraklari dokulmeyen bir agac turudur",cay
+"cesitli bitkilerin farkli bolumlerinden kaynatilarak elde edilen icecek",cay
+"Bilgi ve verileri  bunyesine kaydetmeye yarayan elektronik kayit cihazidir",cd
+"",cd
+"bilgi depolayan disk",cd
+"deplolama araci",cd
+"uzun kollu  cepleri bulunan  onden dugmeli  govdeyi kalcaya degin orten ust giysisi",ceket
+"elbise",ceket
+"bir giysi cesidi",ceket
+"soguktan korumak icin giyinilir",ceket
+"icine esya koyulup kapatilan tahtadan malzeme",cekmece
+"mobilyaya ait bir parcadir",cekmece
+"masa  dolap gibi seylerin disariya cekilip geri surulebilen gozu",cekmece
+"uzerinde oturmak icin kullanilan mobilya",cekyat
+"yatak haline gelebilen koltuk",cekyat
+"gerektiginde acilarak gecici olarak yatak olabilen koltuk",cekyat
+"Sert ve kati malzeme",celik
+"demir ve karbon bilesimi alasim",celik
+"demir elementi ile karbon miktarinin bilesiminden meydana gelen bir alasimdir.",celik
+"kefenlenip tabuta konulmus  gomulmeye hazir durumdaki insan olusu",cenaze
+"olu",cenaze
+"olu insanin gomulme toreni",cenaze
+"olu merasimi",cenaze
+"cepte tasinabilen  pille ya da akuyle calisan  manyetik kartli  kablosuz telefon",cep_telefonu
+"iletisim araci",cep_telefonu
+"haberlesmeye yarayan akilli cihaz",cep_telefonu
+"iletisim kurmaya yarar",cep_telefonu
+"atesli silahlarda kullanilmak icin hazirlanan her turlu patlayici maddenin genel adi",cephane
+"silah vs gibi seylerin saklandigi yer",cephane
+"ates etme eylemi icin gereken urun",cephane
+"silah saklama yeri",cephane
+"icine fotograf koyulan malzeme",cerceve
+"fotograflarin icine konuldugu nesne",cerceve
+"resim  yazi  ayna gibi seyleri bir yere asilabilecek duruma getirmek ya da suslemek icin bunlara gecirilen kenarlik.",cerceve
+"dogru cizgiler cizmeye yarayan  genellikle uzerinde derece  santimetre isaretleri bulunan  tahtadan  plastikten ya da metalden yapilmis cizim araci",cetvel
+"cizim aleti",cetvel
+"uzunluk olcmeye yarayan alet",cetvel
+"olcme aleti",cetvel
+"icine fotograf koyulan malzeme",cevcere
+"fotograflarin icine konuldugu nesne",cevcere
+"Cevizgillerin ornek bitkisi olan  uzun omurlu  govdesi kalin  kerestesi degerli  yurdumuzda cok yetisen agac ",ceviz
+"kuruyemis cesidi",ceviz
+"kabuklu bir besin",ceviz
+"bir meyve",ceviz
+"toprakta yetisen bir bitki",cicek
+"bitkilerin hos kokulu ve renkli bolumu",cicek
+"bir bitkinin  ureme organlarini tasiyan  genellikle hos kokulu ve renkli bolumu",cicek
+"hayvanlarda ve insanlarda akcigerle karacigere verilen ortak ad",ciger
+"canli organi",ciger
+"insanlarda ve hayvanlarda bir organ turu",ciger
+"bir yiyecek",ciger
+"Aygit  alet  takim ",cihaz
+"aygit",cihaz
+"teknolojik urunlere verilen genel ad",cihaz
+"elektronik devre",cihaz
+"uzerindeki resmin istenilen yere yapistirildigi kagit",cikartma
+"cesitli yazi veya goruntulerden olusan yapiskan esya",cikartma
+"cikartmak eylemi",cikartma
+"kakaodan yapilan bir yiyecek",cikolata
+"kakaodan yapilan tatli",cikolata
+"kakaodan yapilan ve kimi zaman icine seker  sut  findik  fistik gibi seyler katilan yiyecek.",cikolata
+"kuyudan su cekmek icin kullanilan alet",cikrik
+"dogal ya da yapay liflerden iplik egirmek icin kullanilan bir aractir",cikrik
+"kuyudan kovayi cekmeye yarayan ve elle cevrilen arac",cikrik
+"bir seyi parlatmakta kullanilan  cesitli mumlarin eriticiler araciligiyla cozdurulmesiyle olusturulan bir kimyasal bilesik",cila
+"parlatmak",cila
+"boya koruma maddesi",cila
+"parlatmaya yarar",cila
+"ten  Formalari  yapraklari birbirine dikerek veya yapistirarak kitap  defter  dergi vb.ne gecirilen deri  bez veya kâgitla kapli kapak",cilt
+"kaplamak",cilt
+"kitap bolumleri",cilt
+"icindeki nesneyi korumaya yarar",cilt
+"beton yapmak icin kullanilan malzeme",cimento
+"insaat yapiminda kullanilan hammadde",cimento
+"su ile reaksiyona girerek sertlesen bir baglayicidir",cimento
+"canak comlek suslemede kullanilan malzeme",cini
+"cam ile seramigin atesle birbirine kaynastirilmasi sanati",cini
+"cam ile seramigin atesle birbirine kaynastirilmasi sonucu ortaya cikan levha",cini
+"bir element",cinko
+"kirilgan bir metaldir",cinko
+"bazi gidalarda dogal olarak bulunan ve vucut icin gerekli olan temel bir mineraldir",cinko
+"dogada mevcut olan bir elementtir",civa
+"demirin sivi hali",civa
+"tehlikeli kimyasal madde",civa
+"bir element",civa
+"birbirine baglanmasi gereken agac ya da metal parcalarin onceden hazirlanmis bulunan deliklerinden gecirilip ucuna somun takilarak sikistirilan iri basli vida",civata
+"tuttungac",civata
+"urunleri bir arada tutan metalik urun",civata
+"nesneleri sabitlemeye yarar",civata
+"iki seyi birlestirmek icin kullanilan nesne",civi
+"nesneleri birbirine tutturmak icin kullanilan ucu sivri gerec",civi
+"ahsap ya da plastik malzemeleri birlestirmek icin kullanilan  genellikle metal malzeme",civi
+"bir tur peynir cesidi",cokelek
+"peynir cesidi",cokelek
+" yagi alinmis ayranin isitilmasi sonucu ortaya cikan yogurt parcasidir",cokelek
+"ayaga giyilen giysi",corap
+"ayaga giyilmesi icin uretilen veya orulen giysi",corap
+"deri veya bez torba  yumusak deriden ic ayak kilifi",corap
+"dusunce  duygu  olus ve isteklerin bildirildigi soz dizisidir",cumle
+"kelime kurami",cumle
+"kelimelerin birlesiminden olusan soz obegi",cumle
+"soz dizilimi",cumle
+"icine esya koyulan plastik torba",cuval
+"agir urunler icin kalin torba",cuval
+"kaba kumastan yapilmis torba",cuval
+"İcinde yasanilan konut",daire
+"cemberin icinde kalan alan",daire
+"bir binada birden fazla evin yer aldigi kat",daire
+"agac govdesi uzantisi",dal
+"agacin uzantisi",dal
+"agacin govdesinden cikip ayrilan kollardan  uzantilardan her biri",dal
+"resmi evraklara vurulan muhur",damga
+"bir isareti basmakta kullanilan arac",damga
+"uzerinde kazili bulunan bir isareti  yaziyi  nisani bir yere basmakta kullanilan arac",damga
+"esya uzerine serilen ortu",dantel
+"ince ve ag gorunumunde orgu cesidi",dantel
+"her turlu iplikle orulen ya da bir kumasin kenarina islenen  turlu bicimde  ince ve ag gorunumunde orgu.",dantel
+"arpa bugday ogutulen yer",degirmen
+"tahillari ogutmeye yarayan arac",degirmen
+"bugday  kahve  susam gibi tane durumundaki seyleri oguten arac ya da aygit",degirmen
+"yapi islerinde kullanilan malzeme",demir
+"bir metal turu",demir
+"vitamin kaynagidir",demir
+"icinde bircok canlinin yasadigi tuzlu su",deniz
+"buyuk su kutlesi",deniz
+"su kutlesinin belli bir adi olan belirli bir parcasi",deniz
+"belli konular uzerine paylasim yapilan sureli yayin",dergi
+"belli zaman aralariyla yayimlanan sureli yayin",dergi
+"belli zaman aralariyla yayimlanan sureli yayin",dergi
+"canli vucudunun en ust tabakasi",deri
+"vucudun disini saran organ",deri
+"insan ve hayvan vucudunu kaplayarak koruyan  uzeri tuy  kil ya da pul ile kapli tabaka",deri
+"temizlik malzemesi",deterjan
+"temizlemek icin kullanilan malzeme",deterjan
+"temizleme ve aritma gibi islemlerde kullanilan  toz  sivi ya da krem seklinde olabilen kimyasal maddelerdir",deterjan
+"ucu sivri ot parcasi",diken
+"bitkilerin savunma mekanizmasi olarak yetistirdigi sivri kisimlari",diken
+"sert  ucu sivri ve batici cikintilari cok olan bitki.",diken
+"konusmak icin kullanilan organ",dil
+"yemek yemeye ve konusmaya yardimci organ",dil
+"tat alma organi",dil
+"dis tedavisi yapan doktor",disci
+"dis tedavisini yapan kisi",disci
+"dis hekimidir",disci
+"",dolap
+"icine esya koyulup kapatilan tahtadan malzeme",dolap
+"icine esyalarin konuldugu esya",dolap
+"tahtadan yapilan mobil esyadir",dolap
+"meyve",domates
+"bir cok yemegin ana malzemesi",domates
+"yenilebilen otsu bitki turudur",domates
+"hayvan",domuz
+"pembe  tombul bir hayvan",domuz
+"ciftparmaklilardan  eti  yagi  derisi ve kili icin beslenen evcil hayvan.",domuz
+"kumasin parcalarini birlestirmek kullanilan bir nesne",dugme
+"kiyafet ya da bazi esyalari iliklemek icin kullanilan nesne",dugme
+"giyeceklerin  yorgan ve benzeri nesnelerin kimi yerlerine ilikleyici olarak yapilmis tutturmalik",dugme
+"uzaydaki canli yasam alani",dunya
+"uzerinde yasadigimiz yer",dunya
+"yeryuzu",dunya
+"beton bolme",duvar
+"yapilarda dusey bolme ogesi",duvar
+"yapilarda  yapinin yanlarini disa karsi koruyan  ic bolumlerini birbirinden ayiran ve tas  tugla  kerpic",duvar
+"ilac",ecza
+"ilac yapmakta kullanilan kimyasal maddelerin genel adi",ecza
+"genellikle ilac yapmakta kullanilan ya da sanayide turlu islerde yararlanilan kimyasal maddelerin genel adi",ecza
+"insan uzvu",el
+"vucudun bir parcasi",el
+"kolun  bilekten parmak uclarina degin olan  tutmaya ve is yapmaya yarayan bolumu",el
+"vucuda giyilen kiyafet",elbise
+" her turlu giyim esyasi",elbise
+"camasirin uzerine giyilen her turlu giyim esyasi  giyecek.",elbise
+"ele giyilen kiyafet",eldiven
+"elleri soguktan koruyan giysi",eldiven
+"elleri dis etkilerden korumak icin giyilen yun orgu",eldiven
+"Makine calistirmada ve aydinlanmada kullanilan bir tur enerji",elektrik
+"eli sicak tutmak icin takilan esya",elektrik
+"enerjinin gundelik yasamda kullanilan bicimi",elektrik
+"Elektrik acma kapama yapan malzeme",elektrik_anahtari
+"akimi kesen devre elemani",elektrik_anahtari
+"devrelerin acilip kapanmasini saglayan devre elemanidir",elektrik_anahtari
+"Elektrik guvenligini saglayan malzeme",elektrik_sigortasi
+"cihazlari asiri akimdan koruyan devre elemani",elektrik_sigortasi
+"bir cihazda arizaya sebep olacak seviyede akima maruz kalmasina engel olmanin yontemlerinden biridir",elektrik_sigortasi
+"meyve",elma
+"agacta yetisen meyve",elma
+"eksi ya da tatli meyve",elma
+"kiymetli tas",elmas
+"degerli bir tas",elmas
+"bilinen en sert maddelerden biridir ve degerli bir tastir",elmas
+"Protein yapisindan olusan molekul",enzim
+"vucudumuzda bulunan protein yapili molekul",enzim
+"protein yapisinda  eriyebilir organik madde",enzim
+"bas kismini ortmek icin kullanilan ortu",esarp
+"giymek ici nesne",esarp
+"Basortusu",esarp
+"saca takilan bir ortu",esarp
+"basi ya da boynu ortmekte kullanilan kumas",esarp
+"cesitli kumas turlerinden yapilan kadin basortusu",esarp
+"ev icerisindeki mobilyalar",esya
+"kullanmak ici nesne",esya
+"tasinabilir nesne",esya
+"kullanilabilir arac",esya
+"turlu islerde ve turlu amaclarla kullanilan cisim",esya
+"tasinabilir cansiz varliklarin ismi",esya
+"hayvanlardan elde edilen besin",et
+"yemek ici nesne",et
+"besin",et
+"besin gidasi yiyecek",et
+"deriyle kemik arasinda bulunan ve kas ile yagdan olusan tabaka",et
+"deriyle kemik arasinda bulunan ve kas ile yagdan olusan kisim",et
+"kadinlarin giydigi kumas",etek
+"giymek ici nesne",etek
+"kiyafet",etek
+"kiyafet",etek
+"belden asagi giyilen bacaklari olmayan giysiye verilen ad",etek
+"kadinlarin belden asagi giydigi kiyafet",etek
+"urunleri ayirt etmek icin kullanilan simge",etiket
+"yapistirmak ici nesne",etiket
+"",etiket
+"ufak kagit parcacigi",etiket
+"malin turunu miktarini fiyatini gosteren yapistirilan kucuk kagit",etiket
+"sosyal medyada aramayi kolaylastiran kelimeler  urunlerin fiyatini gosteren sembol",etiket
+"icerisinde yasanilan barinak",ev
+"oturmak ici nesne",ev
+"mulk",ev
+"icinde yasanan yer",ev
+"bir kimsenin ya da bir ailenin oturdugu  icinde yasadigi yer  konut",ev
+"insanlarin barinmak icin kullandiklari yasam alani",ev
+"kiyafetlerin altina giyilen ic giyim urunu",fanila
+"oturmak ici nesne",fanila
+"ic camasiri",fanila
+"insanlarin giydigi kiyafet",fanila
+"vucud uzerine giyilen ic camasiri",fanila
+"sicak tutmaya yarayan ic camasiri",fanila
+"kahverengi kucuk hayvan",fare
+"kemirmek ici nesne",fare
+"hayvan",fare
+"kucuk boyutlu hayvan",fare
+"kemiriciler takimindan bir sicangil cinsi hayvan",fare
+"bilgisayar imlecini hareket ettiren alet",fare
+"ev icerisinde yerlerin kaplandigi tas",fayans
+"isinmak ici nesne",fayans
+"yer dosemesi",fayans
+"zemine koyulan parca",fayans
+"yerlerde doseme gereci olarak kullanilan seramik",fayans
+"yer ve duvar kaplama urunu",fayans
+"kiyafetlerin ayrik parcalarini birlestirmek icin kullanilan ekipman",fermuar
+"giymek ici nesne",fermuar
+"kapatici duzenek",fermuar
+"acip kapamaya yarayan parca",fermuar
+"acilip kapanmaya yarayan disli surgu",fermuar
+"kiyafetlerde iki parcayi birlestiren zincirli kisim",fermuar
+"kiyafetlerin ayrik parcalarini birlestirmek icin kullanilan ekipman",fernuar
+"giymek ici nesne",fernuar
+"",fernuar
+"bilinmiyor",fernuar
+"acilip kapanmaya yarayan disli surgu",fernuar
+"İcerisinde icecek bekletilen tahta bir silindir",fici
+"tutmak ici nesne",fici
+"kap",fici
+"icine su doldurulan kap",fici
+"silindir bicimindeki dayanikli kap",fici
+"tahtadan yapilan kutu",fici
+"Fillerin on kisminda bulunan disler",fildisi
+"kullanmak ici nesne",fildisi
+"renk / hayvan disi",fildisi
+"fillerde bulunan kemiksi yapi",fildisi
+"fil gibi hayvanlarin dislerinden oyularak yapilan maddelerdir",fildisi
+"fillerde bulunan uzun fis",fildisi
+"art arda fotograflarin gosterilmesiyle olusan goruntu",film
+"izlemek ici nesne",film
+"Sinema eseri",film
+"izleme yapilan yer",film
+"hareketli resimlerin seri sekilde gosterilmesi ile ortaya cikan yapit",film
+"senaryosu olan coklu fotograf seridi",film
+"bir seyi oldugundan daha guzel gostermek icin kullanilan teknik",filtre
+"kullanmak ici nesne",filtre
+"Suzgec",filtre
+"azaltmaya yarayan ozellik",filtre
+"icindeki yabanci maddeleri ayiran suzgec",filtre
+"suzgec turu",filtre
+"icerisinde yemek pisirilen ev aleti",firin
+"pisirmek ici nesne",firin
+"isitici",firin
+"ekmek pisirilen yer",firin
+"isidan yararlanmak icin kullanilan bir arac",firin
+"ekmek kek veya yemek yapmaya yarayan alet",firin
+"bir tur mermi",fisek
+"atmak ici nesne",fisek
+"Patlayici madde",fisek
+"havada patlayan kimyasal",fisek
+"atesleyicisi ve icinde barut bulunan bir kovan",fisek
+"yanici ve patlayici madde",fisek
+"bir tur yemis cesidi",fistik
+"yemek ici nesne",fistik
+"kuruyemis",fistik
+"kuruyemis",fistik
+"aklagiller familyasindan Arachis cinsinin bir tur yiyecek",fistik
+"kuruyemis cesidi",fistik
+"bir ampul turu",florasan
+"yakmak ici nesne",florasan
+"Aydinlatici",florasan
+"isik yayan arac",florasan
+"iki ucunda bulunan flamanlardan akim gecerek calisan lamba",florasan
+"iki ucu cam tuplu lamba",florasan
+"eski canlilara ait kalinti",fosil
+" ici nesne",fosil
+"Yenilenemez Kaynak",fosil
+"yakit turu",fosil
+"olu organizma kalintilari",fosil
+"olu kalintilar",fosil
+"bir anin kaydedilen goruntusu",fotograf
+"cekmek ici nesne",fotograf
+"Goruntu",fotograf
+"resimlerin bulundugu gorsel",fotograf
+"anlik goruntu almaya yarayan cekim",fotograf
+"coklanmis goruntuler butunu",fotograf
+"bir kagidin turetilmis kopyasi",fotokopi
+"cekmek ici nesne",fotokopi
+"cogaltici",fotokopi
+"kopyalama isine yarayan cihaz",fotokopi
+"materyalleri hizli sekilde cogaltmak icin kullanilan bir cihazdir",fotokopi
+"birebir cekim",fotokopi
+"tasitlari durdurmak icin kullanilan sistem",fren
+"durmak ici nesne",fren
+"durdurucu pedal",fren
+"araci durdurmaya yarayan pedal",fren
+"bir cismin hareketini durdurmak veya hizini azaltmak icin kullanilan aygit",fren
+"durdurmaya yarayan arac",fren
+"tasitlari durdurmak ivme kazandirmak icin kullanilan sistem",gaz
+"ilerlemek ici nesne",gaz
+"Elementin hali",gaz
+"atmosfere zarar veren hava",gaz
+"belirli bir sekli olmayan fakat hacmi olan madde",gaz
+"hizlandirma araci",gaz
+"gelismelerden haberdar olmak icin okunan kagit",gazete
+"okumak ici nesne",gazete
+"basili yayin",gazete
+"okunmaya yarayan kagit parcasi",gazete
+"bu tur bir yayinin hazirlanip basildigi yer",gazete
+"haber kagidi",gazete
+"deniz yolu tasimalarinda kullanilan tasit",gemi
+"surmek ici nesne",gemi
+"deniz binegi",gemi
+"suyun ustunde giden arac",gemi
+"su yollarini dolasan deniz tasiti",gemi
+"su ustunde insan veya esya tasiyabilen arac",gemi
+"insanlarin ortunmek icin giydigi kiyafetler",giysi
+"giymek ici nesne",giysi
+"kiyafet",giysi
+"insanin giydigi kiyafet",giysi
+"giyilmek icin yapilmis her turlu giyim esyasi",giysi
+"giyilmek icin yapilmis giyim esyasi",giysi
+"yuksek bina",gokdelen
+"oturmak ici nesne",gokdelen
+"uzun bina",gokdelen
+"cok yuksek is binasi",gokdelen
+"cok yuksek boyutlu yapi",gokdelen
+"cok katli   cok yuksek yapilar.",gokdelen
+"Vucudun ust kismina giyilen giysi",gomlek
+"giymek ici nesne",gomlek
+"kiyafet",gomlek
+"dugmeli kiyafet",gomlek
+"vucudun ust bolumune giyilen dugmeli giysi",gomlek
+"onu dugmeli   vucudun ust bolumune giyilen kiyafet.",gomlek
+"Vucudun ust kismina giyilen giysi",gomlem
+"giymek ici nesne",gomlem
+"bilinmiyor",gomlem
+"vucudun ust bolumune giyilen dugmeli giysi",gomlem
+"Gorme duyusunu saglayan organ",goz
+"bakmak ici nesne",goz
+"gorme organi",goz
+"gormeye yarayan organ",goz
+"gormeyi saglayan kuremsi bir organdir",goz
+"insanlarda veya hayvanlarda gorme islemini saglayanduyu organidir.",goz
+"musahede",gozlem
+"Gorme duyusuna yardimci olan mercek",gozluk
+"takamk ici nesne",gozluk
+"gorme iyilestirici",gozluk
+"daha net gormeye yarayan arac",gozluk
+"cerceveli merceklerden olusan bir aksesuar",gozluk
+"gozu gunesten koruyan veya gorme ile ilgili sikintilari ortadan kaldirmak amaciyla kullanilan alet",gozluk
+"Hayvanlara ait diskilardan elde edilen organik madde",gubre
+"yemek ici nesne",gubre
+"zirai hayvan atigi",gubre
+"bitkilerde kullanilan dogal kimyasal",gubre
+"topragi verimli hale getirmek icin topraga dokulen hayvan diskisi",gubre
+"tpragi daha verimli hale getirmek icin kullanilan tarim ilaci",gubre
+"Bir metal turu",gumus
+"kullanmak ici nesne",gumus
+"grinin tonu",gumus
+"kiymetli maden ",gumus
+"gri  parlak  degerli bir metalik element",gumus
+"parlak ve degerli metalik element",gumus
+"Birden fazla ipin bir araya gelmesi",halat
+"cekmek ici nesne",halat
+"kalin ip",halat
+"cok saglam ip",halat
+"kenevirden yapilmis cok kalin ve saglam ip",halat
+"cok kalin ve saglam ip.",halat
+"Evlerde yere serilen bir tur kumas",halilar
+"sermek ici nesne",halilar
+"yaygi",halilar
+"evlerde zemine kullanilan bez parcasi",halilar
+"yere ya da mobilya ustune serilen ortu",halilar
+"evlerde yerden soguk gelmemesi amaciyla kullanilan ev esyasidir.",halilar
+"Un ve su karisimi ile elde edilen birlesim",hamur
+"yemek ici nesne",hamur
+"mayali bugday",hamur
+"ekmek yapmaya yarayan madde",hamur
+"unun siviyla yogrulmus ve belli bir kivama gelmis durumu",hamur
+"unun suyla karisip belli bir kivama gelmis halidir",hamur
+"universitelerde donemlik odenen bedel",harclar
+"odemek ici nesne",harclar
+"para",harclar
+"odenen bir vergi turu",harclar
+"kanunda odeme zamani gosterilen maddi tutarlar",harclar
+"devletin resmi islemlede insanlardan tahsis ettigi vergi.",harclar
+"Alfabede yer alan simgeler",harf
+"okumak ici nesne",harf
+"alfabetik simge",harf
+"tek karakterden olusan ifade",harf
+"sozcukleri yazmaya yarayan isaretlerden her biri",harf
+"bir dilde yazi yazmak icin kullanilan sembol.",harf
+"cografi olarak bolgeleri gosteren cizim",harita
+"okumak ici nesne",harita
+"",harita
+"konum bulmaya yarayan kagit ",harita
+"yeryuzu alanlarinin kucultulmus bir sekilde bir duzlem uzerinde gosterimi",harita
+"yeryuzunun kus bakisi cizildigi bir plan",harita
+"icerisinde oksijen  azot vb. Elementleri bulunduran gaz",hava
+"bakmak ici nesne",hava
+"gaz karisimi",hava
+"nefes almaya yarar",hava
+"butun canlilarin solunumuna yarayan akiskan gaz karisimi",hava
+"renksiz kokusuz ve akisgan gaz",hava
+"kurulanmak icin kullanilan kumas",havlu
+"silmek ici nesne",havlu
+"sivi emici",havlu
+"kurutmaya yarar",havlu
+"kurulanmaya yarayan bez parcasi",havlu
+"kurulanmak icin kullanilan bez.",havlu
+"turuncu renkte bir sebze",havuc
+"yemek ici nesne",havuc
+"turuncu sebze",havuc
+"bir sebze turu",havuc
+"koku icin sebze olarak yetistirilen otsu bir kultur bitkisi.",havuc
+"turuncu renkli   besleyici bitki",havuc
+"icerisinde su bulunan alan",havuz
+"yuzmek ici nesne",havuz
+"su dolu alan",havuz
+"icinde su bulunan bir alan",havuz
+"yuzme veya sus amacli kullanilan  ici su ile doldurulan cukur",havuz
+"yuzmek amaciyla kullanilan ici su dolu cukur",havuz
+"bir canli grubu",hayvan
+"sevmek ici nesne",hayvan
+"canli",hayvan
+"dogada bulunan canlilar",hayvan
+"taksonomik sinif altinda bulunan canlilarin tamamina verilen isim",hayvan
+"insandan farkli olarak dil ve akil yetenegi bulunmayan canlilar",hayvan
+"bir kisinin veya nesnenin tas uzerine islenmesi",heykel
+"bakmak ici nesne",heykel
+"sanat eseri turu",heykel
+"bir simge",heykel
+"sanatsal bakis acisiyla meydana getirilmis uc boyutlu formlara denir",heykel
+"farkli insanlar tarafindan mermer ile yapilmis sanat eseri",heykel
+"Bir element",hidrojen
+"hava",hidrojen
+"1 protonlu element",hidrojen
+"bir kimyasal",hidrojen
+"oksijenle bileserek suyu olusturan bir gaz",hidrojen
+"oksiyenle birleserek suyu olusturan bir gaz",hidrojen
+"bir ulke",hindistan
+"ulke",hindistan
+"1 asya ulkesi",hindistan
+"ulke",hindistan
+"Guney Asya'da bulunan bir ulkedir",hindistan
+"guney asyada bulunan bir ulke",hindistan
+"dijital bilgiyi sese donusturen alet",hoparlor
+"calmak ici nesne",hoparlor
+"ses yayici",hoparlor
+"ses cikisi veren cihaz",hoparlor
+"elektrik akimi degisimlerini ses titresimlerine ceviren alettir",hoparlor
+"sesi yukselten cihaz",hoparlor
+"insan vucudunda salgilanan salgi",hormon
+"dna",hormon
+"",hormon
+"biyolojik olay",hormon
+"kimi organlarin calismasini duzenleyen maddelerin ortak adi",hormon
+"kana karisan ve vucutta cogu islevin yapilmasini saglayan salgi maddesi",hormon
+"dogal afet",hortum
+"su aktarimi icin kullanilan alet",hortum
+"sulama yapabilmek icin uzun ve su gecisini saglayan arac",hortum
+"hava olayi",hortum
+"bir siviyi tasimak ve yonlendirmek icin kullanilan nesne",hortum
+"sulama yapmak icin kullanilin bir nesne",hortum
+"organel",hucre
+"canlilarda bulunan en kucuk yapi tasi",hucre
+"bir canlinin yapisal ve islevsel ozellik gosteren en kucuk birimi",hucre
+"insanin en temel birimi",hucre
+"canlinin canlilik ozelliklerini tasiyan yapi ve gorev bakimindan en kucuk parcasi",hucre
+"eski malzeme ",hurda
+"eski  yipranmis maddeler",hurda
+"kullanilamayan malzeme",hurda
+"kullanim disi olan nesne",hurda
+"kullanim disi olan malzeme",hurda
+"meyve",hurma
+"bir meyve turu",hurma
+"sicak iklimde yetisen meyve turu",hurma
+"sicak iklimlerde yetisen meyve",hurma
+"sicak bolgelerde yetisen meyve",hurma
+"susuzlugu gidermeye yarayan eylem",icecek
+"tuketilen sivi urun",icecek
+"icerek tuketilen gida",icecek
+"ferahlamaya yarayan sivi",icecek
+"sivi gidalarin tumu",icecek
+"enjekte etmeye yarayan alet",igne
+"asi yapilan arac  dikis icin kullanilan arac",igne
+"sivri uclu deri altina ilac vermeye yarayan alet",igne
+"dikmeye yarayan sivri ince demir parcasi",igne
+"ucu sivri ince uzun bir nesne",igne
+"tedavi etmeye yarayan tibbi malzeme",ilac
+"hastaliklarin tedavisinde kullanilan tibbi urun",ilac
+"bir hastaligin iyilesmesine yarayan kimyasal madde",ilac
+"iyilesmeye yarayan bilesenlerin tumu",ilac
+"hastaligi iyilestirmek veya semtomlari azaltmak icin kullanilan kimyasal",ilac
+"goze hitap eden aksesuar",inci
+"denizde bulunan istridyegillere mensup bir tur.",inci
+"istiridye ve benzeri deniz hayvanlarinin icinde olusan sert ve sedefli tane",inci
+"deniz dibinde kabugun icinde bulunan canli",inci
+"degerli bir nesne",inci
+"insa etmeyi amaclayan tabir",insaat
+"bina  isyeri yapma islemi",insaat
+"bina  fabrika gibi cesitli yapilarin insa edilme sureci",insaat
+"barinmak icin iscilerin sarfettigi efor",insaat
+"bina altyapi havaalani baraj gibi genis anlamda yapi ",insaat
+"bilgi erisimine yarayan sosyal ag",internet
+"veri ve bilgi iletmeyi/almayi saglayan iletisim agidir. ",internet
+"iletisim agidir",internet
+"iletisim agi",internet
+"veri ve bilgi iletmeyi almayi saglayan iletisim agi",internet
+"maddeyi tekstil icin uygun hale getirmeye yarayan esya",ip
+"bag",ip
+"bir seyleri dikmeye  baglamaya yarayan kumasimsi malzeme ",ip
+"dikis orgu icin kullanilan pamuk",ip
+"lifin elde veya makinede dikis icin uygun hale getirilmis tipi",ip
+"esnek ve parlak tel",ipek
+"bir kumas turu",ipek
+"ipekboceginin kozasindan elde edilen esnek tel",ipek
+"ipek boceginden uretilen yumusak kumas",ipek
+"ipekboceginin urettigi yumusak parlak bir lif",ipek
+"dikis nakis isleri icin uygun hale getirme islemi",iplik
+"dikis yapmaya uygun tip",iplik
+"dokuma maddelerinin uretime hazir hale getirilmesi",iplik
+"dikim asamasinda kullanilan bi cesit",iplik
+"lifin elde veya makinede dikis icin uygun hale getirilmis tipi",iplik
+"besin maddesidir",irmik
+"besin maddesi",irmik
+"bugdayin ogutulmesiyle olusan gida",irmik
+"tatlilarda kullanilan ince hamur taneleri",irmik
+"durum bugdayinin ogutulup elenmesiyle elde edilen bir besin maddesi",irmik
+"sandalye",iskemle
+"oturma araci",iskemle
+"uzerine oturulan nesne",iskemle
+"oturmak icin kullanilan esya",iskemle
+"oturmak icin kullanilan bir nesne",iskemle
+"temizleme amacli alet",islak_mendil
+"islak olarak bulunan mendil turu",islak_mendil
+"temizleme bezi",islak_mendil
+"pratik temizlik icin kullanilan kullan at havlu",islak_mendil
+"temizlik icin kullanilan bir nesne",islak_mendil
+"yanici ve zehirli madde",ispirto
+"yanici madde",ispirto
+"bir yakit ve temizlik malzemesi",ispirto
+"yanici madde",ispirto
+"bitki fermantasyonunun dogal bir yan urunu  etilin hidrasyonu",ispirto
+"ates uzerinde yiyecek pisirmeye yarayan alet",izgara
+"mangal yaparken urun konulan alet",izgara
+"yemek pisirmek icin kullanilan bir sey",izgara
+"mangal yapmaya yarayan alet",izgara
+"metal cubuklardan ya da ahsaptan yapilmis parmaklik biciminde nesne",izgara
+"elektrik vermeye yarayan esya",jenerator
+"Enerji destegi veren cihaz",jenerator
+"elektrik ureten bir alet",jenerator
+"guc kaynagi",jenerator
+"mekanik enerjiyi elektrik enerjisine donusturen bir makine",jenerator
+"elektrigi ileten malzeme",kablo
+"enerji veya bir bilgi ileten arac",kablo
+"enerji iletimi saglayan bir alet",kablo
+"baglanti saglayan elektronik esya",kablo
+"plastikten yapilan ici bos ince uzun bir nesne",kablo
+"dogal olarak olusan sert bolum",kabuk
+"bir cismi saran sert madde",kabuk
+"bir nesneyi ya da canliyi kapsayan sey",kabuk
+"yemisleri saran sert koruyucu",kabuk
+"dis katman",kabuk
+"ipekli kumas",kadife
+"kumas grubundan bir tur",kadife
+"bir tur giysi hammaddesi",kadife
+"tekstilde kullanilan parlak yumusak kumas",kadife
+"bir tur kumas",kadife
+"beyaz ve ince yaprak",kagit
+"yazi yazmak gibi isleri yapan yaprak",kagit
+"uzerine bir seyler yazilan parca",kagit
+"dogadan uretilen  uzerine yazi yazilan nesne",kagit
+" odun saman yosun gibi bitkisel maddeler olan uzerinde baski yapilmaya elverisli tabaka",kagit
+"icecek",kahve
+"enerji veren icecek",kahve
+"icerek tuketilen bir gida",kahve
+"icinde kafein bulunan icecek",kahve
+"kafeinli bir icecek",kahve
+"cikolata yapiminda kullanilan bitki turu",kakao
+"cikolata yapiminda kullanilan bitki",kakao
+"kahvenin hammaddesi",kakao
+"tatli  cikolata uretimine yarayan bakliyat",kakao
+"cikolata yapiminda kullanilan bir bitki turu",kakao
+"kolay islenen  yumusak element",kalay
+"Teneke yapimi icin kullanilan bir element",kalay
+"bir cesit alasim",kalay
+"parlatici",kalay
+"periyodik cetvelde bir element",kalay
+"yazi yazmaya ve cizim yapmaya yarayan alet",kalem
+"yazi yazma araci",kalem
+"yazi yazmaya yarayan bir alet",kalem
+"yazmaya yarayan el aleti",kalem
+"agactan yapilan yazi yazmaya yarayan alet",kalem
+"kursun kalemlerin uclarini acmaya yarayan alet",kalemtras
+"kalemlerin ucunu duzenleyen arac",kalemtras
+"kalemin ucunu acan bir alet",kalemtras
+"kalemin ucunu acmaya yarayan kesici alet",kalemtras
+"kalemin uzunu sivriltmeye yarayan alet",kalemtras
+"isitmaya yarayan esya",kalorifer
+"komur  dogalgaz ile isinma araci",kalorifer
+"disariya sicak hava yayan bir alet",kalorifer
+"ortami isitmaya yarayan metal isitici",kalorifer
+"binalarda isitma aleti olarak kullanilan radyato",kalorifer
+"hayatin devami icin gerekli organ",kalp
+"canlilarin kan pompalamasini saglayan organ",kalp
+"kan pompalayan yasam icin gerekli bir organ",kalp
+"vucudun kan pompalayan temel organidir",kalp
+"gogus arasinda kaburgalarin altinda yer alan ve bircok kastan olusmus bir organ",kalp
+"metalik element",kalsiyum
+"Kemik sagligi icin bir element",kalsiyum
+"bir cesit mineral",kalsiyum
+"kemik dostu mineral",kalsiyum
+"bir tur mineral",kalsiyum
+"halat",kamci
+"kirbac  biyolojide hucreden cikan iplik seklinde organeller",kamci
+"hayvanlari uslandirmak icin kullanilan bir cesit alet",kamci
+"ati costurmak icin kullanilan alet",kamci
+"uzun olmayan bir sopa ucuna baglanmis deri",kamci
+"kayit altina almaya yarayan alet",kamera
+"goruntu kaydetmeye yarayan mercekli cihaz",kamera
+"fotograf ve video ceken bir alet",kamera
+"goruntu saglayan elektronik esya",kamera
+"goruntuleri kaydetmeye yarayan bir cihaz",kamera
+"cit ve sepet yapimindaki bitkilerin ortak adi",kamis
+"icecek icmeye yardimci agizdan alinan uzun boru",kamis
+"bir cesit bitki",kamis
+"bir cok alanda kullanisli  faydali bitki",kamis
+"genellikle sulak bolgelerde yetisen odunsu govdeli bitki",kamis
+"yuk tasimaya yarayan arac",kamyon
+"yuk tasimaya yarayan motorlu bir arac",kamyon
+"yuk tasimak icin kullanilan bir arac",kamyon
+"yuk tasimaya yarayan ulasim araci",kamyon
+"agir yuk tasimaya yarayan motorlu arac",kamyon
+"kutleleri tartan arac",kantar
+"agirlik olcum araci",kantar
+"bir cesit terazi",kantar
+"agirlik tartmaya yarayan faliyet",kantar
+"agirlik olcumunden kullanilir",kantar
+"icine malzeme konulan nesne",kap
+"bir seyi biriktirmeye yarayan arac",kap
+"icinde bir seyler tutan nesne",kap
+" icine nesne koyulmaya yarayan urun",kap
+"icine herhangi bir malzeme konulabilen ici bos veya oyuk nesne",kap
+"acilip kapanan kanat",kapi
+"bir odayi  binayi kapatmaya yarar",kapi
+"bir ortama girisi ve cikisi kisitlayan nesne",kapi
+"giris cikisi saglayan nesne",kapi
+"giris cikisi saglayan bir yapi",kapi
+"toz seklinde baharat",karabiber
+"biberden yapilan baharat",karabiber
+"bir cesit baharat",karabiber
+"yemege tat katan baharat",karabiber
+"bir bitki turu",karabiber
+"karanfil agacinin cicek tomurcuklarindan olusan baharat",karanfil
+"agiz kokusuna iyi gelen baharat",karanfil
+"bir bitki cesidi",karanfil
+"guzel koku veren bitki",karanfil
+"bir tur bitki cicek",karanfil
+"atom",karbon
+"element",karbon
+"organik bir madde",karbon
+"element",karbon
+"dogada en yaygin olarak bulunan elementlerden bir tanesi",karbon
+"vucudun orta bolgesi",karin
+"insan vucudunun govdesinde bulunan bir uzuv",karin
+"insan vucudunun bir bolumu",karin
+"vucudun temel organlarindan biri",karin
+"omurgali hayvanlarda kaburga kemiklerinden kasiklara ve pelvise kadar olan kisim",karin
+"kagit cesidi",karton
+"sert kagit",karton
+"bir seyleri kaplamak ve ambalajlamak amacli kullanilan malzeme",karton
+"renkli sert kagit",karton
+"odun saman gibi bitkisel maddeler olan urun tasimaya yarayan seluloz turu malzeme",karton
+"tebrik karti gorseli",kartpostal
+"resim ve mektup yazilan bir kart",kartpostal
+"birilerine gondermek uzere uretilen hediyelik esya",kartpostal
+"manzara yahut anilarin fotograflanmasi",kartpostal
+"dikdortgen biciminde ve ince kartondan yapilmis bir tarafi resimli kart",kartpostal
+"kisisel bilgileri iceren kart",kartvizit
+"bir kisi veya kurulusu tanitan kart",kartvizit
+"uzerinde kisinin bilgileri bulunan bir kagit parcasi",kartvizit
+"kisinin yahut  magazanin tanitimini ve ulasim bilgilerine sahip kart",kartvizit
+"kisilerin ve kurumlarin kendini tanitmak amaciyla hazirlanan ufak kart",kartvizit
+"ici oyuk tabak",kase
+"cukur bir kap",kase
+"icinde bir seyler tutan nesne",kase
+"birseyleri icine doldurmaya yarayan nesne",kase
+"icine herhangi bir malzeme konulabilen ici bos veya oyuk nesne",kase
+"yemek yemeye yardim eden el aleti",kasik
+"yemek yeme araci",kasik
+"yemek yemek icin kullanilan bir alet",kasik
+"yiyecekleri agiza tasima faliyetini gosterir",kasik
+"yemek yemek icin kullanilan alet",kasik
+"erkek esek ve disi at ciftlesmesinden dogan canli",katir
+"yuk tasimaya yarayan bir hayvan",katir
+"bir hayvan turu",katir
+"at ve esekden meydana gelen varlik",katir
+"at ve esege benzeyen kisir bir hayvan",katir
+"dogalgazdan elde edilen esnek madde",kaucuk
+"Kaucuk  bazi tropikal bitkilerin oz suyundan ya da petrol ve dogalgazdan imal edilen esnek bir madde",kaucuk
+"bir cesit hammadde",kaucuk
+"yumusak doku saglayan madde",kaucuk
+"bazi tropikal bitkilerin oz suyundan ya da petrol ve dogalgazdan imal edilen esnek bir madde",kaucuk
+"meyve cesidi",kavun
+"bir meyve turu",kavun
+"bir cesit tatli meyve",kavun
+"soguk yenilen yaz meyvesi",kavun
+"sicak bolgelerde yetisen meyve",kavun
+"karda kaymak icin ayaga takilan arac",kayak
+"deniz veya golde kullanilan ulasim araci",kayak
+"karda kayma icin kullanilan esya",kayak
+"kol saatiinin bilege takilmasini saglayan nesne ",kayis
+"parcalarin donmesi icin birbirine baglayan arac",kayis
+"kol saatinin bilege baglanmasini saglayan  deriden yapilmis gerec",kayis
+"kollu orme giysi",kazak
+"kislik giysi cesidi",kazak
+"giymek icin kullanilan kiyafet",kazak
+"buyuk derin kap",kazan
+"icinde sivi depolanan cisim",kazan
+"yemek pisirmeye veya bir sey kaynatmaya yarayan buyuk derin kap",kazan
+"keci kilinin dovulmesiyle elde edilen kumas",kece
+"yunden olusan kumas",kece
+"kumas",kece
+"gevis getiren memeli",keci
+"bir tur hayvan",keci
+"derisi ve kili icin yetistirilen hayvan",keci
+"insanin omurgasini olusturan sert yapi",kemik
+"canlilarin iskeletini olusturan madde",kemik
+"sert organlarin genel adi",kemik
+"is yeri kapisini kapatmak icin yarayan esya",kepenk
+"dukkan onlerini kapamak icin kullanilir",kepenk
+"is yeri kapisini kapamayan yarayan kapi",kepenk
+"civi sokmeye yarayan nesne",kerpeten
+"bir seyleri sokmek icin kullanilan arac",kerpeten
+"kiskac bicimindeki civi sokmeye yarayan alet",kerpeten
+"bir ucu yanabilen kucuk ince tahta",kibrit
+"yanabilen madde",kibrit
+"Bir ucu surtunme sonucu yanabilecek birlesimde olan kucuk tahta ",kibrit
+"insan vucudunda cikan ince tuy",kil
+"kolayca bicimlenen yumusak yagli toprak",kil
+"deri yuzeyinde cikan koruyucu nesneler",kil
+"toprak cesidi",kil
+"ipliksi uzanti",kil
+"yumusak ve yagli toprak",kil
+"kapatma aleti",kilit
+"kapinin direk acilmasini engeller",kilit
+"anahtar",kilit
+"alt ic camasiri",kilot
+"ic giyim cesidi",kilot
+"camasir",kilot
+"kalsiyum oksit",kirec
+"tas cesidi",kirec
+"tasin ozunu olusturan kalsiyum oksit",kirec
+"catiyi ormeye kullanilan levha",kiremit
+"catilari olumsuz hava kosullarindan korur",kiremit
+"catilari ortmekte kullanilir",kiremit
+"kagit cokluluklarinin tumu",kitap
+"yazilarin yazildigi meteryal",kitap
+"basili veya yazili kâgit yapraklarin butunu",kitap
+"kitapta nerde kalindigini belirleyen kagit parcasi",kitap_ayraci
+"hangi sayfada oldugumu belirtmek icin kullanilir",kitap_ayraci
+"kitapta en son okudugun sayfayi unutmamak icin yardimci gerec",kitap_ayraci
+"plastik telli kap",klasor
+"dizin olusturmak icin arac",klasor
+"mukavva veya plastikten telli kap",klasor
+"uzerinde tuslar olan parca",klavye
+"bilgisayara giris datalarinin girilmesini saglar",klavye
+"bilgisayarda yazi yazabilmeye yardimci arac",klavye
+"soguk ve sicak hava ufleyen arac",klima
+"sogutma veya isitma saglayan cihaz",klima
+"bir yerin havasini degistiren arac",klima
+"omuzdan parmaklara uzanan uzuv",kol
+"insan uzvu",kol
+"insan vucudunda omuz basindan parmak uclarina kadar uzanan bolum",kol
+"bilege takilan sat",kol_saati
+"zamani tutan insan kolu icin yapilmis alet",kol_saati
+"Bilege takilan saat bilek saati",kol_saati
+"genis rahat sandalye",koltuk
+"oturmaya yarayan ev aleti",koltuk
+"oturmaya yarayan esya",koltuk
+"siyah renkli kati yakit",komur
+"isinmak icin yanarak kullanilan madde",komur
+"isinmak icin kullanilan yakilacak urun",komur
+"akimsiz elektrik yuku biriktiren arac",kondansator
+"elektriksel depolama yapan eleman",kondansator
+"icinde akimsiz elektrik yuku biriktirilen cihaz",kondansator
+"perde asmaya yarayan nesne",kornis
+"tulleri tutan plastik parcasi",kornis
+"perde asmaya yarayan metal veya plastikten yapilmis arac",kornis
+"gevis getiren memeli",koyun
+"bir tur hayvan",koyun
+"kucukbas hayvan",koyun
+"giysi aksesuari",kravat
+"dis giyim aksesuari",kravat
+"giysi aksesuari",kravat
+"havada oksitlenmeyen element",krom
+"bir cesit element",krom
+"isiya dayanikli havada oksitlenmeyen bir element",krom
+"sari renkli element",kukurt
+"bir cesit element",kukurt
+"sari renkli element",kukurt
+"yanan seylerden arta kalan toz madde",kul
+"yanan bir maddeden kalan artik",kul
+"yanan seylerden artakalan toz",kul
+"duyma organi",kulak
+"duyma organidir.",kulak
+"isitme organi",kulak
+"ufak tanecikli yapi",kum
+"parcalanmis kaya maddesi",kum
+"ufak  sert tanecikler",kum
+"makinede dokunmus kumas",kumas
+"dikilerek elbiseleri olusturan parca",kumas
+"pamuk yun ipek vb.nden makinede dokunmus her turlu dokuma",kumas
+"hayvanlarin barinmasina yarayan kapali yer",kumes
+"tavuk gibi hayvanlar icin yapilan yapi",kumes
+"tavuk hindi gibi evcil hayvanlarin barinmasina yarayan kapali yer",kumes
+"ipekli serit",kurdelec
+"genis ipekli serit kudele",kurdelec
+"yuvarlak cisim",kure
+"geometrik bir tanim",kure
+"yuvarlak cisim",kure
+"hayvan postu",kurk
+"isinmak icin kullanilan giyim cesidi",kurk
+"bazi hayvanlarin  giyecek yapmak icin islenmis postu",kurk
+"silahlarda kullanilan mermi",kursun
+"bir cesit element",kursun
+"tabanca ve atesli silahlarda kullanilan mermi ",kursun
+"ucan hayvan",kus
+"bir cesit ucabilen hayvan",kus
+"iki kanatli ucan hayvan",kus
+"kapakli kap",kutu
+"esya saklanabilen kare veya dikdortgen ici bos cisim",kutu
+"tahta veya plastikten lan kap",kutu
+"kat kat yapraklari olan bitki",lahana
+"bir tur bitki",lahana
+"bitki",lahana
+"isik veren alet",lamba
+"aydinlama cihazi",lamba
+"aydinlanmaya yarayan arac",lamba
+"tasit tekerlegi",lastik
+"otomobilin hareketini saglayan parca",lastik
+"esnek iplik",lastik
+"el yikanan yer",lavabo
+"suyun kullanimin yapildigi yer",lavabo
+"el yuz bulasik yikamaya yarar",lavabo
+"metalleri tutturmaya yarayan alasim",lehim
+"iki parcanin birlestirilmesine denir",lehim
+"erime noktalari dusuk metalleri tutturmaya yarayan kalay kursun",lehim
+"iplikten yapilmis orgu",lif
+"yikanmak icin kullanilan bitki telleri demeti",lif
+"esans karisimli icki",likor
+"Alkollu icecek",likor
+"alkol  esans karisimindan yapilan sekerli icki",likor
+"tren vagonlarini ceken makine",lokomotif
+"bir cesit tren modeli",lokomotif
+"tanimi nedir?",lokomotif
+"ulasim araci",lokomotif
+"vucutta kullanilan kremsi yapi",losyon
+"deri ve sac bakiminda kullanilan  hafif alkollu ya da alkolsuz  guzel kokulu sivi.",losyon
+"nemlendirici krem",losyon
+"hamur kivaminda sekerleme",macun
+"Macun  tipik olarak ev yapiminda kullanilan ve sizdirmazlik maddesi veya dolgu maddesi olarak tamir edilen  kil veya hamur isi ile ayni dokuda oldugu gibi yuksek plastisiteli bir malzemedir. ",macun
+"kapi pencere gibi esyalarda kullanilan parcalari birbirine tutturmak icin surulen  madde",macun
+"ekonomik degeri olan madde",maden
+"cesitli ic ve dis dogal etkenlerce yerkabugunun kimi bolgelerinde olusturulmus olan  ekonomik bir degeri bulunan mineral.",maden
+"degerli hammadde",maden
+"element",magnezyum
+"Magnezyum  gumus beyazliginda bir metaldir ve genellikle alasim maddesi olarak  yani baska metallerle karistirilarak kullanilir.",magnezyum
+"vitamin",magnezyum
+"kesim yapmaya yarayan arac",makas
+"bir eksen cevresinde hareket edebilecek bicimde birbirine ortadan bir vidayla capraz eklemlenmis  birbirine bakan yuzleri keskin iki celik parcadan olusan  uclarindaki deliklere parmak gecirilerek kullanilan  arasina yerlestirilen herhangi bir seyi kesm eye yarayan arac.",makas
+"kesme aleti",makas
+"sistemlerin birlesiminden olusan alet",makine
+"herhangi bir enerji turunu baska bir enerjiye donusturmek  belli bir is yapmak ya da bir etki olusturmak icin birlestirilmis  genellikle carklardan  dislilerden  millerden ve daha bircok devinimli parcadan olusan karmasik duzenekler butunu.",makine
+"otomatik calisan hersey",makine
+"esyalari tutturmaya yarayan kiskac",mandal
+"kapi ve pencere kanadi  dolap kapagi gibi seyleri kapali tutmaya yarayan  tahtadan ya da metalden yapilmis hareketli parca.",mandal
+"camasir asma aparati",mandal
+"insan modeli",manken
+"Manken ya da model; sanat  moda veya reklam icin poz yapan veya kendini sergileyen kisidir. ",manken
+"kiyafet sergileyen insanlar",manken
+"bitki",mantar
+"Bir bitki turudur",mantar
+"her yerde yetisen sebze",mantar
+"ceket",manto
+"kadin paltosu.",manto
+"kisin giyilecek",manto
+"kati yag",margarin
+"Margarin  tereyaginin yerine kullanilmak uzere uretilmis olan  cesitli bitkisel ve hayvansal yaglardan dogal veya kimyasal olarak elde edilen yag cesididir.",margarin
+"yemek yapilan yag",margarin
+"meyvelerin ezilmesinden olusan recel",marmelat
+"Marmelat  narenciye meyvelerinin seker ve su ile kaynatilmasindan elde edilen meyve suyu ve kabugundan yapilan bir meyve konservesidir.",marmelat
+"meyvelerden yapilan tatli",marmelat
+"uzun yesil yaprakli bitki",marul
+"Marul  papatyagiller ailesinden genis yesil yaprakli  yillik veya alti aylik bir iliman iklim sebzesidir.",marul
+"toprakta yetisen bitki",marul
+"uzerinde calisilan esya",masa
+"u-zerinde turlu isler yapilabilen  agactan  metalden vb. yapilmis  ayaklar ya da bir destek uzerine oturtulmus duz bir tabladan olusan mobilya.",masa
+"ayaklari ve tablasi olan bir nesne",masa
+"yuzu kapatan kumas parcasi",maske
+"Maske  genel anlamiyla boyali karton  kumas  deri veya plastikten yapilan ve baskalarinca taninmamak icin yuze gecirilerek kullanilan yapma yuzdur.",maske
+"bakim yapmak icin kullanilan bir nesne",maske
+"deniz giysisi",mayo
+"Mayo  yuzme sirasinda giyilen ve bu amaca ozel tasarlanmis olan kiyafetlerdir. ",mayo
+"yuzmek icin giyilen bir giyisi cesidi",mayo
+"silmek ve kurulamada kullanilan bez",mendil
+"Mendil  burun  gozyasi ve ter silmekte  el ve yuz kurulamakta kullanilan kucuk  kare biciminde kumas veya yumusak  ince kâgit.",mendil
+"bir seyleri silmek icin kullanilan nesne",mendil
+"kalin capli oklava",merdane
+"Merdane hamur acmaya yarayan silindir sekilli aractir. Oklava ile ayni islevi gorur.",merdane
+"hamur acmak icin kullanilan nesne",merdane
+"tas",mermer
+"Mermer  metomorfizma olayi sonucunda kalker ve dolomitik kalkerlerin yeniden kristallesmesiyle meydana gelmis bilesimdir.",mermer
+"topragin altindan cikarilan tas turu",mermer
+"silahlara konulan patlayici madde",mermi
+"Mermi  atesli silahlarda kullanilan fisegin atis aninda namludan firlatilan bilesenidir. ",mermi
+"silahin icindeki kucuk metaller",mermi
+"parlak madde",metal
+"Metal  yuksek elektrik ve isi iletkenligi  kendine ozgu parlakligi olan  sekillendirmeye yatkin  katyon olusturma egilimi yuksek  oksijenle birleserek cogunlukla bazik oksitler veren elementler. ",metal
+"dogada element halinde bulunan ham madde",metal
+"bitkilerin yenebilen urunu",meyve
+"Botanikte meyve ciceklenmeden sonra yumurtaliktan olusan  cicekli bitkilerde tohum tasiyan yapidir.",meyve
+"bitkilerin tohumlarinin bulundugu kisim",meyve
+"metalleri ceken madde",miknatis
+"Miknatis  manyetik alan ureten nesne veya malzemedir. ",miknatis
+"bazi metalleri manyetik alanina ceken alet",miknatis
+"hasta eden hucreler",mikrop
+"Bir mikroorganizma veya mikrop mikroskobik bir organizmadir.",mikrop
+"canlilarda olumsuz etkiler yaratabilen tek hucreli canli",mikrop
+"mikrobu gormeye yarayan alet",mikroskop
+"Mikroskop  ciplak gozle gorulemeyecek kadar kucuk cisimlerin birkac cesit mercek yardimiyla buyutulerek goruntusunun incelenmesini saglayan bir alettir.",mikroskop
+"goz ile gorulemeten boyutlari mercek yardimi ile detayli incelemeye yarayan alet.",mikroskop
+"",mineral
+"Mineral dogal sekilde olusan  homojen  belirli kimyasal bilesime sahip inorganik kristallesmis kati bir maddedir.",mineral
+"bir tur tas",mineral
+"kocan durumundaki bitki",misir
+"Misir  genellikle cok nemli iklim bolgelerinde yetistirilebilen bir tarim bitkisi.",misir
+"bir tur bitki  dari  afrikada bir ulke",misir
+"ev esyalari",mobilya
+"Mobilya  oturulan yerlerin suslenmesine ve turlu amaclarla donatilmasina yarayan esya. ",mobilya
+"insanlarin yasam alanlarinda bulundurdugu esyalar",mobilya
+"bilgisayarla baglantili ekran",monitor
+"Monitor  goruntu sergilemek icin kullanilan elektronik ya da elektro-mekanik aygitlarin genel adidir.",monitor
+"ekran",monitor
+"ceket",mont
+"Mont bir ceket turudur.",mont
+"soguk havalarda kiyafetlerin uzerine giyilen kalin giysi",mont
+"makinelerin calismasini saglayan aletler",motor
+"Motor  bir enerji formunu mekanik enerjiye ceviren makinedir. ",motor
+"mekanik enerji ureten alet ",motor
+"iki tekeri olan motorlu tasit",motorsiklet
+"Motosiklet  iki ya da uc tekerlekli  bisiklet benzeri  icten yanmali motora sahip bir ya da iki kisilik ulasim aracidir.",motorsiklet
+"iki tekeri olan ve motorla calisan binek arac",motorsiklet
+"renkli parcalar",mozaik
+"Sanatta mozaik; bir yuzeyin  farkli renklerdeki kucuk parcaciklarin yan yana getirilmesi yontemiyle suslenmesi ve bu sekilde uretilmis eserdir.",mozaik
+"kucuk tas parcalariyla yapilan kolaj",mozaik
+"atesle birlite isin yayan obje",mum
+"Mum  parafin  donyagi ya da bunlara benzer  yavas yanan bir maddenin  genellikle pamuktan yapilan bir fitilin uzerine dokuldukten sonra katilastirilmasi yontemiyle hazirlanan  genellikle silindir bicimindeki isik kaynagidir.",mum
+"isitma ve aydinlatma saglar",mum
+"yazmak icin kaleme doldurulan sivi",murekkep
+"Murekkep cesitli renklendirici ya da boyalar kullanilarak uretilmis akiskan bir maddedir.",murekkep
+"yazmak icin kullanilan renk veren malzeme",murekkep
+"su gecirmez kaucuk",musamba
+"bir yuzune kaucuk ya da yagliboya surulerek su gecirmeyecek duruma getirilmis bez.",musamba
+"plastik ortu",musamba
+"suyun aktigi armatur",musluk
+"Musluk  herhangi bir sivi ya da gaz akiskanin akisini kontrol eden bir vanadir.",musluk
+"su akitan cihaz",musluk
+"meyve",muz
+"Muz  Guneydogu Asya'nin tropikal bolgelerinde dogal olarak yetisen bir agacsi bitkiye ve bu bitkinin yesil kabuklu uzun meyvelerine denir.",muz
+"kabugu sari renkli tropikal meyve",muz
+"sesle yapilan sanat",muzik
+"Muzik  insanin dogaya ekledigi uyumlu seslerdir. Ses  bir doga olayidir.",muzik
+"notalarin birlesiminden olusan sesler",muzik
+"una benzeyen madde",nisasta
+"Nisasta  farin veya amidon  suda cozunmeyen  kompleks bir karbonhidrat",nisasta
+"yemeklerde kullanilan bir  toz urun",nisasta
+"yazi yazmaya yarayan kagit parcalari",not_defteri
+"Defter  uzerinde yazi veya cizim yapilmasi amaciyla bos kâgitlarin birlestirilmesiyle meydana getirilen bir nesnedir. ",not_defteri
+"hatirlamak amaciyla yazi yazilan defter",not_defteri
+"koku vermesi amaciyla sikilan sivi",oda_spreyi
+"Oda spreyi havasiz kalan veya kotu kokan yerlere hos koku veren bir sprey turu. ",oda_spreyi
+"kotu kokulair engellemek icin kullanilan esansli su",oda_spreyi
+"agacin kesilmis hali",odun
+"Odun  agaclardan yakit icin toplanan ve kullanilan herhangi bir ahsap malzemedir. ",odun
+"isinmak icin yakilan agac parcasi",odun
+"solunumda kullanilan gaz",oksijen
+"Oksijen atom numarasi 8 olan ve O harfi ile simgelenen kimyasal elementtir. ",oksijen
+"dogada gaz halinde bulunan yanici bir element",oksijen
+"bir hayvan cesidi",okuz
+"memeli otcul bir hayvan",okuz
+"hayvan ",okuz
+"balik tutmaya yarayan alet",olta
+"balik avlamakta kullanilan  istenilen uzunlukta bir misinanin ucuna takili  ozel olarak bu is icin yapilmis cengelli igne.",olta
+"balik tutmak icin kullanilan bir el aleti",olta
+"govde ve kolun birlestigi yer",omuz
+"omuz insan vucudunda kollarin govdeyle birlestigi yere verilen isimdir.",omuz
+"bas bolgesinin asagisinda bulunan kollarin bedene baglandigi bolge",omuz
+"muzik aleti",org
+"ellerle veya ayaklarla pedalli tahta ile calinan tonlar uretmek icin bir veya daha fazla boru bolumunun veya baska araclarin klavyeli bir enstrumanidir.",org
+"muzik aleti",org
+"iple verilmis sekiller",orgu
+"iplik ile olusturulan nesne",orgu
+"bir orme cesidi",orgu
+"farkli amaclarla kullanilan nesne",ortu
+"esyalarin uzerinin kapatilmasi icin kullanilan nesne",ortu
+"masalarin ustune serilen nesne",ortu
+"meyvesi olmayan bitki",ot
+"Otlar  tibbi amaclari olan  yiyecekleri veya garniturleri tatmak ve suslemek icin kullanilan tuzlu veya aromatik ozelliklere sahip bitkilerdir",ot
+"cimen",ot
+"yolcu tasiyan kara araci",otobus
+"Otobus  kara yolu tasima yonetmeligine gore surucu dahil 17 kisiden fazla yolcu kapasitesi olan motorlu kara tasitidir. ",otobus
+"bir yerden bir yere ulasim araci",otobus
+"icerisinde yiyecek ve icecek olan makine",otomat
+"Otomat  otomatik olarak ardisik veya dongusel islemleri gerceklestirebilen mekanik veya elektro-mekanik duzenektir.",otomat
+"tanimi nedir?",otomat
+"icerisinde atistirmalik satilan alet",otomat
+"kucuk cocuklarin neselenmesi oyalanmasi icin kullanilan nesne",oyuncak
+"cocuklarin vakit gecirmek icin kullandiklari nesne",oyuncak
+" genellikle cocuklar tarafindan oyun oynarken kullanilan her turlu nesnedir.",oyuncak
+"ise yaramayan bez parcasi",pacavra
+"zarar gormus malzeme",pacavra
+"eskimis",pacavra
+"boya ayrici alet",palet
+"belli zeminlerde hareket etmeyi mumkun kilan alet ",palet
+"ressamlarin kullandigi bir nesne",palet
+"tekstilde kullanilan hammadde",pamuk
+"beyaz yumusak bitki",pamuk
+"egumecigillerden  sicak iklimlerde yetisen  koza bicimindeki urunu uc  dort ya da bes dilimli olabilen  kozasi icin ekilen cok degerli bir sanayi bitkisi.",pamuk
+"yenilebilen bir besin",pancar
+"kirmizi renkte toprak altinda yetisen bitki",pancar
+"bir sebze cesidi",pancar
+"ustune notlar asabilecegin bir nesne",pano
+"bir seyleri asmak icin kullanilan zemin",pano
+"duvara asilan nesne",pano
+"alt bedene giyilen kiyafet",pantalon
+"pantolonun yanlis yazilmisi",pantalon
+"giyilebilen kumas parcasi",pantalon
+"alt bedene giyilen kiyafet",pantolon
+"belden asagisini orten giysi",pantolon
+"giyilebilen kumas parcasi",pantolon
+"damatlarin taktigi aksesuar",papyon
+"gomlek yakasina takilan aksesuar",papyon
+"astik bag ile ya da bir cengelle yakaya tutturulan  kelebek biciminde kravat  papyon kravat.",papyon
+"satin almak icin kullanilan arac",para
+"alisveris yapmak icin kullanilan senet",para
+"devletce bastirilan ve ulke icinde odeme araci olarak kullanilan  uzerinde saymaca degeri yazili  kâgit ya da metal nesne.",para
+"ucmak icin kullanilan alet",parasut
+"dususu yavaslatan aparat",parasut
+"cmakta olan bir ucaktan  helikopterden ya da yuksek bir kuleden  yuksek bir yerden atlayan  inen ya da dusen bir insanin  bir cismin dususunu agirlastirarak yere rahatca inmesini saglayan  ipekten ya da naylondan yapilmis  acildiginda kubbe bicimini ala n bir yelken olan arac.",parasut
+"koku veren kozmetik esya",parfum
+"guzel koku veren nesne",parfum
+"sikilan surulen ucucu nesne",parfum
+"yer dosemesi",parke
+"zemini kaplayan dekor",parke
+"kucuk ve kendine ozgu bicimli tahta parcasi.",parke
+"farkli boyutlarda el bolumu",parmak
+"el uzerindeki uzuv",parmak
+"bir uzuv",parmak
+"hapishane demiri",parmaklik
+"giris cikisi engelleyen sert seritler",parmaklik
+"bir yeri bolmek  gecisi engellemek  dusme tehlikesini vb. onlemek gibi isler icin kullanilan  dikine ve biraz aralikli bicimde yan yana dizilerek tutturulmus tahta  demir vb. cubuklarla yapilmis bolme ya da korkuluk.",parmaklik
+"yenilebilen bitki",patates
+"toprak altinda yetisen sari renkte sebze",patates
+"bir sebze cesidi",patates
+"anlik bir sekilde zarar verebilen yuksek ses cikartan madde",patlayici
+"patlama ozelligi olan madde",patlayici
+"yanici madde cesidi",patlayici
+"temizlik urunu",pecete
+"temizlik icin kullanilan bitki bazli urun",pecete
+"bez parcasi",pecete
+"evin isik alabilmesi icin olan cam dikdortgen ",pencere
+"hava almak uzere acilip kapanabilen aparat",pencere
+"evlerde bulunan bir detay",pencere
+"evin gorunmemesini saglayan tul",perde
+"gunes isinini engelleyen pencere ustune takilan nesne",perde
+"evlerde bulunan bir detay",perde
+"yapay sac",peruk
+"sahte sac",peruk
+"kafaya takilan bir giysi",peruk
+"araclarin calismasi icin lazim olan madde",petrol
+"fosillesmis hammadde ",petrol
+"degerli yag",petrol
+"sutten yapilan kahvaltilik",peynir
+"fermente tuzlu sut urunu",peynir
+"sutten yapilan bir yiyecek",peynir
+"gece giyilen giysi",pijama
+"yatarken giyilen kiyafet",pijama
+"geceleri giyilen giysi",pijama
+"enerji maddesi",pil
+"enerji veren aparat",pil
+"elektronik alete guc verir.",pil
+"bir tur nikotin",pipo
+"tutun icme aparati",pipo
+"firinlanmis toprak  eskisehirtasi  funda koku gibi cok cesitli maddelerden yapilabilen  ucunda icine tutun konulan bir lule bulunan cubuk biciminde bir tutun icme araci.",pipo
+"yesil sebze",pirasa
+"yesil yaprakli bir sebze",pirasa
+"bir sebze cesidi",pirasa
+"bakliyat",pirinc
+"beyaz nisasta bazli bitki tohumu",pirinc
+"Pirinc  bakira cinko katilarak elde edilen sari renkteki alasimlarin genel ismi. ",pirinc
+"muzik aleti ensturman",piyano
+"tuslu muzik aleti",piyano
+"calinan enstruman",piyano
+"tasitlari ayirt etmek icin kullanilan kodlar",plaka
+"her bir araca ozel id",plaka
+"aracin arkasindaki nesne",plaka
+"bir cesit hammadde",plastik
+"petol bazli hammadde",plastik
+" karbon (C)  hidrojen (H)  oksijen (O)  azot (N) ve diger organik ya da inorganik elementlerin olusturdugu monomer ",plastik
+"benzin koymak icin kullanilan alet",pompa
+"sivi iletimi icin kullanilan mekanizma",pompa
+"yakit doldurma nesnesi",pompa
+"sekil verilmis degerli nesne",porselen
+"cam bazli dekorasyon hammaddesi",porselen
+"anak comlek yapiminda kullanilan  kaolinden yapilma  beyaz  sert ve yari saydam hamur.",porselen
+"unlulerin ve sevilen insanlarin duvara yapistirilan fotografi",poster
+"resim ",poster
+"duvara asilan nesne",poster
+"insanlarin kendini tanitmak icin kullandigi biyografisi",profil
+"sosyal medya hesabi ana sayfasi",profil
+"yandan gorulen insan yuzu",profil
+"yansitma aleti",projeksiyon
+"opak zemine goruntu yazdiran alet",projeksiyon
+"goruntuleme araci ",projeksiyon
+"makyaj malzemi ya da bebekler icin kullanilan toz",pudra
+"ince taneli beyaz toz",pudra
+"makaj malzemesi",pudra
+"sus ya da postlar icin kullanilan yapiskan",pul
+"mektup zarfi uzerine yapistirilan nesne",pul
+"mektuplarda kullanilan bir nesne",pul
+"bir tur nikotin",puro
+"Kalin tutun urunu",puro
+"firinlanmis toprak  eskisehirtasi  funda koku gibi cok cesitli maddelerden yapilabilen  ucunda icine tutun konulan bir lule bulunan cubuk biciminde bir tutun icme araci.",puro,
+"yer yon bulmak icin kullanilan alet",pusula
+"yon bulmaya yardimci aygit",pusula
+"yon bulma ",pusula
+"hiz siniri saglamak icin",radar
+"hareketli nesne tespit aygiti",radar
+"gonderdigi radyo dalgalarinin bir engele carpip geri donmesi yoluyla o engelin uzakligini ve konumunu belirleyen aygit.",radar
+"haber kaynagi ve muzik dinleme aleti",radyo
+"antenli alicisi olan ses iletim aygiti",radyo
+"ses cikaran bir alet",radyo
+"alkol",raki
+"beyaz renki alkollu icki",raki
+"alkol",raki
+"demiryolu ulasim hatti",ray
+"demiryolu araclarinin hareket ettigi zemin",ray
+"trenlerin gittigi yol ",ray
+"tatli kahvaltilik",recel
+"seker ve meyve ile yapilan gida",recel
+"herhangi bir meyveyi sekerle kaynatarak hazirlanan  genellikle kahvaltida kullanilan tatli.",recel
+"izler tasiyan sanat eseri",resim
+"kalem veya fica ile cizilen tasvir",resim
+"cizilen bir sey",resim
+"isi saglamak icin kullanilan alet",rezistans
+"direnc olusturan aparat",rezistans
+"bulasik makinesi parcasi",rezistans
+"motorlu araclarla cekilen motorsuz yuk tasima tasiti",romork
+" Motorlu aracla cekilen insan veya yuk tasimak icin imal edilmis motorsuz tasittir. Yari romork: Bir kismi motorlu tasit veya arac ...",romork
+"yuk tasiyan arac",romork
+"zaman olcen alet",saat
+"zamani gosteren gerec",saat
+"el  yuz  yuzey temizleyen madde",sabun
+"temizlik icin kullanilan deterjan",sabun
+"alnin ust kisminda enseye kadar uzanan bas uzerindeki killar",sac
+"kafada cikan tuy",sac
+"yanaklardan ceneye kadar uzanan dudak uzeri haric killar",sakal
+"yuzde cikan tuy",sakal
+"hayvanlarin yemesi daha az tercih edilen kisimlari",sakatat
+"kucuk ve buyukbas hayvanlarin ic organlari",sakatat
+"agizda yutulmadan cignenen gidasal urun",sakiz
+"bir tur seker",sakiz
+"yesil bir sebze turu",salatalik
+"yesil uzun sebze",salatalik
+"salgam bitkisinden uretilen icecek",salgam
+"turpgiller ailesine ait bir bitki",salgam
+"bazi ekinlerin harmanlanmasiyla olusan saplar",saman
+"otlarin kurumus hali",saman
+"ayakli oturak",sandalye
+"Oturmak icin kullanilan nesne",sandalye
+"basa takilan koruyucu aksesuar",sapka
+"basa giyilen veya takilan aksesuar",sapka
+"uzumun farmentasyonu sonucu ortaya cikan icecek",sarap
+"uzumun mayalanmasiyla olusturulan alkollu icecek",sarap
+"devletler arasi anlasmazligin silahli eyleme donusmesi",savas
+"iki taraf arasinda olan anlasmazlik",savas
+"olay sayisini zaman bazli gosteren cihaz",sayac
+"veri olcen gerec",sayac
+"beslenme amaciyla kullanilan bitkilerin yenen kismi",sebze
+"cig ve pisirilerek tuketilebilen bitki",sebze
+"kucuk masa",sehpa
+"ustune birsey konan alcak destek",sehpa
+"tatli gida karbonhidrat",seker
+"pancar veya sukamisi gibi bitkilerden uretilen bir tur hammadde",seker
+"uyuklama",sekerleme
+"genelde seker  yapilan bir tur yiyecek ",sekerleme
+"bitki hucrelerinde bulunan madde",seluloz
+"bitkilerdeki bir yapi",seluloz
+"yagmurdan koruyan cisim",semsiye
+"yagmurdan korunmak icin kullanilan bir tur korunak",semsiye
+"bir seyler tasimak icin kullanilan tasiyici",sepet
+"malzeme koyup tasimaya yarayan gerec",sepet
+"yuksek isida pisirilen topraktan elde edilen cisim",seramik
+"kati bir malzeme.genelde kilden yapilir",seramik
+"icinde fibinojen bulunan sivi",serum
+"kana enjekte edilen ilac",serum
+"ip",sicim
+"bitkilerin liflerinden yapilan ince ip",sicim
+"kagida sarilarak tuketilen tutun",sigara
+"tutun urunu",sigara
+"ayni cizgi uzerinde art arda dizilmis seyler  masa  dizili topluluk",sira
+"oturulan veya duzene sokulan seylerin yada kimselerin tumu",sira
+"elma ve uzumden elde edilen sivi",sirke
+"meyvelerden uretilen bir gida",sirke
+"sirta takilan canta",sirt_cantasi
+"sirta takilabilen bir tur canta",sirt_cantasi
+"toplu konut  web linki",site
+"sinirlari bleli olan alan",site
+"duvara surulen yuzey duzenleyici harc",siva
+"su  kum  cimento ile olusturulan bosluk doldurucu",siva
+"bir tur zehir hidrosiyanuk asit",siyanur
+"cok guclu bir zehir",siyanur
+"isitma araci",soba
+"isinmak icin kullanilan arac",soba
+"tesisattan gelen suyu isitan makine",sofben
+"su isitmak icin kullanilan arac",sofben
+"goz yasartan sebze",sogan
+"bir tur sebze",sogan
+"ekmek turu",somun
+"vida ile kullanilan baglanti elemani",somun
+"demirli baza",somya
+"yaylarla yapilmis yatagin alt kismi",somya
+"baharatli ya da baharatsiz yagli susleme veye tadlandirici gida",sos
+"yemeklerin uzerine dokulen terbiye",sos
+"et urunu",sosis
+"baharatli et urunu",sosis
+"baklagiller ailesinden bir bitki",soya
+"baklagiller familyasindan bir tur yenilen bitki",soya
+"kelime",sozcuk
+"belli bir anlami olan hecelerden olusan dil ogesi",sozcuk
+"kelime anlamlari",sozluk
+"bir dili tanimlayan kitap",sozluk
+"duzenli haraket",spor
+"beden hareketlerinin tumu",spor
+"canlilarin en cok tukettigi sivi",su
+"iki hidrojen bir oksijenden olusan seffaf madde",su
+"su sicakligini artiran makine",su_isiticisi
+"suyu sicakligini arttirmaya yarayan arac",su_isiticisi
+"emici bez  tek hucreli canli",sunger
+"yumusak ve gozenekli yapidan yapilmis",sunger
+"temizleme aleti",supurge
+"toz ve pislikleri hava yolu ile icine ceken arac",supurge
+"icine icecek koymaya yarayan nesne",surahi
+"su doldurulan bi gerec",surahi
+"bir seyi daha gosterisli hale getirme",susleme
+"goze guzel gelen bicimlere denir",susleme
+"disi memelilerin urettigi beyaz sivi  bazi birtkilerin organlarinda urettigi beyaz sivi  erkek baligin tohumu",sut
+"disi memeli hayvanlarin yavrularini beslemek icin memelerinden gelen beyaz sivi",sut
+"icerisine yemek koyulan cisim",tabak
+"yemek koymak icin kullanilan gerec",tabak
+"silah",tabanca
+"genelde patlayici ve delici etkisi olan bir tur nesne",tabanca
+"yol veya yon gosteren isaretci",tabela
+"reklam veya dikkat cekmek icin kullanilan bir isaret",tabela
+"cizelge resim",tablo
+"resim veya fotografin konulmasi icin gerekli arac",tablo
+"bugdaygillerden uretilen taneli  urunlerin genel adi",tahil
+"bugday arpa gibi taneli urunlerin genel adi",tahil
+"agac parcasi",tahta
+"agactan uretilen madde",tahta
+"zamani belirli zamanlara bolen yontem",takvim
+"tarihi gosteren sistem",takvim
+"tahtalardan dokulen veya rendelenmis kirintilar",talas
+"tahtanin kiyilmasiyla uretilen kruu agac",talas
+"zirhli savas araci",tank
+"savasta kullanilan gerec",tank
+"sac taramaya yarayan alet",tarak
+"saci duzenleyen gerec",tarak
+"tatlilarda kullanilan bir baharat",tarcin
+"yeryuzunde bulunan kaya parcalari",tas
+"kumes hayvanlari kategorisinde kanatli bir hayvan",tavuk
+"bacagi tamamen saran esnek yapida bir kiyafet",tayt
+"kirec tasindan uretilen sert cisimlere cizim yapmaya yarayan cisim",tebesir
+"deniz ulasiminda kullanilan kucuk gemi",tekne
+"cesitli amaclar icin kullanilan uzun ince nesne",tel
+"uydudan alinan goruntuleri aktaran alet",televizyon
+"kisa mesafede iletisim kurmaya yarayan bir alet",telsiz
+"icinde yemek pisirilen ve saklanan alet",tencere
+"cisimlerin agirligini olcmeye yarayan alet",terazi
+"sut urunlerinden uretilen yag",tereyagi
+"yaz mevsiminde ya da evde ayaga giyilen nesne",terlik
+"ortamdaki sicakligi olcen alet",termometre
+"agac ve tahta gibi sert cisimleri kesmeye yarayan alet",testere
+"icerisinde sivi muhafaza edilen toprak kap",testi
+"topragi kazmak icin kullanilan bir alet",tirmik
+"el ve ayak parmaklari uzerinde bulunan sert tabaka",tirnak
+"bitkilerin dollenme sonucu urettigi uremelerini saglayan parca ",tohum
+"saclari toplamaya ya da suslemeye yarayan nesne",toka
+"is yerlerinde calisanlarin etrafinda toplanti yaptiklari nesne",toplanti_masasi
+"yeryuzunun tabaninda yer alan ufak zerrecikli madde",toprak
+"nesnelerin bir arada konuldugu tasindigi arac",torba
+"vidalari bir yere monte etmeye ya da yerinden cikarmaya yarayan alet",tornavida
+"cok kucuk zerrecikler halindeki toprak  atik  akar",toz
+"ciftcilerin tarlalarini ekmek  bicmek  surmek icin kullandigi tasit",traktor
+"insaatta kullanilan duvar yapmaya yarayan tas",tugla
+"pencerelerde ya da kiyafetlerde kullanilan transparan kumas",tul
+"icerisinde gaz bulunan nesne",tup
+"bir kagida sarilarak solunum yoluyla tuketilen cigerlere zararli keyif verici bir bitki",tutun
+"uzerine resim yapilan nesne",tuval
+"insan ve hayvan bedenlerinde bulunan kucuk ince sac parcalari",tuy
+"yemeklere tat vermek icin gollerden elde edilen  yeryuzunun her yerinde bulunan mineral",tuz
+"tuz konulan kap",tuzluk
+"bugdaygillerin ve baklagillerin ogutulmesiyle uretilen gida",un
+"televizyon  radyo gibi elektronik aletlerin uzaktan kontrol edilmesini saglayan arac",uzaktan_kumanda
+"sarmasik seklinde buyuyun asma yapraklari tatli bir meyve",uzum
+"belirli boyutlara sahip  icerisinde yuk ya da yolcu tasiyan trenin parcalari ",vagon
+"pasta ve tatlilarda kullanilan hos kokulu bir bitki",vanilya
+"icine sivi ya da kati maddelerin kondugu buyuk hacimli nesneler",varil
+"icine cicek konulan bir nesne",vazo
+"ahsaplarin uzerine surulen madde",vernik
+"iki parcayi birbirine baglamayi saglayan arac",vida
+"hareketli ve sesli goruntuler",video
+"cok agir cisimleri kaldirmayi ve tasimayi saglayan arac",vinc
+"tum canlilarin yasamlari icin gerekli olan  bazen hali hazirda bulunan bazen disaridan temin edilmesi gereken organik bilesen",vitamin
+"gida  yakit  alet bircok alanda kullanilan suya karismayan madde",yag
+"bir motorun calismasini ya da isi uretilmesini saglayan yer alti kaynaklari",yakit
+"alevlerin yayilarak etrafa zarar vererek yakmasi felaketi",yangin
+"tas  cimento  beton ve duvarlardan olusan yasam alani",yapi
+"iki cismi birlestirmeye yarayan madde",yapistirici
+"bitki ve agaclarin dallarinda yer alan yesil kisim",yaprak
+"basin altina konulan uyumak icin kullanilan yumusak esya",yastik
+"uyumak icin uzerine yatilan esya",yatak
+"asagi yukari esnek hareketi saglayan metal alet",yay
+"basili  yazili  goruntulu olmak uzere kitlelere haber ulastirma isi",yayin
+"bilgisayarlardaki yazi ve goruntuyu kagida aktaran alet",yazici
+"genellikle bir kiyafetin ustune giyilen kolsuz ceket",yelek
+"canlilarin gida ihtiyacini gidermek icin kullandigi besinler",yiyecek
+"sutten elde edilen tatli ve tuzlu olarak tuketilebilen yiyecek",yogurt
+"araclarin gidebilmesi  insanlarin yuruyebilmesi icin insaa edilmis alanlar",yol
+"genellikle 3 yapragi olan yesil bir cicek",yonca
+"deniz  gol  okyanus gibi su kutlelerinin icinde yasayan yesil bir bitki",yosun
+"insan ve hayvanlarda uremeyi saglayan kisim",yumurta
+"bitki ve hayvanlardan elde edilen isinmaya ya da kiyafet yapiminda kullanilan madde",yun
+"parmaga takilan taki",yuzuk
+"agaclardan elde edilen yapistirici madde",zamk
+"toksik etkisi olan  hastaliga ya da olume sebep olabilen maddeler",zehir
+"yemeklerde kullanilan zeytinden elde edilen sivi",zeytinyagi
+"kagitlari delmek ve birlestirmek icin kullanilan metal parcalarinin kullanimini saglayan arac",zimba
+"puruzleri gidermek icin kullanilan alet",zimpara
+"ic ice gecmis ayni sekillerden olusan nesnelerin birlesiminden olusan belli nesneleri birlestirmek baglamak icin kullanilan metal cisim",zincir

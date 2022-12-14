@@ -1,0 +1,1989 @@
+@RELATION	text2arff
+
+@ATTRIBUTE	tanimi_nedir	STRING
+@ATTRIBUTE	class	{acele_etmek,aciklamak,acilmak,acmak,affetmek,ag,agac,aglamak,akil_etmek,alay_etmek,alismak,almak,anlamak,anlatmak,anmak,araba_surmek,aramak,artmak,arzu_etmek,asik_olmak,asmak,atamak,ates_etmek,atlamak,atmak,ayaga_kalkmak,ayarlamak,ayirmak,ayrilmak,bagirmak,bagislamak,baglamak,bahsetmek,bakmak,balik_tutmak,banyo_yapmak,barismak,basarmak,baslamak,baslatmak,basmak,begenmek,beklemek,belgelemek,belirlemek,belirtmek,benzemek,bikmak,bildirmek,bilmek,binmek,bir_araya_gelmek,birakmak,bitirmek,bitmek,bolmek,borc_almak,borc_vermek,bozdurmak,bozmak,bulmak,bulunmak,bulusmak,buyumek,cagirmak,cagrida_bulunmak,calismak,calmak,can_almak,can_vermek,cani_sikilmak,canlandirmak,canlanmak,canta,carpismak,carpmak,catal,cati,cavdar,cay,cekmece,cekmek,cekyat,celik,cerceve,cereyan_etmek,cevap_vermek,cevaplandirmak,cevirmek,ceza_vermek,cezalandirmak,cicek,cikarmak,cikartma,cikmak,cikolata,cikrik,cimento,cini,civi,cizmek,cokelek,corap,cozmek,cuval,dagitmak,daire,dal,damga,dans_etmek,dantel,davam_etmek,davet_etmek,davranmak,degerlendirmek,degismek,degistirmek,demek,denemek,ders_calismak,desteklemek,deterjan,devam_etmek,dikkat_etmek,dile_getirmek,dilemek,dinlemek,dinlenmek,dogmak,dogrulamak,dokmek,dokunmak,dolasmak,donmek,dovmek,dua_etmek,durdurmak,durmak,dus_yapmak,dusmek,dusunmek,duvar,duymak,duzenlemek,eglenmek,ele_gecirmek,emekli_olmak,emretmek,endise_etmek,engel_olmak,engellemek,ertelemek,etkilemek,ev_tutmak,evlenme_teklif_etmek,evlenmek,ezberlemek,farketmek,farzetmek,feshetmek,fotokopi_cekmek,fren_yapmak,gec_kalmak,gecikmek,gecirmek,gecmek,gelismek,gelistirmek,gelmek,gerceklesmek,gerceklestirmek,gerekmek,geri_vermek,getirmek,gezmek,girmek,gitmek,giyinmek,giymek,gizlemek,gocmek,gondermek,gormek,gorunmek,gorusmek,gostermek,goturmek,goz_atmak,gozaltina_almak,gozden_gecirmek,gozukmek,grev_yapmak,gulmek,guzellesmek,haber_vermek,harcamak,hatirlamak,hatirlatmak,hazirlamak,hazirlanmak,heyecan_duymak,hissetmek,hosa_gitmek,hoslanmak,icmek,idare_etmek,iddia_etmek,ifade_vermek,ihrac_etmek,ihtiva_etmek,ikaz_etmek,ikna_etmek,ikram_etmek,ilan_etmek,ileri_surmek,ilerlemek,ilgilenmek,imkansiz,imtihan_etmek,imtihana_girmek,imzalamak,inanmak,incelemek,inmek,insaat_yapmak,iptal_etmek,isaret_etmek,isbirligi_yapmak,isgal_etmek,isinmak,isirmak,isitmak,isitmek,ismarlamak,israr_etmek,istemek,istifa_etmek,isyan_etmek,ithal_etmek,itiraz_etmek,itmek,izah_etmek,izin_almak,izin_vermek,izlemek,kabul_etmek,kacirmak,kacmak,kahvalti_etmek,kaldirmak,kalkmak,kalmak,kamp_yapmak,kanunlasmak,kapamak,kapanmak,kar_etmek,karar_vermek,karismak,karsi_cikmak,karsilamak,karsilastirmak,katilmak,kaybetmek,kaybolmak,kaydetmek,kaygilanmak,kayit_yaptirmak,kaynaklanmak,kaza_yapmak,kaza_yaptirmak,kazanmak,kesmek,kinamak,kirada_oturmak,kiralamak,kirmak,kizmak,koklamak,kokmak,kolaylamak,kolaylasmak,kontrol_etmek,konusmak,korkmak,korumak,kosmak,kovmak,koymak,kullanmak,kurmak,kurtarmak,kuskulanmak,kutlamak,kuvvetlenmek,lazim_olmak,mahvetmek,mecbur_olmak,memnun_kalmak,memnun_olmak,merak_etmek,mesgul_olmak,meshur_olmak,meydana_cikmak,meydana_gelmek,mezun_olmak,monte_etmek,mudafaa_etmek,mudahale_etmek,munakasa_etmek,muracaat_etmek,musaade_etmek,neden_olmak,nefret_etmek,nezle_olmak,nitelendirmek,noktalamak,not_almak,not_etmek,not_tutmak,odemek,ogrenmek,ogretmek,okumak,oldurmek,olmak,olmek,olusmak,olusturmak,onaylamak,one_surmek,onem_vermek,onermek,ongormek,onlemek,opmek,ortadan_kaldirmak,ortaya_cikarmak,ortaya_koymak,oturmak,oy_vermek,oynamak,ozetlemek,ozlemek,ozur_dilemek,paniklemek,para_kazanmak,pazarlik_etmek,pisirmek,pisman_olmak,pismek,planlamak,postalamak,rahat_almak,rahatsiz_etmek,rastlamak,razi_olmak,reddetmek,rejim_yapmak,restore_etmek,rica_etmek,riske_girmek,riski_girmek,saglamak,saklamak,saldirmak,sanmak,sapmak,saptamak,sarki_soylemek,sarmak,sart,sasirmak,sasmak,satin_almak,satmak,savasmak,savunmak,saymak,selamlamak,sevinmek,sevmek,seyahat_etmek,seyretmek,siginmak,sikayet_etmek,sikilmak,sinava_girmek,sinirlamak,sohbet_etmek,sokmak,son_vermek,sona_ermek,soylemek,soz_vermek,spor_yapmak,suphe_etmek,surdurmek,surmek,takip_etmek,takmak,tanismak,tanistirmak,tasimak,tavsiye_etmek,teklif_etmek,tekrar_etmek,telefon_etmek,temas_etmek,temas_kurmak,temin_etmek,temizlemek,temsil_etmek,tercih_etmek,tercume_etmek,terfi_etmek,terlemek,tesekkur_etmek,tesir_etmek,teslim_etmek,tesvik_etmek,titremek,toplamak,toplanmak,tutmak,tutuklamak,ucmak,ugramak,ugrasmak,ulasmak,umit_etmek,ummak,unutmak,uretmek,usumek,uyanmak,uyarmak,uygulamak,uymak,uyumak,uzanmak,uzerinde_durmak,uzulmek,var_olmak,varmak,vazgecmek,vermek,vurmak,yagmak,yakalamak,yaklasmak,yakmak,yalanlamak,yanit_vermek,yanitlamak,yanitsiz_birakmak,yanmak,yapmak,yaratmak,yasaklamak,yasaklanmak,yasamak,yaslanmak,yatirmak,yatmak,yaymak,yazmak,yedirmek,yemek_yemek,yenmek,yer_almak,yer_vermek,yerine_getirmek,yetismek,yetistirmek,yikamak,yikmak,yol_acmak,yolculuk_yapmak,yollamak,yonetmek,yorulmak,yukselmek,yurumek,yurutmek,yuzmek,zahmet_etmek,zannetmek,zarar_etmek,ziyan_etmek,ziyaret_etmek,zorlamak,zorluk_cekmek,zorunda_olmak}
+
+@DATA
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"cabuk bitirme istegi",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir isi hizla yapmak",acele_etmek
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"konuyu anlatmak",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"bir konuyu anlatmak icin ornek vermek",aciklamak
+"denizde ilerde yuzmek",acilmak
+"dusunce paylasimi yapma",acilmak
+"bir deniz araciyla denizde kiyidan uzaklasmak",acilmak
+"denizde derine yuzmek",acilmak
+"soylemediklerini aktarmak",acilmak
+"bir yerden uzaklasmak",acilmak
+"denizde kiyidan uzaklasmak",acilmak
+"kapali bir seyi acik hale getirmek",acmak
+"Kapali olan nesneyi acik duruma getirmek",acmak
+"paket halindeki bir kutudan nesneyi cikartmak",acmak
+"kapali bir seyi acik hale getirmek",acmak
+"kapali olan nesneyi oynatmak",acmak
+"kapali veya kilitli bir objeyi aciga cikarmak",acmak
+"kapali olan bir nesnenin kapaginin cikartilmasi",acmak
+"sana kotulugu olan birini bagislamak",affetmek
+"yapilan yanlisi bagilsamak",affetmek
+"birini isledigi bir kusur yuzunden bagislamak",affetmek
+"sana kotulugu olan birini bagislamak",affetmek
+"hatasi olani kabul etme",affetmek
+"birinin yapigi hatayi bagislamak",affetmek
+"hatali olan karsi tarafi hatasindan dolayi hayatindan cikartmamak",affetmek
+"balik tutmak icin kullanilan bir nesne",ag
+"ormanlarda bulunan buyuk bitki",agac
+"uzuntuye tepki  sevince tepki",aglamak
+"uzulunce gerceklestirilen eylem",aglamak
+"bir seye uzulmek",aglamak
+"uzuntuye tepki  sevince tepki",aglamak
+"duygularin cokusu",aglamak
+"duygulari goz yaslari ile disa vurmak",aglamak
+"sevinc veya huzun durumlarinda gozden gozyasi gelmesi",aglamak
+"dusunmek",akil_etmek
+"dusunerek bulmak",akil_etmek
+"bir seyi dusunmek",akil_etmek
+"dusunmek",akil_etmek
+"aklina mantikli fikrin gelmesi",akil_etmek
+"bir konu hakkinda dusunmek",akil_etmek
+"dusunmek",akil_etmek
+"durumu ciddiye almamak",alay_etmek
+"biriyle onu asagilarak konusmak",alay_etmek
+"birinin kusurunu kucumsemek",alay_etmek
+"begenmedigini gulunc bulma",alay_etmek
+"bir durumun veya sahisin yanlisini mizah kullanarak soylemek ",alay_etmek
+"komik veya siradisi bulunan durumla ilgili karsi tarafi taciz etmek",alay_etmek
+"durumu  olayi siradanlastirmak",alismak
+"asinalik kazanmak",alismak
+"baglanmak",alismak
+"yapilan seyi rutine baglamak",alismak
+"bir olaya veya durumu standart hale getirmek",alismak
+"bir durumun icinde uzun sure bulunulmasi sonrasinda o durumun normal haline gelmesi",alismak
+"sahip olmak icin yapilan eylem",almak
+"bir seyi bulundugu yerden kaldirmak",almak
+"Bir seyi oldugu yerden hareket ettirmek",almak
+"nesneyi el ile tutmak",almak
+"bir objeye sahip olmak",almak
+"daha once sahip olunmayan bir seye sahip olmak",almak
+"olayi aciklaga kavusturmak",anlamak
+"bir konunun ne oldugunu kavramak",anlamak
+"kisinin hal ve hareketlerini idrak etmek",anlamak
+"anlattilani algilama",anlamak
+"bir konuyu veya dusunceyi idrak etmek",anlamak
+"bir konunun veya kavramin hakkinda bilgi sahibi olmak",anlamak
+"olayi ogretmek",anlatmak
+"bir konuyu aciklamak",anlatmak
+"aktarmak",anlatmak
+"bilgiyi aktarma",anlatmak
+"bir konuyu veya dusunceyi baskasina idrak ettirmek",anlatmak
+"bir baska kisinin anlamasi icin konuyu karsi tarafa aciklamak",anlatmak
+"gecmiste yasanan olayi hatirlama",anmak
+"bir seyi hatirlamak",anmak
+"bir seyi hatirlamak",anmak
+"yasanmisi hatirlama",anmak
+"bir durumu veya kisiyi aklina getirmek",anmak
+"gecmise ait bir aniyi veya kimseyi hatirlamak",anmak
+"araci hareket ettirmek",araba_surmek
+"araci yonetmek",araba_surmek
+"araba kullanmak",araba_surmek
+"arabayi ilerletmek",araba_surmek
+"arabayi hareket ettirmek",araba_surmek
+"icinde bulunan arabanin ilerlemesini saglamak",araba_surmek
+"Merak edilen ya da kaybedilen seyi bulma",aramak
+"bir seyi bulmaya calismak",aramak
+"yoklamak",aramak
+"iletisim saglama cabasi",aramak
+"bir seyi bulmaya calismak",aramak
+"kaybedilen bir seyin bulunmasi icin yapilan eylem",aramak
+"cogalmak",artmak
+"fazla olmak",artmak
+"somut veya soyut bir seyin derece veya miktarinin cogalmasi",artmak
+"var olanin artmasi",artmak
+"bir seyin miktarinin buyumesi",artmak
+"sayisi az olan bir seyin cogalmasi",artmak
+"asiri istek besleme",arzu_etmek
+"istemek",arzu_etmek
+"cok istemek",arzu_etmek
+"elde etme istegi",arzu_etmek
+"bir seyi asiri istemek",arzu_etmek
+"duslemek",arzu_etmek
+"birseye asiri sevgi beslemek",asik_olmak
+"sevmek",asik_olmak
+"baglanmak",asik_olmak
+"kisiye ozel duygular besleme",asik_olmak
+"birini her seyden cok sevmek",asik_olmak
+"cok sevmek",asik_olmak
+"yukaridan asagiya sarkitmak",asmak
+"bir seyi asagiya dogru sarkitmak",asmak
+"sarkitmak",asmak
+"nesneyi yuksege takma",asmak
+"birini ceza olarak oldurmek",asmak
+"bir nesneyi yerde durmamasi icin askilik benzeri nesnelerin uzerindeki ozel alanlara ilistirmek",asmak
+"bir goreve baslatmak",atamak
+"birini tayin etmek",atamak
+"goreve getirmek",atamak
+"bir ise ogretici secmek",atamak
+"birini bir konuda yetkilendirmek",atamak
+"bir kisiyi farkli bir goreve getirmek",atamak
+"karsidakini etkisiz hale getirmek icin",ates_etmek
+"silah ile mermi atmak",ates_etmek
+"mermi atmak",ates_etmek
+"",ates_etmek
+"birini silahla vurmak",ates_etmek
+"silahla bir hedefe dogru tetigi cekmek",ates_etmek
+"yuksekten asagi inmek icin yapilan eylem",atlamak
+"yuksek bir yerden kendini birakmak",atlamak
+"yuksek bir yerden ziplamak",atlamak
+"nesnenin uzerinden ziplama",atlamak
+"bir engeli ziplayrak gecmek",atlamak
+"yuksek veya alcak bir kenardan daha alcak bir konuma dogru ziplamak",atlamak
+"Havadan varacagi yere gonderme",atmak
+"bir seyi firlatmak",atmak
+"firlatmak",atmak
+"nesneyi firlatma",atmak
+"bir seyi firlatmak",atmak
+"elimizde bulunan bir nesneyi farkli bir yere dogru savurmak",atmak
+"dik konuma gelmek ",ayaga_kalkmak
+"dikilmek",ayaga_kalkmak
+"ayaklari uzerinde durma pozisyonuna gecmek",ayaga_kalkmak
+"otururken harekete gecmek",ayaga_kalkmak
+"vucudu dik pozisyonu ",ayaga_kalkmak
+"oturur pozisyondan ayaklarin uzerinde pozisyona gecis",ayaga_kalkmak
+"Bozuk olan seyi dogru hale getirme",ayarlamak
+"duzenlemek",ayarlamak
+"uyarlamak",ayarlamak
+"",ayarlamak
+"cihazi duzgun calisma konumuna getirmek",ayarlamak
+"bazi seyleri kendi istedigimiz islemleri yapabilmesi icin konfigure etmek",ayarlamak
+"rezerve etmek",ayirmak
+"bir butunden bir parcayi bolmek",ayirmak
+"uzaklastirma",ayirmak
+"nesneleri bolmek siniflandirmak",ayirmak
+"iki nesneyi birbirinden uzaklastirmak",ayirmak
+"birden fazla objeyi birbirinden uzaklastirmak",ayirmak
+"mekandan  insandan uzaklasmak",ayrilmak
+"bir seyden uzaklasmak",ayrilmak
+"birini ya da bir yeri terk etme",ayrilmak
+"kisilerin birbirlerine veda etmesi",ayrilmak
+"birinden uzaklasmaa baslamak",ayrilmak
+"birisinden uzaklasmak",ayrilmak
+"yuksek ses tonu ile konusma",bagirmak
+"yuksek bir ses cikarmak",bagirmak
+"yuksek sesli konusmak",bagirmak
+"sesini yukseltmek",bagirmak
+"yuksek sesle ofke ifadesi ",bagirmak
+"yuksek sesle konusmak",bagirmak
+"yanlis yapan birini affetmek",bagislamak
+"affetmek",bagislamak
+"affetmek",bagislamak
+"hatayi affetmek",bagislamak
+"hatayi affetmek",bagislamak
+"birini affetmek",bagislamak
+"birlesik duruma getirme",baglamak
+"bir seyi baska bir seye tutturmak",baglamak
+"dugumlemek",baglamak
+"",baglamak
+"iki nesneyi birbirine kenetlemek",baglamak
+"bir nesnenin etrafina farkli bir nesneyi gecirmek",baglamak
+"Konuyu birine aktarma",bahsetmek
+"bir konu ustunde soz soylemek",bahsetmek
+"kisiyi soz ile birine anlatmak",bahsetmek
+"",bahsetmek
+"birini birine anlatmak",bahsetmek
+"bir konuda konusurken farkli bir konu veya kisi hakkinda araya soz sikistirmak",bahsetmek
+"gormek icin gozleri cevirmek",bakmak
+"gozlerini belli bir yone cevirerek seyretmek",bakmak
+"gozler ile yapilan eylem",bakmak
+"gorme organiyla izlemek",bakmak
+"gozlerle bir yere odaklanma",bakmak
+"gozle yapilan eylem",bakmak
+"avlanmak icin yapilan eylem",balik_tutmak
+"bir alet ile balik yakalamak",balik_tutmak
+"olta ile denizden balik elde etmek",balik_tutmak
+"deniz urunleri yakalamak",balik_tutmak
+"balik avlamaya gitme",balik_tutmak
+"deniz veya golde yapilan eylem",balik_tutmak
+"temizlenmek icin su ile yikanmak",banyo_yapmak
+"yikanmak",banyo_yapmak
+"yikanmak",banyo_yapmak
+"su ile vucudun temizlenmesi",banyo_yapmak
+"suyla pisliklerden temizlenmek",banyo_yapmak
+"temizlenmek icin yapilan eylem",banyo_yapmak
+"kus oldugun kisi ile aranizdaki sorunu bitirme",barismak
+"uzlasi saglamak",barismak
+"darginligi kaldirmak",barismak
+"",barismak
+"savasi sona erdirmek icin yapilan eylem",barismak
+"kus olan birden fazla kisinin kuslugunu bitirmesi",barismak
+"calisilan konu uzerinde istenilen seviyeye ulasma",basarmak
+"muvaffak olmak",basarmak
+"ustesinden gelmek",basarmak
+"hedefe ulasmak",basarmak
+"zorluklarin ustesinden gelmek",basarmak
+"istenen hedefi tuttutmak",basarmak
+"En basindan konuya girme",baslamak
+"bir ise girismek",baslamak
+"bir is icin adim atmak",baslamak
+"harekete gecmek",baslamak
+"bir olaya giris yapmak",baslamak
+"bir isi bitirmek amaciyla o ise koyulmak",baslamak
+"Bir konuya girmeyi saglama",baslatmak
+"bir isin baslamasina yol acmak",baslatmak
+"bir is icin adim attirmak",baslatmak
+"harekete gecirmek",baslatmak
+"bir olaya giris yapilmasini saglamak",baslatmak
+"bir islemin bitmesi amaciyla ise koyulmasi",baslatmak
+"bir cisimin uzerine cikma",basmak
+"bir seyin uzerine ayak tabani ile kuvvet uygulamak",basmak
+"ayagini yere koymak",basmak
+"",basmak
+"ayagini bir cismin ustune koymak",basmak
+"ayak ile bir nesnenin uzerine cikmak",basmak
+"kisinin ilgisini kazanma",begenmek
+"onaylamak",begenmek
+"hos bulmak",begenmek
+"hosa gitmek",begenmek
+"bir nesneye iyi bir deger bicmek",begenmek
+"gorulen bir seyin hosa gitmesi",begenmek
+"yapilacak olayin zamanina ulasma",beklemek
+"bir yerde durmak",beklemek
+"bir duruma kadar sure vermek",beklemek
+"",beklemek
+"bir yerde durmak",beklemek
+"gelmekte olan bir olay veya nesnenin gelmesini umarak yapilan eylem",beklemek
+"Yazi ile konuyu saklama",belgelemek
+"bir seyi belge ile gostermek",belgelemek
+"yazili kanitlandirma",belgelemek
+"",belgelemek
+"bir bilgiyi kayit altina almak",belgelemek
+"daha sonrasinda kanit olarak sunulabilecek halde mevcut durumun kayda gecirilmesi",belgelemek
+"konu secimi yapma",belirlemek
+"belirli kilmak",belirlemek
+"belirli duruma getirmek",belirlemek
+"",belirlemek
+"bir konu ile ilgili dusunceyi sabitlemek",belirlemek
+"bir konu icin girdi veya ciktilarin yardimiyla sonuca varilmasi",belirlemek
+"konuya yonlendirme",belirtmek
+"aciklamak",belirtmek
+"acikca soylemek",belirtmek
+"aciklamak",belirtmek
+"bir dusunceyi ifade etmek",belirtmek
+"bir konunun uzerinde durmak",belirtmek
+"iki esyanin  kisin  birbirini animsatmasi",benzemek
+"gibi gorunmek",benzemek
+"animsatmak",benzemek
+"ortak ozelliklerin olmasi",benzemek
+"biriyle yakin ozelliklere sahip olmak",benzemek
+"birden fazla nesnenin birbiri ile ayni birden fazla yonunun bulunmasi",benzemek
+"surekli yapilmasindan hoslanmama",bikmak
+"dayanamaz duruma gelmek",bikmak
+"usanmak",bikmak
+"",bikmak
+"bir duruma dayanamamak",bikmak
+"surekli tekrar eden bir durum karsisinda o durumdan hosnutsuzluk duymak",bikmak
+"konu hakkinda bilgi vermek",bildirmek
+"bir haberi paylasmak",bildirmek
+"haber vermek",bildirmek
+"",bildirmek
+"bir haberi iletmek",bildirmek
+"bir kisiye bir konu hakkinda haber vermek",bildirmek
+"konu hakkinda bilgi sahibi olma",bilmek
+"bir sey hakkinda bilgiye haiz olmak",bilmek
+"bir sey hakkinda bilgili olmak",bilmek
+"bilgi sahibi olmak",bilmek
+"bir bilgiyi ogrenmis olmak",bilmek
+"bir konunun uzerinde bilgi sahibi olmak",bilmek
+"bir tasita oturmaktadir ",binmek
+"bir tasit kullanmak",binmek
+"araca binmek",binmek
+"bir hayvanin uzerine cikmak",binmek
+"bir yere gitmek icin eylem",binmek
+"arkdasla aile ile bulusmaktadir ",bir_araya_gelmek
+"bir grubun toplanmasi",bir_araya_gelmek
+"toplanmak",bir_araya_gelmek
+"birisiyle gorusmek",bir_araya_gelmek
+"toplanmak",bir_araya_gelmek
+"tutmak eyleminin zitti",birakmak
+"bir aliskanligi zamanla terketmek",birakmak
+"tutmamak",birakmak
+"tutulan seyi beraat etmek",birakmak
+"bir objeyi tutmayi durdurmak",birakmak
+"tutulan bir seyin tutulmaktan vazgecilmesi",birakmak
+"bir is sonu getirme ",bitirmek
+"bir seyin sonunu getirmek",bitirmek
+"bir olayi durumu bitirmek",bitirmek
+"bir isi sona erdirmek",bitirmek
+"tamamlanmak",bitirmek
+"bir objeyi yok olmasi",bitmek
+"daha fazla yapamama durumu",bitmek
+"tukenmek",bitmek
+"tukenmek sona ermek",bitmek
+"yok olmak",bitmek
+"bir nesneyi iki parcayi ayirmak",bolmek
+"parcalara ayirmak",bolmek
+"hesap yaparken",bolmek
+"iki sayiyi birbirine bolmek",bolmek
+"parcalamak",bolmek
+"bir sey almak icin para alma",borc_almak
+"geri odemek uzerine bir sey almak",borc_almak
+"gecici olarak durumu kurtarmak",borc_almak
+"odunc para almak",borc_almak
+"para almak",borc_almak
+"bir kisiye ihtiyaci olunca para verme",borc_vermek
+"geri almak uzere bir sey vermek",borc_vermek
+"gecici olarak baskasini rahatlatmak",borc_vermek
+"odunc para vermek",borc_vermek
+"para vermek",borc_vermek
+"parayi kucuk bankotlara bolmek",bozdurmak
+"elindeki parayi daha dusuk hale getirmek",bozdurmak
+"parayi parca halinde kullanabilmek",bozdurmak
+"parayi daha kucuk degerlere cogaltmak",bozdurmak
+"para bozdurmak",bozdurmak
+"bir seyi kirmak",bozmak
+"calisan bir seyi calismayacak hale getirmek",bozmak
+"urunu kullanilmaz hale getirmek",bozmak
+"kullanilmaz hale getirmek",bozmak
+"para bozmak",bozmak
+"bir seyi aradiktan sonra bir araya gelmek",bulmak
+"aradigina erismek",bulmak
+"fikir bulmak",bulmak
+"cevaba erismek",bulmak
+"kesfetmek",bulmak
+"bir objeyi var olmasi ",bulunmak
+"belli bir yerde vaki gecirmek",bulunmak
+"arandigindan tespit edilmek",bulunmak
+"bir etkinlikte yer almak",bulunmak
+"yakalanmak",bulunmak
+"bir insanla araya gelmesi ",bulusmak
+"en az iki kisinin bir araya gelmesi",bulusmak
+"randevu",bulusmak
+"ortak bir yerde gorusmek",bulusmak
+"bir araya gelmek",bulusmak
+"bir seyin gelismesi yaslanmasi",buyumek
+"belli bir olgunluga erismek",buyumek
+"yas almak",buyumek
+"yas almak",buyumek
+"gelismek",buyumek
+"bir kisinin adini anilmasi",cagirmak
+"iletisim icin kontak kurmak",cagirmak
+"davet etmek",cagirmak
+"yanina gelmesini istemek",cagirmak
+"davet ",cagirmak
+"bir kisi ya da kisilerin yargic ve savci onune gelmelerini isteme. ",cagrida_bulunmak
+"iletisime gecmek icin kontak kurma",cagrida_bulunmak
+"baska bir ortama davet edilmek",cagrida_bulunmak
+"bilgi yaymak",cagrida_bulunmak
+"cagirmak",cagrida_bulunmak
+"bir sey ortaya koymak  olusturmak  yapmak icin emek harcamak.",calismak
+"bir konu hakkinda bilgi edinmek",calismak
+"olusturmak",calismak
+"bir is yapmak",calismak
+"is yapmak",calismak
+"tiklatarak ya da tokmagiyla vurarak ya da dugmesine basarak ses cikarmasini saglamak.",calmak
+"izinsiz bir seyi almak  muzik",calmak
+"gizlice almak",calmak
+"hirsizlik yapmak",calmak
+"muzik aletiyle ses cikarmak",calmak
+"bir insani katil edilmesi  bir hayvani katil edilmesi",can_almak
+"bir canlinin hayatini sonlandirmak",can_almak
+"yasami sonlandirmak",can_almak
+"hayatini sona erdirmek",can_almak
+"oldurmek",can_almak
+"hayat bitmesi  yasam yitirmesi",can_vermek
+"hayatin sonlamasi",can_vermek
+"olmek",can_vermek
+"hayati sona ermek",can_vermek
+"olmek",can_vermek
+"bos kalmak",cani_sikilmak
+"bir olay dogrultusunda bikkinlik",cani_sikilmak
+"bos kalmak",cani_sikilmak
+"yapacak bir is bulamamak",cani_sikilmak
+"darlanmak",cani_sikilmak
+"bir seyi ihya etmesi",canlandirmak
+"gecmisten bir olayi sahnelemek",canlandirmak
+"hayat vermek",canlandirmak
+"soyut bir karaktere rol yapmak",canlandirmak
+"rol yapmak",canlandirmak
+"guclenmek dirilmek",canlanmak
+"tekrardan hayata donmek",canlanmak
+"dirilmek",canlanmak
+"oldukten sonra dirilmek",canlanmak
+"yesermek",canlanmak
+"İcerisine esya konup yaninda tasimaya yarar",canta
+"bir obeji baska bir obeji ile yuze yuz gelmesi  iki araba bir birine girmesi",carpismak
+"iki nesnenin bir birine degmesi",carpismak
+"iki cismin birlesmesi",carpismak
+"kazaya karismak",carpismak
+"kafa kafaya gelmek",carpismak
+"hizla vurmak",carpmak
+"bir nesneye degmek",carpmak
+"hizla degmek",carpmak
+"bir yere vurmak",carpmak
+"kaza yapmak",carpmak
+"yemege batirip yememize yarar",catal
+"binalarin en ustindeki alandir",cati
+"tahil turudur",cavdar
+"kaynatilip icilebilen bir bitki",cay
+"kiyafet ve evrak konulur",cekmece
+"bir seyi kendini cekmesi  bir seyin almasi",cekmek
+"bir seyi kendine dogru almak",cekmek
+"birseyi tasimak",cekmek
+"bir nesneyi yakina getirmek",cekmek
+"almak",cekmek
+"koltuk seklinde olup yataga donusur ve altina esya konur",cekyat
+"sarkici  demir elementi",celik
+"fotograf konan esyadir",cerceve
+"bir seydan tahakkuk etmek",cereyan_etmek
+"olayin gerceklesmesi",cereyan_etmek
+"durumun oldu bittisi",cereyan_etmek
+"olumsuz bir olay olmak",cereyan_etmek
+"olup bitmek",cereyan_etmek
+"bir kisiye cevap verilmesi",cevap_vermek
+"yanit vermek",cevap_vermek
+"soruya konusmaya geri bildirim yapmak",cevap_vermek
+"soru yanitlamak",cevap_vermek
+"yanitlama ",cevap_vermek
+"yanitlandirmak",cevaplandirmak
+"yanitlamak",cevaplandirmak
+"toplu sorulara geri bildirim vermek",cevaplandirmak
+"yanitsiz birakmamak",cevaplandirmak
+"yanit vermek",cevaplandirmak
+"bir seyin yonunu degistirmek",cevirmek
+"bir seyin donmesini saglamak",cevirmek
+"bir nesneyi dondurmek",cevirmek
+"bir nesneyi dondurmek",cevirmek
+"dondurmek",cevirmek
+"uygun olmayan tepki ve davranislari onlemek icin yapilir ",ceza_vermek
+"bir yanlis davranis dogrultusunda bir eylemde bulunmak",ceza_vermek
+"istenmeyen durum karsinda kisinin maruz kaldigi davranis",ceza_vermek
+"kotu davranisa karsi aksiyon almak",ceza_vermek
+"cezalandirmak",ceza_vermek
+"davranisin karsiligindaki yaptirimdir",cezalandirmak
+"yapilan hata sonrasi eylem uygulanmasi",cezalandirmak
+"olumsuz durumlarda kisinin maruz kaldigi olay",cezalandirmak
+"kotu davranisa karsi aksiyon almak",cezalandirmak
+"ceza vermek",cezalandirmak
+"toprakta yetisen guzel kokulu ve yaprakli bitki",cicek
+"bir seyin disarya alinmasi  bir objeyi kullanilmasi",cikarmak
+"bir kisinin isine son vermek",cikarmak
+"ortaya koymak",cikarmak
+"sayilarla cikarma islemi yapmak",cikarmak
+"azalmak",cikarmak
+"yapiskanli etiket",cikartma
+"iceriden disariya varmak",cikmak
+"disarida bulunmak",cikmak
+"varmak/gitmek",cikmak
+"disariya cikmak",cikmak
+"biryerden gitmek",cikmak
+"kakao ile yapilan ve mutluluk veren yiyecek",cikolata
+"kuyudan kovayi kolay cekmeye yarayan alet",cikrik
+"beton yapmak icin kullanilir",cimento
+"vazo modelidir",cini
+"duvara tablo asmaya yarar",civi
+"cizgi olusturmak",cizmek
+"bir resmi gorsel hale getirmek",cizmek
+"cizgi olusturmak",cizmek
+"kalem ile boyama yapmak",cizmek
+"resim yapmak",cizmek
+"peynir turudur",cokelek
+"ayaklara giyilen kiyafet turudur",corap
+"Bir problemde aranan sonucu",cozmek
+"bir problemi sonuclandirmak",cozmek
+"sorulari aydinlatmak",cozmek
+"bir problemi gidermek",cozmek
+"problemi anlamak",cozmek
+"iplikten yapilmis icine cesitli esya konur ve tasimaya yarar",cuval
+"bir objeyi insanlara verme",dagitmak
+"",dagitmak
+"bolusturmek",dagitmak
+"duzeni bozmak",dagitmak
+"paylastirmak",dagitmak
+"gayrimenkul  yuvarlak seklinde geometrik",daire
+"agaclarin ust kismindaki yaprakli cikintilardir",dal
+"imza niteliginde kagida basilir",damga
+"muzik ritim uyarak estetik deger tasiyan vucut hareketleri yapmak",dans_etmek
+"bedensel hareketlilik",dans_etmek
+"belli bir muzige uyarak hareket etmek",dans_etmek
+"ritmik hareketler yapmak",dans_etmek
+"hareket ederek uyumlu seyler yapmak",dans_etmek
+"tig ile orulen esyalarin uzerinde dekor amacli kullanilir",dantel
+"",davam_etmek
+"surdurebilmek",davam_etmek
+"surdurmek",davam_etmek
+"ilerlemek",davam_etmek
+"bir kisiye bir yere cagirmasi  birden fazla kisi bir yere cagirlmasi",davet_etmek
+"katilmasi icin istekte bulunmak",davet_etmek
+"cagimak",davet_etmek
+"bir kisiyi bir yere cagirmak",davet_etmek
+"cagirmak",davet_etmek
+"bir seye el atmak",davranmak
+"",davranmak
+"eylemde bulunmak",davranmak
+"iyi veya kotu yonde aksiyon almak",davranmak
+"tepki vermek",davranmak
+"bir seyin iyi yada kotu olmasini soylemek",degerlendirmek
+"bir analizde bulunmak",degerlendirmek
+"olcmek",degerlendirmek
+"bir isi sonuca baglamak",degerlendirmek
+"dusunmek",degerlendirmek
+"bir seyin baska bir hale gelmesi  bir objeyi baska bir duruma gelmesi",degismek
+"davranis",degismek
+"var olandan uzaklasmak",degismek
+"ruh hali farklilasmak",degismek
+"ayak uydurmak",degismek
+"bir kimseyi ya da bir seyi bulundugu yerden baska bir yere almak",degistirmek
+"biryeden baska yere alma",degistirmek
+"farkli bicimlendirmek",degistirmek
+"fikir degistirmek",degistirmek
+"yenilemek",degistirmek
+"bir seyin soylenmesi",demek
+"soz soylemek",demek
+"soylemek",demek
+"soylemek",demek
+"soylemek",demek
+"bir objeyi kullanilmasi  kiyafet giyilmesi",denemek
+"sinamak",denemek
+"deneyden gecirmek",denemek
+"ogrenmek icin aksiyon almak",denemek
+"cabalamak",denemek
+"belli bir konuyu anlamak Sinav icin calismasi",ders_calismak
+"bilgi ogrenmek",ders_calismak
+"ogrenmek",ders_calismak
+"egitim almak",ders_calismak
+"ogrenmek",ders_calismak
+"zor durum oldugunda bir insana yardim etmesi ",desteklemek
+"bir tarafi tutmak",desteklemek
+"arka cikmak",desteklemek
+"moral saglamak",desteklemek
+"yaninda olmak",desteklemek
+"temizlik icin kullanilir",deterjan
+"bir isi bitirmesi ",devam_etmek
+"surdurebilmek",devam_etmek
+"surdurmek",devam_etmek
+"surekliligini saglamak",devam_etmek
+"sonuca ilerlemek",devam_etmek
+"bir objeyi bakmak",dikkat_etmek
+"odaklanmak",dikkat_etmek
+"uyanik davranmak",dikkat_etmek
+"farkinda olmak",dikkat_etmek
+"odaklanmak",dikkat_etmek
+"bir kisinin adini soylemesi",dile_getirmek
+"bir konu hakkinda dusunceni belirtmek",dile_getirmek
+"soylemek",dile_getirmek
+"dusunceyi soylemek",dile_getirmek
+"soylemek",dile_getirmek
+"bir istegin gerceklesmesi icin dua etmek",dilemek
+"birseyin olmasini istemk",dilemek
+"bir istekte bulunmak",dilemek
+"yapilmasini istemek",dilemek
+"konusan birine kulak vermek",dinlemek
+"kulak verme  duyma",dinlemek
+"duymak  isitmek",dinlemek
+"kulak vermek",dinlemek
+"vucut hareketini en aza indirmek",dinlenmek
+"hareketsiz kalmak",dinlenmek
+"mola vermek",dinlenmek
+"ara vermek",dinlenmek
+"canli dunyaya gelmek",dogmak
+"dunyaya gelmek",dogmak
+"var olmak",dogmak
+"dunyaya gelmek",dogmak
+"bir bilgiyi onaylamak",dogrulamak
+"onaylamak",dogrulamak
+"onaylamak",dogrulamak
+"",dogrulamak
+"bir siviyi akitmak",dokmek
+"bir seyin sacilmasi",dokmek
+"bir seyi bosaltmak",dokmek
+"baska bir yere aktarmak",dokmek
+"bir yuzeye temas etmek",dokunmak
+"temasta bulunmak",dokunmak
+"hissetmek",dokunmak
+"hissetmek",dokunmak
+"kisa sureli yuruyus yapmak",dolasmak
+"belirsizce yurumek",dolasmak
+"bir yerde gezinmek",dolasmak
+"gezinmek",dolasmak
+"yon degistirmek",donmek
+"yonunu cevirmek",donmek
+"bir seyin etrafinda dolasmak",donmek
+"geri gelmek  kendi etrafinda hareket etmek",donmek
+"birine vurmak",dovmek
+"yumruk atmak",dovmek
+"bir seye sinirlendiginde verilen tepki",dovmek
+"vurmak",dovmek
+"Yaraticidan istekte bulunmak",dua_etmek
+"isteklerin icin yaraticidan yardim talep etmek  ",dua_etmek
+"bir seyin manevi olarak istenmesi",dua_etmek
+"dilemek",dua_etmek
+"hareket halindeki nesnenin hareketini kesmek",durdurmak
+"devam edeni sonlandirma",durdurmak
+"bir seye engel olmak",durdurmak
+"",durdurmak
+"hareketsiz halde beklemek",durmak
+"Hizi sifira indirmek.",durmak
+"ilerlemeyi sonlandirmak",durmak
+"kimildamamak",durmak
+"vucudu temizlemek",dus_yapmak
+"yikanmak",dus_yapmak
+"su ve sabun kullanarak kirin akitilmasi",dus_yapmak
+"temizlenmek",dus_yapmak
+"yuksekten kontrolsuz inmek",dusmek
+"oldugu yerden dusmek",dusmek
+"yukaridan asagiya dogru savrulmak",dusmek
+"yikilmak  asagiya dogru hareket",dusmek
+"bir konu hakkinda zihinden muhakeme yapmak",dusunmek
+"bir sonucu bulmak icin bilgileri incelemek",dusunmek
+"zihnin icinde bulunan fikirler",dusunmek
+"aklindan gecirmek",dusunmek
+"evin ve ofisin odalarini ayirmaya rarar",duvar
+"bir sesi isitmek",duymak
+"kulaklarin isitme eylemi",duymak
+"ses olarak algilamak",duymak
+"isitmek",duymak
+"bozuk bir yaziyi onarmak",duzenlemek
+"Organize etmek  toparlamak",duzenlemek
+"karmasikligi anlasilir hale getirmek",duzenlemek
+"hazir duruma getirmek",duzenlemek
+"Mutlu olmak icin yapilan bir eylem",eglenmek
+"Bir aktivite sonucu mutlu olmak",eglenmek
+"keyif almak",eglenmek
+"neseli zaman gecirmek",eglenmek
+"Baskasina ait verilere sahip olmak",ele_gecirmek
+"yakalamak",ele_gecirmek
+"bir seye sahip olmak",ele_gecirmek
+"sahip olmak",ele_gecirmek
+"uzun yillar yapilan calismadan sonra is birakmak",emekli_olmak
+"gecmis calismalar nedeniyle calismayi birakmak",emekli_olmak
+"calisma hayatinin tamamlanmasi",emekli_olmak
+"isten ayrilmak",emekli_olmak
+"birine bir isi yapmasi icin komut vermek",emretmek
+"dediginin hemen olmasi durumu",emretmek
+"bir seyi zorunlu tutmak",emretmek
+"buyurmak",emretmek
+"herhangi bir konuda huzursuz hissetmek",endise_etmek
+"Kaygilanmak",endise_etmek
+"bir durum karsisinda uzulmek",endise_etmek
+"",endise_etmek
+"yapilacak bir eyleme karsi koymak",engel_olmak
+"Bir seyin gerceklesmemesi icin caba gostermek",engel_olmak
+"bir isin gerceklesmesini onlemek",engel_olmak
+"onlemek",engel_olmak
+"yapilacak bir eyleme karsi koymak",engellemek
+"olmasini durdurmak",engellemek
+"bir seyin yapilmasina engel olmak",engellemek
+"onlemek",engellemek
+"yapilmasi gereken isi zamaninda yapmamak",ertelemek
+"bir kisinin bir isi yapmamasini onlemek",ertelemek
+"bir ise gecerli bir sebep olmaksizin baslamamak",ertelemek
+"daha sonraya birakmak",ertelemek
+"Herhangi bir eylemle birinin ilgisini cekmek",etkilemek
+"begendirmek",etkilemek
+"bir kimse ya da nesneyi etki altina almak",etkilemek
+"",etkilemek
+"barinmak icin konut kiralamak",ev_tutmak
+"yasamak icin ortam bulmak",ev_tutmak
+"bir yerde ev kiralamak",ev_tutmak
+"",ev_tutmak
+"Sevgiliye es olmasi icin yapilan teklif",evlenme_teklif_etmek
+"Kanun icinde birliktelik teklifi.",evlenme_teklif_etmek
+"bir kisinin kadina olan baglilik sozunu dile getirmesi",evlenme_teklif_etmek
+"",evlenme_teklif_etmek
+"sevdigin kisiyle aile olmak",evlenmek
+"nikah esliginde sozlu beyan",evlenmek
+"iki kisinin dini  hukuki torelere uygun sekilde bir araya gelmesidir.",evlenmek
+"aile kurmak",evlenmek
+"okunan bir bilgiyi zihinden soylemek",ezberlemek
+"akilda tutmak",ezberlemek
+"herhangi bir sozu  metni  davranisi eksiksiz akilda tutmak",ezberlemek
+"akilda tutmak",ezberlemek
+"bir olayin bilincine varmak",farketmek
+"varligindan yeni haberdar olmak",farketmek
+"bir seyi anlamak  sezmek",farketmek
+"anlamak  sezmek",farketmek
+"bir olayin gerceklesme ihtimalini dusunmek",farzetmek
+"oyle var saymak",farzetmek
+"bir olayin ve durumun hayali gerceklestigini varsaymak",farzetmek
+"varsaymak",farzetmek
+"bir anlasmayi sonlandirmak",feshetmek
+"iptal etmek",feshetmek
+"bir sozlesmeyi gecersiz kilmak  kaldirmak",feshetmek
+"caymak  gecersiz kilmak",feshetmek
+"bir kagidin kopyasini uretmek",fotokopi_cekmek
+"kopyalamak",fotokopi_cekmek
+"bir sayfanin kopyasini cekmek",fotokopi_cekmek
+"kopyalamak",fotokopi_cekmek
+"Bir aracta hareket halindeyken hiz yavaslatmak",fren_yapmak
+"ani durmak",fren_yapmak
+"tasitin hizini kesmek ya da durmak",fren_yapmak
+"",fren_yapmak
+"bir yere vaktinden sonra gitmek",gec_kalmak
+"bir yere yetisememek",gec_kalmak
+"belirlenmis ya da olmasi gereken zamandan daha sonraya kalmak",gec_kalmak
+"zamaninda davranmamak  sonraya kalmak",gec_kalmak
+"bir yere vaktinden sonra gitmek",gecikmek
+"vaktinden sonra varicagini soylemek",gecikmek
+"biri isin bitmesine veya bulusmaya gec kalmak",gecikmek
+"",gecikmek
+"vakit doldurmak",gecirmek
+"ugurlamak",gecirmek
+"bir seyi bir yerden oteki yana goturmek.",gecirmek
+"bir yere goturmek",gecirmek
+"bir dersten basarili sayilmak",gecmek
+"yuksek puan almak",gecmek
+"bir yerden baska bir yere gitmek",gecmek
+"yer degistirmek",gecmek
+"bir konuda bilgi seviyesini artirmak",gelismek
+"ilerleme gostermek",gelismek
+"canlilarin serpilip buyumesi ve boy atip yetismesi",gelismek
+"buyumek  yetismek",gelismek
+"bir konuda bir kisinin bilgi seviyesini artirmak",gelistirmek
+"islevini arttirmak",gelistirmek
+"bir canlinin gelismesini saglamak",gelistirmek
+"",gelistirmek
+"bir yere varmak",gelmek
+"ortamda yeni bulunmak",gelmek
+"bir yerden bir yere varmak  ulasmak",gelmek
+"bir yere varmak",gelmek
+"yerine gelmek",gerceklesmek
+"Bir durumun olmasi  sonuca ulasmasi",gerceklesmek
+"bir olayin (projenin) gercek durumuna gelmesi",gerceklesmek
+"yerine gelmek  olusmak",gerceklesmek
+"bir eylemi yerine getirmek",gerceklestirmek
+"bir hayalin yapilma durumu",gerceklestirmek
+"gerceklesmesini saglamak  gercek durumuna getirmek",gerceklestirmek
+"yapmak  uygulamak",gerceklestirmek
+"bir seyin olabilmesine bagli bulunmak",gerekmek
+"İhtiyac duymak",gerekmek
+"bir seyin olabilmesi  yapilabilmesi ya da gerceklesmesi onun olmasina bagli bulunmak",gerekmek
+"alinan bir urunu iade etmek",geri_vermek
+"alinani ilk konumuna dondurme ",geri_vermek
+"bir seyi aldigi yere ya da kimseye vermek.",geri_vermek
+"iade etmek",geri_vermek
+"bir malzemenin gelmesini saglamak",getirmek
+"tasimak ",getirmek
+"bir seyin gelmesini saglamak",getirmek
+"bir seyi ustunde bulundurmak",getirmek
+"eglenmek hava almak icin bir yere gitmek",gezmek
+"bakinarak yurumek",gezmek
+"bir yerde dolasmak  yurumek",gezmek
+"eglenmek  bir yerde dolasmak",gezmek
+"disaridan iceriye  gecmek",girmek
+"bir konumdan baska konuma yer degistirme",girmek
+"bir yerde disadiran iceri gecmek",girmek
+"gecmek",girmek
+"Bir yerden farkli bir yere ulasmak",gitmek
+"bir yere haraket etmek",gitmek
+"Bir yere ulasmak",gitmek
+"bir yone dogru yonelmek",gitmek
+"bir noktadan baska bir noktaya varmak ",gitmek
+"Elbiseleri vucuda yerlestirmek",giyinmek
+"bir seyleri ustune gecirmek",giyinmek
+"ustune bir sey gecirmek",giyinmek
+"insanlarin vucutlarina giydikleri kiyafet",giyinmek
+"Giysi degistirmek  uzerine giymek",giyinmek
+"herhangi bir kiyafeti ustumuze almak.",giyinmek
+"Elbiseleri vucuda yerlestirmek",giymek
+"bir seyleri ustune gecirmek",giymek
+"ustune bir sey gecirmek",giymek
+"kiyafet giymek",giymek
+"kiyafeti ustune gecirmek",giymek
+"bir kiyafeti vucuduna gecirmek",giymek
+"Bir gercegi ortmek",gizlemek
+"bir seyi saklamak",gizlemek
+"baskasi bilsin istememek",gizlemek
+"bilinmemesini saglamak",gizlemek
+"Gorunmesini engellemek",gizlemek
+"bir esyayi veya eylemi baska insanlarin gormesini engellemek",gizlemek
+"Bir noktadan bir noktaya gitmek",gocmek
+"baska bir yere gitmek",gocmek
+"temelli ayrilmak",gocmek
+"uzaklara gitmek",gocmek
+"Yasadigi yerden ayrilmak",gocmek
+"bir yerlesim yerinden baska bir yerlesim yerine tasinmak.",gocmek
+"Bir nesneyi iletmek",gondermek
+"bir seyi baskasina yollamak",gondermek
+"transfer etmek",gondermek
+"birseyi yollamak",gondermek
+"bir yere yollamak  yolcu etmek  ugurlamak",gondermek
+"bir esyayi baska birinin eline ulasmasi icin yola cikarmak.",gondermek
+"Goz organinin aldigi sinyalleri beyine iletmesi",gormek
+"farketmek",gormek
+"etrafi anlamak",gormek
+"gozle bir yere bakmak",gormek
+"gozun gormesi bir seyin varligini secmek",gormek
+"esyalara degen isigin goz merceginden gecerek beyinde goruntu olusturmasi",gormek
+"Baskasinin kisiyi gormesi",gorunmek
+"dikkat cekmek",gorunmek
+"kisa sureli gozukmek",gorunmek
+"meydanda olmak",gorunmek
+"goze gorunecek sekilde gorulur olmak",gorunmek
+"baska bir insan tarafindan farkedilmek.",gorunmek
+"Bir kisiyle bir araya gelmek",gorusmek
+"iletisim kurmak",gorusmek
+"bulusmak",gorusmek
+"birisi ile bulusmak",gorusmek
+"bulusarak oturup konusmak  soylesmek",gorusmek
+"bir veya birden fazla insan ile bulusmak.",gorusmek
+"Bir kisiye bir nesnenin isaret edilmesi",gostermek
+"bir seyi belli etmek",gostermek
+"isaret etmek",gostermek
+"bir sey gostermek",gostermek
+"ortaya cikarmak  gorulmesini saglamak",gostermek
+"bir nesneyi veya esyayi baska bir insanin gormesini saglamak.",gostermek
+"Bir nesneyi bir noktadan baska noktaya tasimak",goturmek
+"bir seyi baska bir yere koymak",goturmek
+"tasimak",goturmek
+"bir yere birakmak",goturmek
+"yanina alarak gitmek  tasimak  ulastirmak",goturmek
+"bir nesneyi veya esyayi bir yerden baska bir yere tasimak",goturmek
+"Bir seyi ustun koru incelemek",goz_atmak
+"incelemek",goz_atmak
+"kisaca bakmak",goz_atmak
+"kontrol etmek",goz_atmak
+"bakivermek  soyle bir bakip gecmek",goz_atmak
+"kisaca bakmak.",goz_atmak
+"Tutuklamak",gozaltina_almak
+"sorgulamak",gozaltina_almak
+"tutuklamak",gozaltina_almak
+"sucluya ceza vermek",gozaltina_almak
+"kisitlanmak alikonmak",gozaltina_almak
+"bir suc islenmesi durumunda suclunun polis gozetimine alinmasi.",gozaltina_almak
+"Bir seyi ustun koru incelemek",gozden_gecirmek
+"tekrar incelemek",gozden_gecirmek
+"kontrol etmek",gozden_gecirmek
+"kontrol etmek",gozden_gecirmek
+"iyice incelemek  her yanina bakmak",gozden_gecirmek
+"herhangi bir karari yeniden kontrol etmek.",gozden_gecirmek
+"Baskasinin kisiyi gormesi",gozukmek
+"sunmak",gozukmek
+"kisaca belirmek",gozukmek
+"meydanda olmak",gozukmek
+"kendini gostermek  gorunmek",gozukmek
+"herhangi birine kendini gostermek.",gozukmek
+"Bir duruma tepki gostermek icin topluca hareket etmek",grev_yapmak
+"tepki gostermek",grev_yapmak
+"boykot yapmak",grev_yapmak
+"protesto etmek",grev_yapmak
+"iscilerin hep birlikte isi birakmasi",grev_yapmak
+"calisan iscilerin haklarini aramak icin toplu halde is yapmamasidir.",grev_yapmak
+"Olumlu bir duruma gosterilen tepki",gulmek
+"mutlu olmak",gulmek
+"mutlu olmak",gulmek
+"eglenmek",gulmek
+"nese duygusu  eglenmek",gulmek
+"mutlu olumasi durumunda agiz ile yapilan eylemdir.",gulmek
+"Kisini daha onceye gore daha guzel olmasi",guzellesmek
+"guzel gorunmek",guzellesmek
+"kendine bakmak",guzellesmek
+"bakimli olmak",guzellesmek
+"guzel duruma gelmek",guzellesmek
+"guzel bir duruma gelmek",guzellesmek
+"Bir gelismeyi iletmek",haber_vermek
+"bilgi yollamak",haber_vermek
+"bilgi vermek",haber_vermek
+"bildirmek",haber_vermek
+"herhangi bir seyi bildirmek",haber_vermek
+"bir durumu bildirmek .",haber_vermek
+"Mevcut paranin bir kismini tuketmek",harcamak
+"satin almak",harcamak
+"tuketmek",harcamak
+"para eksiltmek",harcamak
+"bir seyi alabilmek icin tuketmek",harcamak
+"bir esyayi satin almak icin para vermek",harcamak
+"Bir olayin akla gelmesi",hatirlamak
+"tecrubelerini gormek",hatirlamak
+"aklina gelmek",hatirlamak
+"hafizayi kullanmak",hatirlamak
+"bir seyi akla getirmek ",hatirlamak
+"daha once yasanilan bir olayi animsamak.",hatirlamak
+"Bir olayin karsidaki kisiye tekrar anlatilmasi",hatirlatmak
+"unutulan bir  seyi gostermek",hatirlatmak
+"aklina getirmek",hatirlatmak
+"yasanmis hikayeyi anlatmak",hatirlatmak
+"belli bir vakit verilmesi",hatirlatmak
+"bir kisiye unuttugu dusunulen bir oayi yeniden animsamasini saglaoak.",hatirlatmak
+"Bir seyi olmasi gereken hale getirmek",hazirlamak
+"bir seyi guzel hale getirmek",hazirlamak
+"uygun hale getirmek",hazirlamak
+"caba sarfetmek",hazirlamak
+"yararlanilabilecek duruma getirilmesi",hazirlamak
+"bir esyayi kullanabilmek icin uygun hale getirmek.",hazirlamak
+"Bir eylem icin gereken hale gelmek",hazirlanmak
+"guzel gorunmek",hazirlanmak
+"uygun olmak",hazirlanmak
+"ugrasmak",hazirlanmak
+"kendini hazir duruma getirmek",hazirlanmak
+"bir durum icin kendi kendini uygun durma getirmek.",hazirlanmak
+"Yeni bir durum karsisinda hissedilen duygu",heyecan_duymak
+"ilginc bir sey olma istegi",heyecan_duymak
+"mutlu olmak",heyecan_duymak
+"duygu hissiyati",heyecan_duymak
+"Farkli duygularin ortaya cikma durumu",heyecan_duymak
+"bir durum karsisinda adrenalin hormanindan kaynakli yogun duygular yasamak.",heyecan_duymak
+"Bir seyin duyu organlariyla farkinda olunmasi",hissetmek
+"merak etmek",hissetmek
+"duygu yasamak",hissetmek
+"duygusal olay",hissetmek
+"Bir seyi anlamak fark etmek ",hissetmek
+"bir durumu anlamak  duyumsamak",hissetmek
+"Bir seyi begenmek",hosa_gitmek
+"ilgilenmek",hosa_gitmek
+"sevilmek",hosa_gitmek
+"begenilmek",hosa_gitmek
+"birinden veya bir seyden hoslanmak",hosa_gitmek
+"bir nesneyi veye durumu begenmek",hosa_gitmek
+"Bir kisiye karsi olumlu duygular beslenmek",hoslanmak
+"sevgi duymak",hoslanmak
+"begenmek",hoslanmak
+"begenmek",hoslanmak
+"begenilip sevilen hos bulunan sey",hoslanmak
+"bir kisiyi veye nesneyi begenmek.",hoslanmak
+"sivi bir urun tuketmek",icmek
+"bir icecek veya yemek icmek",icmek
+"yudumlamak",icmek
+"sivi tuketmek",icmek
+"bir sivi agza alinir ve yutulur",icmek
+"bir siviyi agiz ile yutmak.",icmek
+"Bir durumu bir sureligine isteksiz surdurmek",idare_etmek
+"olaylari ustunkoru gecmek",idare_etmek
+"oyalamak",idare_etmek
+"gormezden gelmek",idare_etmek
+"gormezden gelip hos karsilamak",idare_etmek
+"bir konuyu cekip cevirmek.",idare_etmek
+"one surmek",iddia_etmek
+"oneri",iddia_etmek
+"bahse girmek",iddia_etmek
+"varsayimda bulunmak",iddia_etmek
+"bir dusunceyi savunmak one surmek",iddia_etmek
+"herhangi bir konuda fikir one surmek",iddia_etmek
+"Resmi gorevlilere bir konuyu aciklamak",ifade_vermek
+"sorgulamak",ifade_vermek
+"bildigini anlatmak",ifade_vermek
+"aciklama yapmak",ifade_vermek
+"bir suphelinin konuyla ilgili dinlenmesi",ifade_vermek
+"bir suc islendiginde   olasi suclunun polislere olayi anlatmasi.",ifade_vermek
+"urunun yurtdisina satilmasi",ihrac_etmek
+"diskalifiye",ihrac_etmek
+"disariya satmak",ihrac_etmek
+"uzaklastirmak",ihrac_etmek
+"birinin ilisiginin kesilmesi",ihrac_etmek
+"bir urunu yabanci ulkelere satmak",ihrac_etmek
+"Bir seye sahip olmak korumak",ihtiva_etmek
+"korumak",ihtiva_etmek
+"kapsamak",ihtiva_etmek
+"",ihtiva_etmek
+"bir seyi icine almasi kapsamasi",ihtiva_etmek
+"icermek.",ihtiva_etmek
+"Uyarmak",ikaz_etmek
+"uyarmak",ikaz_etmek
+"uyarmak",ikaz_etmek
+"uyarmak",ikaz_etmek
+"birini bir konuda uyarmak dikkat cekmek",ikaz_etmek
+"bir kisiyi bir konuda uyarmak.",ikaz_etmek
+"Karsidakinin iddia edilen fikri kabul etmesini saglamak",ikna_etmek
+"kendi dusuncesini kabul ettirtmek",ikna_etmek
+"inandirmak",ikna_etmek
+"cabalamak",ikna_etmek
+"birini bir konuda inandirmak i",ikna_etmek
+"bir kisiyi bir konuda inandirmaya calismak.",ikna_etmek
+"ucretsiz olarak bir urunu vermek",ikram_etmek
+"ucretsiz vermek",ikram_etmek
+"misafire sunmak",ikram_etmek
+"hediye sunmak",ikram_etmek
+"konuga bir seyi sunmak ",ikram_etmek
+"konuga sunumda bulunmak.",ikram_etmek
+"Duyurmak",ilan_etmek
+"yayinlamak",ilan_etmek
+"yayinlamak",ilan_etmek
+"paylasmak",ilan_etmek
+"bir durumu bildirmek ve duyurmak icin",ilan_etmek
+"bir konuyu baska insanlarin bilmesi icin duyurmak",ilan_etmek
+"Bir iddiayi ortaya atmak",ileri_surmek
+"one dogru gitmek",ileri_surmek
+"iddiada dulunmak",ileri_surmek
+"bir sey hakkinda fikir sunmak",ileri_surmek
+"bir seyi one dogru yurutmek icin",ileri_surmek
+"bir konu hakkinda iddalarda bulunmak.",ileri_surmek
+"Arti yonde hareket etmek",ilerlemek
+"one dogru gitmek",ilerlemek
+"ileri yurumek",ilerlemek
+"devam etmek",ilerlemek
+"bulunugu yerden daha ileriye gidilmesi",ilerlemek
+"bulundugun yerden daha one dogru gitmek.",ilerlemek
+"Bir konuya ilgi gostermek",ilgilenmek
+"bir seyi istemek",ilgilenmek
+"bakmak",ilgilenmek
+"zaman ayirmak",ilgilenmek
+"yakinlik ve ilgi duyulmasi",ilgilenmek
+"bir kisiye veya esyaya yakinlik duymak",ilgilenmek
+"Mumkun olmayan bir durum",imkansiz
+"mumkanati olmayan",imkansiz
+"mumkun olmayan",imkansiz
+"olmasi zor",imkansiz
+"olanakli olmayan bir sey",imkansiz
+"gerceklesme ihtimali olamayan",imkansiz
+"Sinavda yer almak",imtihan_etmek
+"birini degerlendirmek",imtihan_etmek
+"sorgu etmek",imtihan_etmek
+"sinava sokmak",imtihan_etmek
+"yeterliligini olcmek ",imtihan_etmek
+"bir ogretmenin ogrettigi konular ile ilgili sinav yapmasi",imtihan_etmek
+"Sinavda yer almak",imtihana_girmek
+"degerlendirmeye girmek",imtihana_girmek
+"sinava girmek",imtihana_girmek
+"sinava girmek",imtihana_girmek
+"bilgi ve yetenek yeterliligin olculmesi",imtihana_girmek
+"bir ogrencinin okulda ogrendigi konular ile ilgili sinava girmesi.",imtihana_girmek
+"Bir belgeyi isaretlemek",imzalamak
+"anlasmak",imzalamak
+"onay vermek",imzalamak
+"resmi onay vermek",imzalamak
+"belgeye yaziya imzasini yazmasi",imzalamak
+"bir belgeye sahsi isaret birakmak.",imzalamak
+"guvenmek",inanmak
+"bir seye guvenmek",inanmak
+"Bir seye veya birini kabul etmek  soylenen seyin dogru oldugunu kabul etmek",inanmak
+"bir seye kalben guvenmek",inanmak
+"kabul etmek",inanmak
+"bir varliga tapmak",inanmak
+"detayli bakmak",incelemek
+"Bir seyi detaylica bakmak",incelemek
+"bir seye goz atmak",incelemek
+"detayli bakmak",incelemek
+"birseyi arastirmak",incelemek
+"merdiven asagi adim atmak",inmek
+"Yukaridan asagiya dogru hareket etmek",inmek
+"bir yere konmak",inmek
+"yuksekten alcaga ilerlemek",inmek
+"asagiya dogru hareket",inmek
+"yapi insa etmek",insaat_yapmak
+"Ev olusturmak icin yapilan islem",insaat_yapmak
+"sifirdan bir sey yapmak  kurmak",insaat_yapmak
+"barinma yeri olusturma",insaat_yapmak
+"insa etme islemi",insaat_yapmak
+"olumlu karardan vazgecmek",iptal_etmek
+"Bir seyi kaldirmak  silmek  yok etmek",iptal_etmek
+"yok etmek",iptal_etmek
+"var olandan caymak",iptal_etmek
+"bir isin son bulmasi",iptal_etmek
+"bir seye dikkat cekmek",isaret_etmek
+"bir yeri bir seyi gostermek",isaret_etmek
+"parmakla gostermek",isaret_etmek
+"beden diliyle gostermek",isaret_etmek
+"bir yeri gostermek",isaret_etmek
+"ortak is yapmak",isbirligi_yapmak
+"bir kisinin bir konuda baska kisi ve gruplarla birlikte is yapmasi",isbirligi_yapmak
+"beraber calismak",isbirligi_yapmak
+"yardimlasma",isbirligi_yapmak
+"birisiyle anlasmak",isbirligi_yapmak
+"savasarak dusman topraklarini elde etmek",isgal_etmek
+"zorla bir yere sahip olmak  bir yeri zorla zapt etmek",isgal_etmek
+"topraklarina katmak",isgal_etmek
+"farkli bir topraga el koymak",isgal_etmek
+"bir yeri almak",isgal_etmek
+"Vucut sicakliginin artmasi",isinmak
+"hazirlanmak",isinmak
+"usumemek",isinmak
+"sicakligin artmasi",isinmak
+"belli bir sicakliga ulasmak ",isinmak
+"belli bir sicaklik kazanmak.",isinmak
+"Agiz ile zarar vermek",isirmak
+"yaralamak",isirmak
+"dis gecirmek",isirmak
+"canini yakmak",isirmak
+"disleri arasina  alarak sikmak",isirmak
+"disler arasina alip sikmak.",isirmak
+"Bir nesnenin isisini arttimak",isitmak
+"sicak hissettirmek",isitmak
+"sicaklastirmak",isitmak
+"usememeye yardimci olmak",isitmak
+"isiyi yulseltip sicak hale getirme",isitmak
+"isisini yukselterek sicak bir hale getirmek.",isitmak
+"duymak",isitmek
+"bir seyi kulak ile algilamak  duymak",isitmek
+"duymak",isitmek
+"duyma organiyla algilama",isitmek
+"duyma eylemi",isitmek
+"Hesabin baskasi adina odenmesi",ismarlamak
+"ucretsiz ikram etmek",ismarlamak
+"siparis etmek",ismarlamak
+"hediye vermek",ismarlamak
+"bir seyi getirmek ve yapmak icin",ismarlamak
+" bir kisiye ikramda bulunmak",ismarlamak
+"Bir konu icin ayni gorusu tekrarli dile getirmek",israr_etmek
+"sonuna kadar zorlamak",israr_etmek
+"ikna etmeye calismak",israr_etmek
+"inatlasmak",israr_etmek
+"bir konuda  dusuncede direnmek",israr_etmek
+"bir konuda ustelemek.",israr_etmek
+"bir seyin olmasini umut etmek",istemek
+"İstek hissine sahip olmak",istemek
+"arzulamak",istemek
+"arzu etmek",istemek
+"bir seyi arzulamak",istemek
+"isine kendi istegiyle son vermek",istifa_etmek
+"kendi rizasiyla gorevden ayrilmak kendi rizasiyla gorevi birakmak",istifa_etmek
+"bir isyerinden temelli ayrilmak",istifa_etmek
+"is yerini birakma istegi",istifa_etmek
+"bir yerden ayrilamak",istifa_etmek
+"icinde bulunulan durumu kabullenmedigini belirtmek",isyan_etmek
+"ters bir duruma asiri tepki gostermek",isyan_etmek
+"devrime kalkismak",isyan_etmek
+"bulunulan duruma karsi cikma",isyan_etmek
+"bir seye kizmak",isyan_etmek
+"ticaret",ithal_etmek
+"yurt disina urun  hizmet satmak",ithal_etmek
+"ulkeye disaridan mal almak",ithal_etmek
+"bir mali yurt disindan almak",ithal_etmek
+"dis ulkeden bir urun almak",ithal_etmek
+"karsi durmak",itiraz_etmek
+"bir konuya karsi gelmek  muhalefet olmak",itiraz_etmek
+"karsi gelmek",itiraz_etmek
+"farkli fikirde bulunmak",itiraz_etmek
+"bir seyi istememek",itiraz_etmek
+"guc kullanarak konum degistirmek",itmek
+"kuvvet uygulayarak harekete gecirmek  baski uygulamak",itmek
+"bir yone dogru kuvvet uygulamak",itmek
+"bir maddeyi yerinden oynatmak",itmek
+"fiziksel olarak ileri dogru guc uygulamak",itmek
+"anlatmak",izah_etmek
+"bir konuyu ifade etmek",izah_etmek
+"anlatmak",izah_etmek
+"bir seyi anlatmak",izah_etmek
+"bir seyi aciklamak",izah_etmek
+"isten haberli cikmak",izin_almak
+"musaade istemek",izin_almak
+"birinden onay almak",izin_almak
+"bir seyi yapmak icin hak almak",izin_almak
+"bir is icin sure istemek",izin_almak
+"onay vermek",izin_vermek
+"musaade vermek",izin_vermek
+"birine onay vermek",izin_vermek
+"bir seyi yapmak icin hak vermek",izin_vermek
+"birisine ihtiyaci olan sureyi vermemek",izin_vermek
+"seyretmek",izlemek
+"Goz ile bir yeri incelemek  bakmak",izlemek
+"gormek",izlemek
+"birseyi goz ile takip etmek",izlemek
+"bir seye bakmak",izlemek
+"evet demek",kabul_etmek
+"onaylamak",kabul_etmek
+"onaylamak",kabul_etmek
+"bir teklifi onaylamak",kabul_etmek
+"bir olayi onaylamak",kabul_etmek
+"alikoymak baska yere goturmek",kacirmak
+"bir kisiyi zorla gorutmek",kacirmak
+"alikoymak",kacirmak
+"bir seyi tutamamak",kacirmak
+"bir yerden bir seyi uzaklastirmak",kacirmak
+"kosmak",kacmak
+"bir yerden kosarak uzaklasmak",kacmak
+"uzaklasmak",kacmak
+"istenilmeyen birseyden uzaklasmak",kacmak
+"bir yerden uzaklasmak",kacmak
+"ilk ogun",kahvalti_etmek
+"sabahlari gunun ilk ogunudur.",kahvalti_etmek
+"sabah bir seyler yemek",kahvalti_etmek
+"sabah karin doyurmak",kahvalti_etmek
+"sabah vakitlerinde yemek yemek",kahvalti_etmek
+"yukseltmek",kaldirmak
+"bir seyi zeminden ayirip yukseltmek  bir seyi yukariya cikarmak",kaldirmak
+"uyandirmak",kaldirmak
+"bir nesneyi bulundugu yerden yukari kaldirmak",kaldirmak
+"bir seyi yerden yukseltmek",kaldirmak
+"hareket",kalkmak
+"uykudan uyanmak  ayarkta durma pozisyonuna gecmek",kalkmak
+"hareketlenmek",kalkmak
+"oturulan yerden ayrilmak",kalkmak
+"bir yerden hareket etmek",kalkmak
+"gitmemek",kalmak
+"bir yerde bulunmak  bir yerde durmak",kalmak
+"hareketin durmasi",kalmak
+"bir noktada yer degistirememek",kalmak
+"bir yerde durmak",kalmak
+"dogada olmak",kamp_yapmak
+"acik alanda belirli araclarla konaklamak  cadirla konaklama yapmak",kamp_yapmak
+"bir ormanda yatiya kalmak",kamp_yapmak
+"dogada konaklamak",kamp_yapmak
+"tatil ve ormanlik alanlarda konaklamak",kamp_yapmak
+"yasallasmak",kanunlasmak
+"yasalasmak  kanuni olarak kabul edilmek",kanunlasmak
+"yasa yapmak",kanunlasmak
+"birseyin devlet tarafinda zorunlu kilinmasi",kanunlasmak
+"bir seyin kural haline gelmesi",kanunlasmak
+"ustunu ortmek",kapamak
+"kapatma eylemini gerceklestirmek  acmanin tersi ",kapamak
+"kapali durumuna getirmek",kapamak
+"bir seyi ortmek",kapamak
+"bir seyi off durumuna getirmek",kapamak
+"Ic dunyaya odaklanmak",kapanmak
+"kapali olmayi saglamak",kapanmak
+"ortunmek",kapanmak
+"bir seyin faaliyetinin durmasi",kapanmak
+"icine cekilmek",kapanmak
+"gider farkindan sonra kalan gelir miktari",kar_etmek
+"Gelirin giderden fazla olmasi durumudur  gelir ile gider arasindaki farkin pozitif olmasi",kar_etmek
+"para kazanmak",kar_etmek
+"kazanc elde etmek",kar_etmek
+"bir seyi maliyetinin ustunde satmak",kar_etmek
+"birden fazla secenek arasindan birini secmek",karar_vermek
+"bir konuyu sonuca baglamak",karar_vermek
+"bir sonuca ulasmak",karar_vermek
+"sonuca varmak",karar_vermek
+"bir seyi yapmayi dusunmek",karar_vermek
+"bir ise ya da olaya mudahil olmak",karismak
+"mudahale etmek  birden fazla seyin birbirine girmesi",karismak
+"bir ise mudahele etmek",karismak
+"bir seyin baska birsey ile var olmasi",karismak
+"bir seye mudahil olmak",karismak
+"onay vermemek  engel olmak",karsi_cikmak
+"onay vermemek  engel olmak",karsi_cikmak
+"Kisilere veya olaya karsi zit dusuncede oldugunu belirtmek  itiraz etmek",karsi_cikmak
+"Kisilere veya olaya karsi zit dusuncede oldugunu belirtmek  itiraz etmek",karsi_cikmak
+"araya girmek",karsi_cikmak
+"araya girmek",karsi_cikmak
+"bir meseleyi engellemeye calismak",karsi_cikmak
+"bir meseleyi engellemeye calismak",karsi_cikmak
+"bir seye direnmek",karsi_cikmak
+"bir seye direnmek",karsi_cikmak
+"misafir veya musteriye ilk giris aninda destek olmak",karsilamak
+"bir zarari telafi etme islemi yapmak  birini bir yerde karsilama islemi yapmak",karsilamak
+"bir seyin karsi yonune gelmek",karsilamak
+"agirlamak",karsilamak
+"bir kisiyi agirlamak",karsilamak
+"iki ya da daha fazla secenegin tum ozelliklerini bir araya getirmek",karsilastirmak
+"iki ya da daha fazla secenegin tum ozelliklerini bir araya getirmek",karsilastirmak
+"iki ya da daha fazla seyin farkini ve ortak ozelliklerini degerlendirmek",karsilastirmak
+"iki ya da daha fazla seyin farkini ve ortak ozelliklerini degerlendirmek",karsilastirmak
+"bir seyleri kiyaslamak",karsilastirmak
+"bir seyleri kiyaslamak",karsilastirmak
+"bir seyi baska bir sey ile kiyaslamak",karsilastirmak
+"bir seyi baska bir sey ile kiyaslamak",karsilastirmak
+"birseyleri yanyana getirme",karsilastirmak
+"birseyleri yanyana getirme",karsilastirmak
+"dahil olmak",katilmak
+"Bir yere bir olaya dahil olmak",katilmak
+"bir olaya fikre dahil olmak",katilmak
+"dahil olmak",katilmak
+"bir davete gitmek",katilmak
+"koydugu yerde bulamamak",kaybetmek
+"fiziksel olarak bir seyi yok etmek",kaybetmek
+"bir seyin nerede oldugunu bilememek",kaybetmek
+"elde olanin yok olmasi",kaybetmek
+"bir seyi bulamamak",kaybetmek
+"yon bulamamak",kaybolmak
+"fiziksel olarak bir seyi bulamamak",kaybolmak
+"bilinmeyen bir mekanda kalmak",kaybolmak
+"konumu bilmemek",kaybolmak
+"nerde oldugunu bilmeme",kaybolmak
+"arsivlemek",kaydetmek
+"bir seyi saklamak  not etmek",kaydetmek
+"bir bilgiyi bir alana kalici olarak girmek",kaydetmek
+"bir veriyi hafizaya yuklemek",kaydetmek
+"bir seyi saklamak",kaydetmek
+"kazanmak",kaygilanmak
+"evham yapmak",kaygilanmak
+"Endiselenmek",kaygilanmak
+"bir durum hakkinda endiselenmek",kaygilanmak
+"bir konuda evhamlanmak",kaygilanmak
+"birseylere endiselenmek",kaygilanmak
+"kazanmak ",kayit_yaptirmak
+"kisisel bilgi ile olusuma katilmak",kayit_yaptirmak
+"kaydetme ",kayit_yaptirmak
+"bir etkinlige giris hakki elde etmek",kayit_yaptirmak
+"bir yere yazilmak",kayit_yaptirmak
+"bir yere imza atmak",kayit_yaptirmak
+"kesmek ",kaynaklanmak
+"sebebiyet vermek",kaynaklanmak
+"sebep olmak  neden olmak",kaynaklanmak
+"iki nesnenin birlesmesi",kaynaklanmak
+"bir seye sebep olmak",kaynaklanmak
+"bir seyin sonucundan olusma",kaynaklanmak
+"yanlislikla carpismak",kaza_yapmak
+"bilerek veya bilmeden zarara neden olmak",kaza_yapmak
+"bir durum sonucunda zarar gormek",kaza_yapmak
+"carpmak  carpismak",kaza_yapmak
+"bir yere vurmak",kaza_yapmak
+"hasara sebebiyet vermek",kaza_yaptirmak
+"kaza yapmasina sebep olmak",kaza_yaptirmak
+"birinin bir olay sonucunda zarar gormesine neden olmak",kaza_yaptirmak
+"carpistirmak",kaza_yaptirmak
+"birisinin dikkatini dagitmak",kaza_yaptirmak
+"zafer elde etmek",kazanmak
+"zafer elde etmek",kazanmak
+"galip gelmek  sahip olmak",kazanmak
+"galip gelmek  sahip olmak",kazanmak
+"bir odulu ya da turnuvada basari elde etmek",kazanmak
+"bir odulu ya da turnuvada basari elde etmek",kazanmak
+"bir seyi elde etmek",kazanmak
+"bir seyi elde etmek",kazanmak
+"bir seyi basarmak",kazanmak
+"bir seyi basarmak",kazanmak
+"kucuk parcalara kesici alet ile bolmek",kesmek
+"Bir aracla bir seyi ayirmak  durdurmak  ara vermek",kesmek
+"bir seyi parcalara ayirmak",kesmek
+"bir seyi birden fazla parcaya ayirmak",kesmek
+"bir seyi bolmek",kesmek
+"ayiplamak",kinamak
+"davranisi ayiplamak",kinamak
+"davranisin veya soylenen bir sozun uygunsuz cirkin kotu goruldugunu bildirir",kinamak
+"kira ile tutulmus bir yerde yasamak",kirada_oturmak
+"kendine ait omayan yerde oturmak",kirada_oturmak
+"para karsiliginda evde yasamak",kirada_oturmak
+"kiraya vermek",kiralamak
+"mulkiyetin belirli sureyle kullanilmasi",kiralamak
+"para karsiliginda  bir esyaya sahip olma",kiralamak
+"sert seyleri parcalamak",kirmak
+"butunlugu bozmak",kirmak
+"birini incitmek ve uzulmesine neden olmak",kirmak
+"sinirlenmek",kizmak
+"sinirlenmek",kizmak
+"birine ofkelenmek",kizmak
+"kokusunu duymak icin burnunu yaklastirmak",koklamak
+"burun ile tanimlama",koklamak
+"duyu organi ile algilamak",koklamak
+"koku cikarmak",kokmak
+"koku yaymak",kokmak
+"kokusu olmak",kokmak
+"bir isin sonuna yaklasmak",kolaylamak
+"basite indirgemek",kolaylamak
+"bir isin zor ve buyuk bolumunu yaparak sonuna yaklasmak",kolaylamak
+"kolay duruma gelmek",kolaylasmak
+"zorlugun azalmasi",kolaylasmak
+"zor iken kolay bir duruma gelmek",kolaylasmak
+"denetlemek",kontrol_etmek
+"durumunun anlasilmasi",kontrol_etmek
+"gozden gecirmek ve yoklamak",kontrol_etmek
+"dusunceyi sozlu olarak anlatmak",konusmak
+"iletisim kurmak",konusmak
+"sozle anlatmak",konusmak
+"korku duymak",korkmak
+"endise duymak",korkmak
+"urkmek",korkmak
+"tehlikeden uzak tutmak",korumak
+"zarar gelmesini engelleme",korumak
+"bir kimseyi herhangi bir tehdide karsi korumak",korumak
+"hizli adimlarla ilerlemek",kosmak
+"hizli yer degistirmek",kosmak
+"ileri dogru hizla gitmek",kosmak
+"sert sozlerle gitmesini soylemek",kovmak
+"disariya cikartmak",kovmak
+"sert veya kucuk dusurucu sozlerle gitmesini soyleme",kovmak
+"bir yere yerlestirmek",koymak
+"yer degistirmek",koymak
+"bir esyayi baska bir yere yerlestirmek",koymak
+"bir seyden yararlanmak",kullanmak
+"esyanin degerlendirilmesi",kullanmak
+"bir seyden belli bir amacla yararlanmak",kullanmak
+"parcalari birlestirmek",kurmak
+"zamanlama",kurmak
+"butun durumuna getirmek",kurmak
+"zor durumdan uzaklastirmak",kurtarmak
+"zor durumu duzeltmek",kurtarmak
+"bir canliyi  zor durumdan uzaklastirma",kurtarmak
+"kusku duymak",kuskulanmak
+"iskillenmek",kuskulanmak
+"kusku duymak",kuskulanmak
+"tebrik etmek",kutlamak
+"basariyi takdir etmek",kutlamak
+"tebrik etmek",kutlamak
+"guc kazanmak",kuvvetlenmek
+"zayif durumdan kurtulmak",kuvvetlenmek
+"guc kazanmak  direnci veya gucu artmak",kuvvetlenmek
+"gerekli olmak",lazim_olmak
+"ihtiyac duyulmasi",lazim_olmak
+"bir seyin ihtiyac durumuna gelmesi ",lazim_olmak
+"yok etmek",mahvetmek
+"yerinde davranmamak",mahvetmek
+"olacak bir isi bozmak",mahvetmek
+"zorunda olmak",mecbur_olmak
+"ihtiyac duyulmasi",mecbur_olmak
+"muhtac olmak",mecbur_olmak
+"sevinmek",memnun_kalmak
+"davranisin onaylanmasi",memnun_kalmak
+"Herhangi bir olaydan veya durumdan oturu sevinc duymak",memnun_kalmak
+"tanismak",memnun_olmak
+"yapilan isi begenmek",memnun_olmak
+"yapilan isi begenmek",memnun_olmak
+"ogrenmek istemek",merak_etmek
+"bilinmeyen durumun aciklanmasi",merak_etmek
+"bir olaya karsi ilgi duymak",merak_etmek
+"vaktini vermek",mesgul_olmak
+"ugrasi",mesgul_olmak
+"cok yogun calismak",mesgul_olmak
+"taninmak",meshur_olmak
+"taninmak",meshur_olmak
+"herkes tarafindan taninmak",meshur_olmak
+"ortaya cikmak",meydana_cikmak
+"gizlenen durumun ortaya cikmasi",meydana_cikmak
+"bir olayin herkes tarafindan bilinmesi",meydana_cikmak
+"olusmak",meydana_gelmek
+"yeni durumun olusmasi",meydana_gelmek
+"bir isi emek vererek  olusturmak",meydana_gelmek
+"okul bitirmek",mezun_olmak
+"okulun bitmesi",mezun_olmak
+"bir okulu bitirmek",mezun_olmak
+"bir makine parcalarini yerine takmak",monte_etmek
+"entegre etmek",monte_etmek
+"esyayi bir yere sabitlemek",monte_etmek
+"savunmak",mudafaa_etmek
+"savunma",mudafaa_etmek
+"birisini bir olaraya karsi korumak",mudafaa_etmek
+"karismak",mudahale_etmek
+"duzeltmek",mudahale_etmek
+"kotu bir  olayin olmasini engellemek",mudahale_etmek
+"tartismak",munakasa_etmek
+"tartisma",munakasa_etmek
+"bir kisiyle tartismak",munakasa_etmek
+"basvurmak",muracaat_etmek
+"basvurmak",muracaat_etmek
+"basvurmak",muracaat_etmek
+"istemek",musaade_etmek
+"izin vermek",musaade_etmek
+"izin vermek",musaade_etmek
+"sebep olmak",neden_olmak
+"sebebiyet vermek",neden_olmak
+"bir olayin sebebi olmak",neden_olmak
+"tiksinti duymak",nefret_etmek
+"sevmemek",nefret_etmek
+"birisinden veya bir seyden hoslanmamak",nefret_etmek
+"grip olmak",nezle_olmak
+"hasta olmak",nezle_olmak
+"hasta olmak",nezle_olmak
+"vasiflandirmak",nitelendirmek
+"ozelliklendirmek",nitelendirmek
+"anlamlandirmak",nitelendirmek
+"bitirmek",noktalamak
+"sonlandirmak",noktalamak
+"sonlandirmak",noktalamak
+"birinin soylediklerini yazmak",not_almak
+"konunun yaziya dokulmesi",not_almak
+"kaydetmek",not_almak
+"not alarak yazmak",not_etmek
+"yazmak",not_etmek
+"kaydetmek",not_etmek
+"birinin soylediklerini yazmak",not_tutmak
+"olaylari yazmak",not_tutmak
+"kaydetmek",not_tutmak
+"degerini vermek",odemek
+"bir alisveris iliskisinde  alinan seyin bedelini saticiya vermek.",odemek
+"alinan hizmetin karsiligini vermek",odemek
+"birinden bilgi almak",ogrenmek
+"bilgi edinmek.",ogrenmek
+"yeni bilgiler edinmek",ogrenmek
+"birine bilgi vermek",ogretmek
+"birine istenilen herhangi bir konuda bilgi ve beceri kazandirmak.",ogretmek
+"yeni bilgiler aktarmak",ogretmek
+"bir yaziyi seslendirmek",okumak
+"yazinin goz ile anlasilmasi",okumak
+"ogrenmek",okumak
+"birinin canina son vermek",oldurmek
+"oldurme bir canli varligin yasamina son verme eylemidir.",oldurmek
+"bir canlinin yasam hakkini elinden almak ",oldurmek
+"meydana gelmek",olmak
+"varolus",olmak
+"var olus",olmak
+"yasantinin bitmesi",olmek
+"(canlilar icin) herhangi bir nedenle yasami sona ermek  artik yasamaz olmak  can vermek.",olmek
+"vefat etmek",olmek
+"ortaya cikmak",olusmak
+"meydana gelmek",olusmak
+"tanimi nedir?",olusmak
+"ortaya cikarmak",olusmak
+"bir ise bicim vermek",olusturmak
+"bir ise bicim vermek",olusturmak
+"elirgin bir varlik kazanmasini saglamak  bicimlendirip ortaya cikarmak  olusmasini saglamak.",olusturmak
+"yeni bir sey yaratmak",olusturmak
+"bir fikre katilmak",onaylamak
+"bir fikri dogru bulmak",onaylamak
+"yapilan bir isi dogru  uygun ve yerinde bulmak  uygun gorerek kabul etmek.",onaylamak
+"yapilan bir isi dogru  uygun ve yerinde bulmak  uygun gorerek kabul etmek.",onaylamak
+"bir fikire katilmak ve uygun bulmak ",onaylamak
+"bir savin dogrulugunu kabul etmek",onaylamak
+"dusuncesini belirtmek",one_surmek
+"uzerinde gorusulmek uzere bir dusunce soylemek  ortaya bir dusunce atmak.",one_surmek
+"fikir beyan etmek",one_surmek
+"birini degerli gormek",onem_vermek
+"onemli saymak  deger vermek  onemsemek.",onem_vermek
+"kiymet vermek",onem_vermek
+"tavsiye etmek",onermek
+"kabul edilmesi dilegiyle bir gorus  bir aday  bir sey one surmek.",onermek
+"tavsiye etmek",onermek
+"tahmin etmek",ongormek
+"ileride olmasi gerekeni gostermek  onceden kararlastirmak  ilerisi icin dusunmek  olmasini onceden gerekli gormek.",ongormek
+"olacaklari oncesinden tahmin etmek",ongormek
+"bir duruma engel olmak",onlemek
+"bir seyin olmasini ya da yapilmasini onleyici bir neden durumunda ortaya cikmak  gerceklesmesine engel olmak.",onlemek
+"bir seyin gerceklesmesinin onune gecmek",onlemek
+"dudaklarini degdirmek",opmek
+"sevgi  saygi  baglilik  tesekkur belirtmek eregiyle dudaklari bir kimseye ya da seye degdirmek.",opmek
+"guzel duygularin disa vurumu",opmek
+"gorunmeyen bir yere koymak",ortadan_kaldirmak
+"gorunmesin diye onlem almak  gizlemek  saklamak.",ortadan_kaldirmak
+"bir seyi yok etmek",ortadan_kaldirmak
+"goz onune cikarmak",ortaya_cikarmak
+"(bir seyi) belgeleriyle kanitlamak.",ortaya_cikarmak
+"bir seyi aciga cikarmak",ortaya_cikarmak
+"bir bilinmezi olusturmak",ortaya_koymak
+"aratmak  yapmak  olusturmak.",ortaya_koymak
+"fikir sunmak",ortaya_koymak
+"belirli bir yerde yasamak",oturmak
+"vucudun belden yukarisi dik duracak bicimde agirligi kaba etlere vererek bir yere yerlesmek.",oturmak
+"dinlenmek icin yapilan faaliyet",oturmak
+"bir duruma karsi gorus belirtmek",oy_vermek
+"Oylama  secim bolgesinde bir toplanti veya secmen gibi bir grup icin  genellikle tartisma veya secim kampanyalarinin ardindan toplu bir karar vermek veya gorus bildirmek icin kullanilan bir yontemdir.",oy_vermek
+"bir konuda secim yapmak",oy_vermek
+"dans etmek",oynamak
+"hosca vakit gecirme  eglenme  oyalanma gibi amaclarla bir seyle  herhangi bir oyunla ugrasmak.",oynamak
+"dans etmek",oynamak
+"bir konunun ozunu anlatmak",ozetlemek
+"bir konuyu  sozu ya da yaziyi ana cizgileriyle  daha az sozcukle  kisa ve oz bir bicimde anlatmak ya da yeniden yazmak.",ozetlemek
+"kisaca anlatmak",ozetlemek
+"birini gormek istemek",ozlemek
+"sevdigi bir seyi ya da kimseyi bir daha gormek istegini duymak  ona kavusmak istemek  onu gorecegi gelmek.",ozlemek
+"sevilen bireylerden uzak kalinca hissedilen duygu",ozlemek
+"birinden bagislanma dilemek",ozur_dilemek
+"yapilan bir yanlistan  uygun olmayan bir durumdan vb. dolayi bagislanma dilemek.",ozur_dilemek
+"hatali davranis sonucu affedilmek amaciyla yapilan eylem",ozur_dilemek
+"strese girmek",paniklemek
+"buyuk bir korkuya kapilmak  asiri olcude korkup ne yapacagini bilemez olmak  panige kapilmak.",paniklemek
+"olumsuz bir durum  karsisinda fazla heyecanlanmak",paniklemek
+"ekonomik bagimsizlik",para_kazanmak
+"emek verilerek yapilan isin odenen karsiliktir.",para_kazanmak
+"verilen emegin maddi karsiligini almak",para_kazanmak
+"indirim yaptirmak",pazarlik_etmek
+"bir malin  urunun  hizmetin vb. fiyati uzerinde karsilikli cekismek.",pazarlik_etmek
+"indirim icin satici ile anlasmaya calismak",pazarlik_etmek
+"isi uygulamak",pisirmek
+"bir besin maddesini gerektigi surece isida tutarak yenebilecek bir duruma getirmek.",pisirmek
+"cig besinleri ates ile yenilecek duruma getirmek",pisirmek
+"yaptigindan uzuntu duymak",pisman_olmak
+"yaptigi bir isin yanlis oldugunu ya da uygunsuz sonuc verdigini  soyledigi bir sozun yerinde olmadigini anlayarak uzulmek.",pisman_olmak
+"yapilan yanlis bir hareket sonrasi hissedilen olumsuz duygu durumu",pisman_olmak
+"yeterince isidan sonra hazir hale gelmek",pismek
+"(yiyecekler icin) ates uzerinde  kaynar suda  yagda ya da firinda isi etkisiyle yenilebilir duruma gelmek.",pismek
+"fazla sicaklamak",pismek
+"bir isi onceden belirlemek",planlamak
+"yapilacak bir isi belli bir plana gore duzenlemek.",planlamak
+"yapilacak aktiviteleri onceden organiz etmek",planlamak
+"bir belgeyi kargoyla yollamak",postalamak
+"genellikle posta araciligiyla yollamak  gondermek.",postalamak
+"bir mektupu uzaga gondermek",postalamak
+"bir esyayi kolayca almak",rahat_almak
+"olaylari cok fazla umursamamak",rahat_almak
+"kolay gormek",rahat_almak
+"huzuru bozmak",rahatsiz_etmek
+"(bir sey  birinin) keyfini kacirmak  rahatini bozmak.",rahatsiz_etmek
+"bir kisinin kotu hissetmesine sebebiyet vermek",rahatsiz_etmek
+"birine denk gelmek",rastlamak
+"hic ummadigi  dusunmedigi halde karsilasmak.",rastlamak
+"beklenmeyen bir durumda iki kisinin karsilasmasi",rastlamak
+"bir durumu kabullenmek",razi_olmak
+"Uygun bulmak  begenmek  benimsemek  istemek  kabul etmek.",razi_olmak
+"olanlari kabul etmek",razi_olmak
+"bir durumu kabul etmemek",reddetmek
+"kendisine verilen ya da kendisi icin yapilmak istenen bir seyi kabul etmemek.",reddetmek
+"olanlari kabul etmememk",reddetmek
+"diyete girmek",rejim_yapmak
+"sagligi korumak ya da zayiflamak eregiyle yalnizca belirli yiyecekleri yemek.",rejim_yapmak
+"zayiflamak icin yapilan etkinlik",rejim_yapmak
+"bozulmus yapiyi onarmak",restore_etmek
+"(eski ve degerli bir yapiyi) bozulmus  yikilmis yerlerini  bolumlerini aslina uygun bir bicimde  aslini bozmadan onarmak.",restore_etmek
+"yipranmis yapilari ozune uygun olacak sekilde guncellemek",restore_etmek
+"birinden istemek",rica_etmek
+"tesekkur etmenin karsiligidir.",rica_etmek
+"yardim istemek",rica_etmek
+"bir durumda kendini tehlikeye atmak",riske_girmek
+"riski goze almak.",riski_girmek
+"tehlikeli bir karar vermek",riski_girmek
+"bir durumu mumkun kilmak",saglamak
+"onleyici seyleri yok ederek  kaldirarak ya da gereken uygun durumu  kosullari hazirlayarak bir isin olmasini gerceklestirmek.",saglamak
+"imkan vermek ",saglamak
+"bir objeyi gizlemek",saklamak
+"kimse gormesin diye gizli bir yere koymak ya da ustunu ortmek.",saklamak
+"bir seyi bir kisiden gizlemek",saklamak
+"zarar vermek",saldirmak
+"bir kimseye ya da bir seye karsi  silahli ya da silahsiz olarak  zarar verici bir davranista bulunmak.",saldirmak
+"bir seye kisiye karsi incitici sekilde davranmak",saldirmak
+"yanlis anlamak",sanmak
+"karsitinin da olasiligini dusunmekle birlikte  bir seyin soyle ya da boyle oldugunu dusunmek  olabilecegine daha cok inanmak.",sanmak
+"bir durumu farkli dusunmek",sanmak
+"baska bir yone yonelmek",sapmak
+"yonunu  dogrultusunu degistirmek.",sapmak
+"bir yoldan farkli bir yola gecmek",sapmak
+"bir durumun farkina varmak",saptamak
+"bir seyi bir yere baglanmis  saplanmis gibi kimildayamaz duruma getirmek.",saptamak
+"bir seyin ne oldugunu bulmak",saptamak
+"melodili ses",sarki_soylemek
+"belirli bir ahenk ile ses cikarmak",sarki_soylemek
+"sesle yapilan bir eylem ",sarki_soylemek
+"etraflica ortmek",sarmak
+"cevresini cevirmek  cevresine dolanmak.",sarmak
+"bir seyi rulo haline getirmek",sarmak
+"on kosul",sart
+"kosul",sart
+"sozlesmede taraflarin uymayi taahhut ettikleri hususlarin kayda gecirildigi belgedir.",sart
+"beklenmedik bir durumla karsilasinca verilen tepki",sasirmak
+"beklenmedik durumlara karsi tepki vermek",sasirmak
+"insani bir duygu ",sasirmak
+"yanlis tercih yapmak",sasmak
+"soka girmek",sasmak
+"insani bir duygu ",sasmak
+"bir malin bedelini odemek",satin_almak
+"uretim icin gerekli her cesit malzeme  techizat  urun ve hizmetlerin temin edilmesi ile ilgili faaliyetlerin sorumlulugunu tasiyan ve malzeme yonetiminin pazar ile olan iliskisini meydana getiren bir fonksiyonlar dizisidir",satin_almak
+"bir hizmeti ya da mali para karsiliginda elde etmek",satin_almak
+"bir malin bedelini almak",satmak
+"bir mali  bedelini odeyen bir aliciya vermek.",satmak
+"bir hizmeti ya da mali para karsiligi vermek",satmak
+"catismaya girmek",savasmak
+"(İki veya daha cok devlet) Birbiriyle silâhli carpismaya girismek  harbetmek  muhârebe etmek.",savasmak
+"iki farkli toplulugun guc yarisi",savasmak
+"bir duruma karsi kendini koruma",savunmak
+"mudafaa etmek",savunmak
+"Savunma saldiriyi onleme icin yapilan harekettir.",savunmak
+"siraya koymak",saymak
+"adet saptamak",saymak
+"Sayma  sonlu bir kumedeki elemanlarin sayisini bulmak icin sayma sayilarini kullanarak yapilan isleme verilen addir.",saymak
+"birini gordugunde ilk verdigimiz tepki",selamlamak
+"bir baskasini gorunce yapilan eylem",selamlamak
+"Bir kimseyle karsilasildiginda  birinin yanina gidildiginde veya yanindan uzaklasildiginda kendisine sozle veya isaretle bir nezaket gosterisi yapmak  selam vermek  esenlemek",selamlamak
+"istedigimiz durumlarda yasadigimiz duygu",sevinmek
+"mutlulugu disa vurmak",sevinmek
+"sevincli bir ruh durumuna girmek  sevinc duyumsamak.",sevinmek
+"kalben yasanan pozitif bir duygu",sevmek
+"birisine ozel ilgi duymak",sevmek
+"ozetlersek  sevgiyi bir yasanti  somut bir yasamsal surec olarak degil de  soyut bir kavram olarak goren bu tanimlamalara gore sevgi  bir kisiye ya da bir seye karsi duyulan ilgi  baglilik  ictenlikli yakinlik duygusu  derin sevecenlik; o kisinin ya da seyin iyiligini isteme  ona icten baglanmadir.",sevmek
+"bir yerden bir yere farkli amaclarla gitmek",seyahat_etmek
+"yolculuk yapmak",seyahat_etmek
+"genellikle uzak yerleri gezip gormek eregiyle yolculuk yapmak.",seyahat_etmek
+"goz ile takip etmek",seyretmek
+"bir sure izlemek",seyretmek
+"bir seyin olusumunu  durumunu gozlemek  bir seye bakmak.",seyretmek
+"guven buldugun alanlara gitmek",siginmak
+"kendini guvence altina almak",siginmak
+"yagmurdan  gunesten ya da cesitli tehlikelerden kacarak guvenli bir yere cekilmek.",siginmak
+"memnun olunmaya durum karsisinda tepki gostermek",sikayet_etmek
+"memnuniyetsizligi dile getirmek",sikayet_etmek
+"sizlanmak  yakinmak.",sikayet_etmek
+"konuya olaya duruma ilgi duymamak",sikilmak
+"ilgi kaybetmek",sikilmak
+"sikmak eylemine konu olmak",sikilmak
+"basari orani icin yapilan olcum",sinava_girmek
+"degerlendirmeye tabi tutulmak",sinava_girmek
+"bir seye hazirlanmak.",sinava_girmek
+"yapilabilirlik  yapilamazlik alanlarini cizmek",sinirlamak
+"limit koymak",sinirlamak
+"inirini belirlemek  sinir cekmek.",sinirlamak
+"duygu durum paylasimi",sohbet_etmek
+"bir konu uzerinden iletisim kurmak",sohbet_etmek
+"konusmak iletisim kurmak",sohbet_etmek
+"bir hayvanin yaptigi can acitici hadise",sokmak
+"arinin ignesini baska bir yere yerlestirmesi",sokmak
+"icine ya da arasina girmesini saglamak.",sokmak
+"bir durumu sonlandirmak",son_vermek
+"artik devam etmemek",son_vermek
+"sonuclandirmak",son_vermek
+"bir durumun kendiliginden sonlanmasi",sona_ermek
+"tukenmek",sona_ermek
+"bitis",sona_ermek
+"agizla yapilan faaliyet",soylemek
+"ifade etmek",soylemek
+"birine bir sey anlatmak",soylemek
+"bir konu hakkinda teminat vermek",soz_vermek
+"taahhut etmek",soz_vermek
+"birine karsi yerine getirmek zorunda oldugun eylem",soz_vermek
+"zinde olabilmek icin hareket etmek",spor_yapmak
+"yuksek tempolu bedensel aktivitede bulunmak",spor_yapmak
+"saglikli yasam icin yapilan eylem",spor_yapmak
+"bir durumun dogrulugundan emin olmamak",suphe_etmek
+"guven duymamak",suphe_etmek
+"suphe veya kusku  bir insanin  bir olay karsisinda duydugu emin olamama duygusu veya guvensizlik duygusudur",suphe_etmek
+"faaliyete devam etmek",surdurmek
+"devam etmek",surdurmek
+"devam ettirmek",surdurmek
+"bir yerden bir yere gitmek icin yapilan eylem",surmek
+"yonlendirmek",surmek
+"onune katip goturmek.",surmek
+"bir durumun giris gelisme ve sonuc asamalarini izlemek",takip_etmek
+"",takip_etmek
+"bir seyin izinde olmak ",takip_etmek
+"bir nesneyi bir yere yerlestirmek",takmak
+"tutturmak",takmak
+"koru korune baglilik",takmak
+"bilinmeyen birisi hakkinda ilk kez bilgi edinmek",tanismak
+"yabanci olunan birisi hakkinda karsilikli bilgi edinmek",tanismak
+"ilk gordugun kisilerle olan bir eylem ",tanismak
+"birileri arasinda baglanti kurmak",tanistirmak
+"tanismaya aracilik etmek",tanistirmak
+"daha once birbirini tanimayan kimselerin) tanismalarini saglamak.",tanistirmak
+"bir yerden bir yere nakliyat",tasimak
+"bir seyi baska bir noktaya tasimak",tasimak
+"bir yerden bir yere kaldirma",tasimak
+"bir durum hakkinda deneyimlerinden ornek vermek",tavsiye_etmek
+"onermek",tavsiye_etmek
+"irine  bir seyin yapilmasini ya da yapilmamasini ogutlemek  yol gostermek.",tavsiye_etmek
+"davetiye vermek",teklif_etmek
+"oneride bulunmak",teklif_etmek
+"birine bir seyi kendi istegi disinda  verme ",teklif_etmek
+"anlasilmayan bir durum hakkinda birden fazla kez ustunden gecmek",tekrar_etmek
+"yeniden yapmak",tekrar_etmek
+"ayni seyi birden fazla  soyleme",tekrar_etmek
+"birisi ile iletisim kurmak icin kullanilan yol",telefon_etmek
+"aramak",telefon_etmek
+"bir kisiyi aramak",telefon_etmek
+"fiziksel etkilesim de bulunmak",temas_etmek
+"dokunmak",temas_etmek
+"dokunmak ",temas_etmek
+"fiziksel etkilesim icin baglanti olusturmak",temas_kurmak
+"iletisime gecmek",temas_kurmak
+"iletisim icine girmek ",temas_kurmak
+"yeni bir sey saglamak",temin_etmek
+"elde etmek",temin_etmek
+"Temin etmek  bir seyin gerceklesmesi icin gerekli kosullari saglamak anlamina gelir. Kelimenin bir diger anlami ise sahip olmaktir.",temin_etmek
+"hijyenik hale getirmek",temizlemek
+"kirlilik yaratan nedenleri ortadan kaldirmak",temizlemek
+"kirinden arindirmak ",temizlemek
+"bir grubu disariya ifade etmek",temsil_etmek
+"tumun bireysel olarak ornegini olusturmak",temsil_etmek
+"ir kimsenin ya da bir toplulugun verdigi yetkiyle) adina  yerine davranmak.",temsil_etmek
+"secenekler arasindan karar kilmak",tercih_etmek
+"bir seye oncelik vermek",tercih_etmek
+"bir eylemi kendi isteginle secmek ",tercih_etmek
+"bir dilden digerine anlasilir hale getirmesi",tercume_etmek
+"baska bir dile cevirmek",tercume_etmek
+"ceviri yapmak ",tercume_etmek
+"bir ust seviyeye gecmek",terfi_etmek
+"bir ust kademeye cikmak",terfi_etmek
+"is yerinde pozisyonunun degismesi ",terfi_etmek
+"yag yakmak",terlemek
+"deriden sivi gelmesi",terlemek
+"insandan salgilanan bir hormon",terlemek
+"bir durum karsisinda mutlulugunu ve minnetini ifade etmek",tesekkur_etmek
+"memnuniyeti ifade etmek",tesekkur_etmek
+"Yapilan bir iyilige veya herhangi bir harekete karsi duyulan mutlulugu ve gonul borcunu anlatma.",tesekkur_etmek
+"bir karar sonucu etkilemek",tesir_etmek
+"nufuz etmek",tesir_etmek
+"etki etmek",tesir_etmek
+"istenen yere ulastirmak",teslim_etmek
+"bir baskasina vermek",teslim_etmek
+"emanet edileni geri vermek ",teslim_etmek
+"bir duruma olan inanci artirmak icin yureklendirmek",tesvik_etmek
+"azmettirmek",tesvik_etmek
+"bir olgunun yapilmasini saglamak",tesvik_etmek
+"vucut tepkimesi",titremek
+"seri bicimde sallanmak",titremek
+"usurken verilen bir refleks",titremek
+"matematiksel islem",toplamak
+"bir araya getirmek",toplamak
+"tek tek durumdaki seyleri bir araya getirmek.",toplamak
+"bir araya getirmek birlestirmek",toplamak
+"bir araya gelmek",toplanmak
+"bir araya gelmek",toplanmak
+"bir seyi saklamak",tutmak
+"eline almak elde bulundurmak",tutmak
+"hakli bir sebeple alikoymak",tutuklamak
+"hapsetmek",tutuklamak
+"gokyuzunde salinmak  ayaklarin yerden kesilmesi",ucmak
+"havada yol  almak",ucmak
+"bir yere giderken baska bir yerden gecip kisa sureligine duraksamak",ugramak
+"kisa bir sureligine kalmak",ugramak
+"bir sey icin caba gostermek",ugrasmak
+"bir is uzerinde calismak",ugrasmak
+"hedefe varmak",ulasmak
+"bir yere varmak",ulasmak
+"bir seyin olmasini ummak",umit_etmek
+"bir seyin  olmasini ummak",umit_etmek
+"bir seyi umit etmek",ummak
+"bir seyin olacagini  sanmak",ummak
+"bir seyi hatirlamamak",unutmak
+"aklindan cikarmak",unutmak
+"yeni bir seyler yaratmak",uretmek
+"urun elde etmek cogaltmak",uretmek
+"vucut isisinin dusmesi",usumek
+"sogugu hissetmek",usumek
+"uykudan kalkmak",uyanmak
+"uykudan kalkmak",uyanmak
+"bir sey icin ikazda bulunmak",uyarmak
+"ikaz etmek",uyarmak
+"bir seyi hayata gecirmek",uygulamak
+"geregini yapmak",uygulamak
+"bir seyin tam olmasi",uymak
+"birseyin geregini yapmak",uymak
+"gozlerini kapatarak dinlenmek",uyumak
+"uyku durumunda olmak",uyumak
+"dinlenmek icin bir yerde yata pozisyonda uyumadan durmak",uzanmak
+"bir seye erismek",uzanmak
+"ayrintisina onem gostermek",uzerinde_durmak
+"bir ise onem vermek",uzerinde_durmak
+"duygusal olarak negatif olmak",uzulmek
+"mutsuz olmak",uzulmek
+"fiziksel olarak bulunmak",var_olmak
+"bulunmak  yasamak",var_olmak
+"hedefe erisimde bulunmak",varmak
+"bir yere ulasmak",varmak
+"bir seyden caymak",vazgecmek
+"bir seyi artik istememek",vazgecmek
+"bir seyi baska birine ulastirmak",vermek
+"bir seyi birisine ulastirmak",vermek
+"el ile hizli bir itiste bulunmak",vurmak
+"birseye  birine darbe indirmek",vurmak
+"yogun bir sekilde akmak",yagmak
+"gokten dusmek",yagmak
+"tutmak  elde etmek",yakalamak
+"kacan birseyi  ele gecirmek",yakalamak
+"yakinlasmak",yaklasmak
+"mesafeyi azaltmak",yaklasmak
+"isiyla birlestirmek",yakmak
+"atese vermek",yakmak
+"dogrulugunu inkar etmek",yalanlamak
+"inkar etmek",yalanlamak
+"cevap vermek",yanit_vermek
+"cevaplamak",yanit_vermek
+"cevaplamak",yanitlamak
+"cevaplamak",yanitlamak
+"cevap vermemek",yanitsiz_birakmak
+"cevaplamamak",yanitsiz_birakmak
+"isiyla kul olmak",yanmak
+"tutusmak",yanmak
+"eylemek",yapmak
+"bir isle ugrasmak olusturmak",yapmak
+"var olmayan birseyi ortaya koymak",yaratmak
+"olmayan bir seyi var etmek",yaratmak
+"bir eylemin yapilmasina engel olmak",yasaklamak
+"bir seyin yapilmasini soylenmesini sonucunda yaptirim uygulayarak engellemek",yasaklamak
+"yapilmasinin kabul gormedigi eylemler icin kullanilir",yasaklanmak
+"bir seyin gerceklesmesine izin verilmemesi",yasaklanmak
+"hayat surmek  yer yuzunde vakit gecirmek",yasamak
+"yasam fonksiyonlarinin devam etmesi  hayatta kalmak",yasamak
+"zihinsel olarak ve fiziksel olarak yorulmak  ",yaslanmak
+"bir canlinin uzun suredir hayatini devam ettirmesi",yaslanmak
+"kazanc icin gelirinin bir kismini ayirmak  bir cismi bir yerin yuzeyine yerlestirmek  koymak",yatirmak
+"odeme yapmak",yatirmak
+"uyumak  dinlenmek",yatmak
+"yatay pozisyona gecmek",yatmak
+"birseyleri serpistirmek  gelisiguzel sacmak",yaymak
+"bir seyin daha fazla kisi tarafindan bilinmesini saglamak",yaymak
+"bir cisim ile iletisim icin isaretlemeler yapmak",yazmak
+"kalem ya da klavye araciligi ile sozlerin karakterlerle ifade edilmesi",yazmak
+"yeme eyleminin gerceklesmesi icin birine yardim etmek",yedirmek
+"bir baskasinin yemesini saglamak",yedirmek
+"fozyolojik olarak vucudun ihtiyac duydugu enerjiyi oral yolla almak",yemek_yemek
+"hayati fonksiyonlarin devam edebilmesi icin vucuda besin alinmasi",yemek_yemek
+"maglup etmek",yenmek
+"bir durumda baskasindan ustun konuma gelmek  kazanmak",yenmek
+"bir olayin veya olusumun icinde bulunmak",yer_almak
+"bir ortama dahil olmak  fiziksel olarak bulunmak",yer_almak
+"nezaketen birine oturudugu yeri sunmak",yer_vermek
+"bir konuyu kisiyi bir seye dahil etmek",yer_vermek
+"uygulamak",yerine_getirmek
+"bir gorevi basariyla tamamlamak",yerine_getirmek
+"vakitlice bir yerde olabilmek  kisisel ve fiziksel olarak buyumek",yetismek
+"zaman kisiti olan bir seyi zamanindan once yapmak ya da bulunmak  yakalamak",yetismek
+"bir seyin fizyolojik veya mental olarak gelismesini saglamak",yetistirmek
+"bir canlinin gelismesini buyumesini saglamak",yetistirmek
+"bir canlinin gelismesini buyumesini saglamak",yetistirmek
+"temizlemek",yikamak
+"bir seyi su yardimiyla temizlemek",yikamak
+"kirmak  yerle bir etmek  zarar vermek",yikmak
+"duz ya da dik duran bir nesneyi guc kullanarak dusurmek  kullanilmaz hale getirmek",yikmak
+"sebep olmak",yol_acmak
+"bir seye sebep olmak",yol_acmak
+"seyahat etmek",yolculuk_yapmak
+"bir tasit yardimiyla bir yerden baska bir yere gitmek",yolculuk_yapmak
+"bir nesneyi bir yerden digerine gondermek",yollamak
+"bir seyin bir yerden bir yere gitmesini saglamak",yollamak
+"sorumlu olmak  idare etmek",yonetmek
+"bir kisi ya da kisileri belli bir amac icin yonlendirmek ya da liderlik etmek",yonetmek
+"is yukunden dolayi mental ya da fiziksel gerilik durumu",yorulmak
+"yapilan bir isten ya da hareketten bedenin dayanma gucunun azalmasi ya da bitmesi",yorulmak
+"daha iyi bir duruma gelmek  yerden uzaklasmak",yukselmek
+"bulunulan yerden yukari dogru hareket etmek",yukselmek
+"ulasim icin yaya olarak bir yerden bir yere gitmek",yurumek
+"bacak ve ayaklar kullanilarak yavas tempoda bir yerden bir yere gitmek ya da konum degistirmek",yurumek
+"birinin bir yere gidebilmesini saglamak  bir isin meydana getirilmesi",yurutmek
+"bir kisinin ya da isin yurumesini ya da ilerlemesini saglamak",yurutmek
+"su uzerinde seyir etmek",yuzmek
+"su icerisinde ya da yuzeyinde kol ve bacak hareketleriyle yol almak",yuzmek
+"ugrasmak  nezaket gostermek",zahmet_etmek
+"bir isi yapmak icin ekstra efor sarf etmek  kendini o isi yapmak icin zorlamak",zahmet_etmek
+"aksini dusunmek  net kavrayamamak",zannetmek
+"bir durumun oldugundan farkli bir sekilde sonuclandigini ya da oldugunu dusunmek",zannetmek
+"ekonomik olarak yara almak",zarar_etmek
+"bulunulan konumdan statuden daha asagi duruma dusmek ya da kayip yasamak",zarar_etmek
+"heba etmek  bir seyi vaktinden once kullanamayip ondan gerekli faydalanmayi saglayamamak",ziyan_etmek
+"bir seyi ya da durumu daha faydali sekilde kullanabilecekken bosa cikarmak  olabileceginden daha kotu sekilde degerlendirmek",ziyan_etmek
+"insanlari yasadiklari yerde ya da mintiklarinda gormeye gitmek",ziyaret_etmek
+"fiziksel olarak ayni ortamda bulunulmayan birinin bulundugu konuma gitmek",ziyaret_etmek
+"potansiyelini asmak",zorlamak
+"birine bir seyi istegi disinda yaptirmak ya da yapmasi icin baski yapmak",zorlamak
+"sikinti yasamak  guclukler ile ugrasmak",zorluk_cekmek
+"bir seyi kolay yoldan yapamamak  fiziksel ya da dusunsel olarak guclu hissetmemek",zorluk_cekmek
+"caresizce birseyi yapmak  alternatif baska bir opsiyonun olmamasi durumu",zorunda_olmak
+"bir seyi kendi istegi sorulmaksizin kurallar geregi yapmak ya da yapmamak",zorunda_olmak
